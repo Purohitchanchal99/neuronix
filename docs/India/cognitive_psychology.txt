@@ -1,0 +1,85 @@
+Sample Psychology Textbook - Cognitive Psychology
+
+Chapter 1: Introduction to Cognitive Psychology
+
+Cognitive psychology is the scientific study of the mind and how it processes information. 
+It examines how we acquire, store, retrieve and use knowledge. This field emerged in the 
+1950s as a reaction to behaviorism's limitation of studying only observable behavior.
+
+Key Topics in Cognitive Psychology:
+- Attention and perception
+- Memory formation and retrieval
+- Language processing
+- Problem solving and reasoning
+- Decision making and judgment
+
+Chapter 2: Memory Systems
+
+Memory is the cognitive process that encodes, stores, and retrieves information. 
+Psychologists recognize three main memory systems: sensory memory, short-term memory, 
+and long-term memory.
+
+Sensory Memory:
+Sensory memory holds brief impressions of sensory information. Visual sensory memory, 
+called iconic memory, typically lasts less than one second. Auditory sensory memory, 
+called echoic memory, typically lasts a few seconds.
+
+Short-Term Memory:
+Short-term memory (STM) holds information for brief periods, typically about 30 seconds. 
+STM has a limited capacity, generally able to hold about 7 plus or minus 2 items 
+(Miller's Magic Number).
+
+Long-Term Memory:
+Long-term memory (LTM) represents our relatively permanent storage system for information. 
+Unlike short-term memory, long-term memory has virtually unlimited capacity. LTM stores 
+explicit (declarative) memories and implicit (procedural) memories.
+
+Chapter 3: Attention
+
+Attention is the cognitive process of concentrating on specific aspects of the 
+environment while ignoring other aspects. Selective attention allows us to focus on 
+relevant information while filtering out irrelevant information.
+
+Models of Attention:
+1. Spotlight model - attention focuses on one area at a time
+2. Multiple resources theory - different types of tasks use different cognitive resources
+3. Perceptual load theory - capacity for attention depends on the perceptual demands of tasks
+
+Chapter 4: Language and Thought
+
+Language is a system of symbols and rules for combining those symbols to generate 
+meaningful communication. Human language is unique in its complexity and capacity 
+to express abstract concepts.
+
+Language Acquisition:
+Children acquire language through a combination of biological preparedness and 
+environmental exposure. The critical period for language acquisition appears to be 
+during early childhood, with some debate about whether it extends through adolescence.
+
+Language Development:
+- Phonological development (sound system)
+- Semantic development (meaning)
+- Syntactic development (grammar and word order)
+- Pragmatic development (social use of language)
+
+Chapter 5: Problem Solving and Decision Making
+
+Problem solving involves finding a way to reach a goal that is not initially available. 
+Decision making involves selecting among alternatives, each with its own consequences.
+
+Problem-Solving Strategies:
+1. Trial and error - unsystematic attempts
+2. Algorithm - step-by-step procedure guaranteeing a solution
+3. Heuristics - mental shortcuts that usually work but don't guarantee solutions
+4. Means-end analysis - breaking down the problem into subgoals
+
+Common Cognitive Biases in Decision Making:
+- Confirmation bias - seeking information confirming existing beliefs
+- Availability heuristic - judging probability based on ease of recall
+- Anchoring bias - relying too heavily on initial information
+- Mental set - tendency to use same approach regardless of effectiveness
+
+Conclusion:
+Cognitive psychology provides essential insights into how the human mind acquires, 
+processes, stores and uses information. Understanding cognitive processes is fundamental 
+to understanding human behavior and developing interventions for cognitive disorders.

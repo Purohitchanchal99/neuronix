@@ -1,0 +1,254 @@
+
+================================================================================
+NEURONIX DOWNLOADER - SUMMARY REPORT
+================================================================================
+Generated: 2026-04-22 19:51:59
+
+STATISTICS:
+-----------
+Total Files Downloaded: 220
+Failed Downloads: 0
+Items for Manual Review: 84
+
+DOWNLOADED FILES:
+-----------------
+
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_States\General Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_States\Cognitive Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_States\Social Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_States\Personality Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_States\Abnormal Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_States\Research Methods & Ethics_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_States\Health Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_States\Experimental Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_States\Biological Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_States\Lab Work _ Practical_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_States\Developmental Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_States\History of Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_States\Human Development_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_States\Foundations of Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_States\Applied Statistics_IntroductoryStatistics-OP.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_Kingdom\General Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_Kingdom\Cognitive Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_Kingdom\Social Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_Kingdom\Personality Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_Kingdom\Abnormal Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_Kingdom\Research Methods & Ethics_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_Kingdom\Health Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_Kingdom\Experimental Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_Kingdom\Biological Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_Kingdom\Lab Work _ Practical_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_Kingdom\Developmental Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_Kingdom\History of Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_Kingdom\Human Development_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_Kingdom\Foundations of Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_Kingdom\Applied Statistics_IntroductoryStatistics-OP.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Canada\General Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Canada\Cognitive Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Canada\Social Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Canada\Personality Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Canada\Abnormal Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Canada\Research Methods & Ethics_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Canada\Health Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Canada\Experimental Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Canada\Biological Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Canada\Lab Work _ Practical_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Canada\Developmental Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Canada\History of Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Canada\Human Development_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Canada\Foundations of Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Canada\Applied Statistics_IntroductoryStatistics-OP.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Australia\General Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Australia\Cognitive Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Australia\Social Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Australia\Personality Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Australia\Abnormal Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Australia\Research Methods & Ethics_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Australia\Health Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Australia\Experimental Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Australia\Biological Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Australia\Lab Work _ Practical_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Australia\Developmental Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Australia\History of Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Australia\Human Development_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Australia\Foundations of Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Australia\Applied Statistics_IntroductoryStatistics-OP.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\India\General Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\India\Cognitive Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\India\Social Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\India\Personality Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\India\Abnormal Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\India\Research Methods & Ethics_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\India\Health Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\India\Experimental Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\India\Biological Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\India\Lab Work _ Practical_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\India\Developmental Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\India\History of Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\India\Human Development_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\India\Foundations of Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\India\Applied Statistics_IntroductoryStatistics-OP.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Germany\General Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Germany\Cognitive Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Germany\Social Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Germany\Personality Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Germany\Abnormal Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Germany\Research Methods & Ethics_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Germany\Health Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Germany\Experimental Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Germany\Biological Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Germany\Lab Work _ Practical_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Germany\Developmental Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Germany\History of Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Germany\Human Development_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Germany\Foundations of Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Germany\Applied Statistics_IntroductoryStatistics-OP.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\France\General Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\France\Cognitive Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\France\Social Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\France\Personality Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\France\Abnormal Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\France\Research Methods & Ethics_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\France\Health Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\France\Experimental Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\France\Biological Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\France\Lab Work _ Practical_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\France\Developmental Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\France\History of Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\France\Human Development_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\France\Foundations of Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\France\Applied Statistics_IntroductoryStatistics-OP.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Netherlands\General Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Netherlands\Cognitive Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Netherlands\Social Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Netherlands\Personality Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Netherlands\Abnormal Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Netherlands\Research Methods & Ethics_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Netherlands\Health Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Netherlands\Experimental Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Netherlands\Biological Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Netherlands\Lab Work _ Practical_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Netherlands\Developmental Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Netherlands\History of Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Netherlands\Human Development_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Netherlands\Foundations of Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Netherlands\Applied Statistics_IntroductoryStatistics-OP.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Sweden\General Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Sweden\Cognitive Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Sweden\Social Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Sweden\Personality Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Sweden\Abnormal Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Sweden\Research Methods & Ethics_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Sweden\Health Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Sweden\Experimental Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Sweden\Biological Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Sweden\Lab Work _ Practical_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Sweden\Developmental Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Sweden\History of Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Sweden\Human Development_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Sweden\Foundations of Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Sweden\Applied Statistics_IntroductoryStatistics-OP.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Finland\General Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Finland\Cognitive Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Finland\Social Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Finland\Personality Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Finland\Abnormal Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Finland\Research Methods & Ethics_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Finland\Health Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Finland\Experimental Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Finland\Biological Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Finland\Lab Work _ Practical_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Finland\Developmental Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Finland\History of Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Finland\Human Development_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Finland\Foundations of Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Finland\Applied Statistics_IntroductoryStatistics-OP.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Norway\General Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Norway\Cognitive Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Norway\Social Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Norway\Personality Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Norway\Abnormal Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Norway\Research Methods & Ethics_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Norway\Health Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Norway\Experimental Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Norway\Biological Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Norway\Lab Work _ Practical_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Norway\Developmental Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Norway\History of Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Norway\Human Development_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Norway\Foundations of Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Norway\Applied Statistics_IntroductoryStatistics-OP.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Switzerland\General Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Switzerland\Cognitive Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Switzerland\Social Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Switzerland\Personality Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Switzerland\Abnormal Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Switzerland\Research Methods & Ethics_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Switzerland\Health Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Switzerland\Experimental Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Switzerland\Biological Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Switzerland\Lab Work _ Practical_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Switzerland\Developmental Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Switzerland\History of Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Switzerland\Human Development_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Switzerland\Foundations of Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Switzerland\Applied Statistics_IntroductoryStatistics-OP.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\South_Korea\General Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\South_Korea\Cognitive Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\South_Korea\Social Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\South_Korea\Personality Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\South_Korea\Abnormal Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\South_Korea\Research Methods & Ethics_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\South_Korea\Health Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\South_Korea\Experimental Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\South_Korea\Biological Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\South_Korea\Lab Work _ Practical_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\South_Korea\Developmental Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\South_Korea\History of Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\South_Korea\Human Development_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\South_Korea\Foundations of Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\South_Korea\Applied Statistics_IntroductoryStatistics-OP.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Spain\Foundations of Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Italy\History of Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Italy\Cognitive Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Italy\Social Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Italy\Personality Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Italy\Abnormal Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Italy\Research Methods & Ethics_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Italy\Health Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Italy\Experimental Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Italy\Biological Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Italy\Lab Work _ Practical_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Italy\Developmental Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Italy\Applied Statistics_IntroductoryStatistics-OP.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Japan\History of Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Japan\Cognitive Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Japan\Social Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Japan\Personality Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Japan\Abnormal Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Japan\Research Methods & Ethics_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Japan\Health Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Japan\Experimental Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Japan\Biological Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Japan\Lab Work _ Practical_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Japan\Developmental Psychology_Psychology2e_WEB.pdf
+  ✓ C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Japan\Applied Statistics_IntroductoryStatistics-OP.pdf
+
+FAILED DOWNLOADS:
+-----------------
+
+  (No failures)
+
+MANUAL REVIEW ITEMS:
+--------------------
+
+  See C:\Users\admin\Desktop\desktop\NEURO_MENTAL\scripts\manual_review_links.txt for details
+
+NOTES:
+------
+- Downloaded files are organized by country in the /docs folder
+- Manual review file: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\scripts\manual_review_links.txt
+- Log file: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\scripts\download_log.txt
+- Review the manual review file to download remaining resources
+
+================================================================================

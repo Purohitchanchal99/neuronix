@@ -1,0 +1,7 @@
+{
+  "n_cases": 3,
+  "latency_p50": 137.46988249999413,
+  "latency_mean": 112.2974119666663,
+  "avg_grounding_accuracy": 0,
+  "crisis_recall": 1.0
+}

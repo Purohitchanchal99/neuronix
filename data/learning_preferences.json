@@ -1,0 +1,45 @@
+{
+  "language_preference": "Hinglish",
+  "tone_preference": "casual",
+  "response_length_preference": "detailed",
+  "common_topics": [],
+  "satisfaction_rate": 0.0,
+  "total_interactions": 0,
+  "helpful_interactions": 0,
+  "length_score_short": 0.0,
+  "length_score_detailed": 0.4744587343039021,
+  "tone_score_casual": 14.656151394438119,
+  "tone_score_formal": 0.0,
+  "topics": {
+    "stress": {
+      "length_score_short": 0,
+      "length_score_detailed": 0,
+      "total_asks": 3
+    },
+    "general": {
+      "length_score_short": 0,
+      "length_score_detailed": 0,
+      "total_asks": 5
+    },
+    "anger": {
+      "length_score_short": 0,
+      "length_score_detailed": 0,
+      "total_asks": 2
+    },
+    "depression": {
+      "length_score_short": 0,
+      "length_score_detailed": 2.0,
+      "total_asks": 42
+    },
+    "anxiety": {
+      "length_score_short": 0,
+      "length_score_detailed": 0,
+      "total_asks": 25
+    },
+    "sleep": {
+      "length_score_short": 0,
+      "length_score_detailed": 0,
+      "total_asks": 16
+    }
+  }
+}

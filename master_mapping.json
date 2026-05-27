@@ -1,0 +1,2026 @@
+{
+  "metadata": {
+    "description": "Master mapping of countries to psychology subjects with paid/free textbook status",
+    "last_updated": "2026-04-21",
+    "status_legend": {
+      "0": "Free Alternative Available",
+      "1": "Paid Textbook (redirect to free alternative)"
+    }
+  },
+  "countries": {
+    "US": {
+      "country_code": "ðŸ‡ºðŸ‡¸",
+      "full_name": "United States",
+      "subjects": {
+        "general_psychology": {
+          "subject_name": "General Psychology",
+          "paid_book": "General Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "cognitive_psychology": {
+          "subject_name": "Cognitive Psychology",
+          "paid_book": "Cognitive Psychology",
+          "status": 1,
+          "free_alternative": "https://nobaproject.com/textbooks/cognitive-psychology-a-student-friendly-introduction, https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "social_psychology": {
+          "subject_name": "Social Psychology",
+          "paid_book": "Social Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d, https://nobaproject.com/textbooks"
+        },
+        "personality_psychology": {
+          "subject_name": "Personality Psychology",
+          "paid_book": "Personality Theories",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d, https://nobaproject.com/textbooks"
+        },
+        "abnormal_psychology": {
+          "subject_name": "Abnormal Psychology",
+          "paid_book": "Abnormal Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "research_methods": {
+          "subject_name": "Research Methods & Ethics",
+          "paid_book": "Research Methods in Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d, https://owl.purdue.edu/owl/research_and_citation/research_process/index.html"
+        },
+        "health_psychology": {
+          "subject_name": "Health Psychology",
+          "paid_book": "Health Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d, https://nobaproject.com/textbooks/health-psychology-an-introduction"
+        },
+        "experimental_psychology": {
+          "subject_name": "Experimental Psychology",
+          "paid_book": "Experimental Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "biological_psychology": {
+          "subject_name": "Biological Psychology",
+          "paid_book": "Biopsychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "lab_work": {
+          "subject_name": "Lab Work / Practical",
+          "paid_book": "Laboratory Experiments in Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "developmental_psychology": {
+          "subject_name": "Developmental Psychology",
+          "paid_book": "Development Through the Lifespan",
+          "status": 1,
+          "free_alternative": "https://nobaproject.com/textbooks/human-lifespan-development, https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "history_of_psychology": {
+          "subject_name": "History of Psychology",
+          "paid_book": "A History of Modern Psychology",
+          "status": 1,
+          "free_alternative": "https://nobaproject.com/textbooks/the-history-of-psychology"
+        },
+        "research_skills": {
+          "subject_name": "Research Skills",
+          "paid_book": "The Craft of Research",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html, https://ocw.mit.edu/search/?q=research"
+        },
+        "human_development": {
+          "subject_name": "Human Development",
+          "paid_book": "Life-Span Development",
+          "status": 1,
+          "free_alternative": "https://nobaproject.com/textbooks/human-lifespan-development, https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "general_biology": {
+          "subject_name": "General Biology",
+          "paid_book": "Campbell Biology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/a5832c47ab5cf09b6dd19d2c87bf1e0301a4b5e3"
+        },
+        "foundations_psychology": {
+          "subject_name": "Foundations of Psychology",
+          "paid_book": "Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "clinical_psychology": {
+          "subject_name": "Clinical Psychology",
+          "paid_book": "Clinical Psychology: Science, Practice, and Diversity",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d, https://nobaproject.com/textbooks"
+        },
+        "counselling_psychology": {
+          "subject_name": "Counselling Psychology",
+          "paid_book": "Theory and Practice of Counseling and Psychotherapy",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "statistics": {
+          "subject_name": "Applied Statistics",
+          "paid_book": "Statistics for the Behavioral Sciences",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/59a36a12beda22e37ffd2ad77c31eae3f8a9aaec"
+        },
+        "advanced_research": {
+          "subject_name": "Advanced Research Methods",
+          "paid_book": "Research Design",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html, https://ocw.mit.edu/search/?q=research+methods"
+        },
+        "psychological_testing": {
+          "subject_name": "Psychological Testing / Assessment",
+          "paid_book": "Psychological Testing and Assessment",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "thesis_project": {
+          "subject_name": "Thesis / Project",
+          "paid_book": "Writing Your Psychology Research Paper",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/index.html"
+        }
+      }
+    },
+    "UK": {
+      "country_code": "ðŸ‡¬ðŸ‡§",
+      "full_name": "United Kingdom",
+      "subjects": {
+        "general_psychology": {
+          "subject_name": "General Psychology",
+          "paid_book": "General Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "cognitive_psychology": {
+          "subject_name": "Cognitive Psychology",
+          "paid_book": "Cognitive Psychology: A Student's Handbook",
+          "status": 1,
+          "free_alternative": "https://nobaproject.com/textbooks/cognitive-psychology-a-student-friendly-introduction"
+        },
+        "social_psychology": {
+          "subject_name": "Social Psychology",
+          "paid_book": "Introducing Social Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "personality_psychology": {
+          "subject_name": "Personality Psychology",
+          "paid_book": "Personality Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "abnormal_psychology": {
+          "subject_name": "Abnormal Psychology",
+          "paid_book": "Abnormal Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "research_methods": {
+          "subject_name": "Research Methods & Ethics",
+          "paid_book": "Research Methods and Statistics",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html"
+        },
+        "health_psychology": {
+          "subject_name": "Health Psychology",
+          "paid_book": "Health Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "experimental_psychology": {
+          "subject_name": "Experimental Psychology",
+          "paid_book": "Experimental Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "biological_psychology": {
+          "subject_name": "Biological Psychology",
+          "paid_book": "Biological Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "lab_work": {
+          "subject_name": "Lab Work / Practical",
+          "paid_book": "Practical Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "developmental_psychology": {
+          "subject_name": "Developmental Psychology",
+          "paid_book": "Developmental Psychology",
+          "status": 1,
+          "free_alternative": "https://nobaproject.com/textbooks/human-lifespan-development"
+        },
+        "history_of_psychology": {
+          "subject_name": "History of Psychology",
+          "paid_book": "The Story of Psychology",
+          "status": 1,
+          "free_alternative": "https://nobaproject.com/textbooks/the-history-of-psychology"
+        },
+        "research_skills": {
+          "subject_name": "Research Skills",
+          "paid_book": "The Craft of Research",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html, https://ocw.mit.edu/search/?q=research"
+        },
+        "human_development": {
+          "subject_name": "Human Development",
+          "paid_book": "Child Development",
+          "status": 1,
+          "free_alternative": "https://nobaproject.com/textbooks/human-lifespan-development"
+        },
+        "general_biology": {
+          "subject_name": "General Biology",
+          "paid_book": "Biology: A Global Approach",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/a5832c47ab5cf09b6dd19d2c87bf1e0301a4b5e3"
+        },
+        "foundations_psychology": {
+          "subject_name": "Foundations of Psychology",
+          "paid_book": "Psychology: The Science of Mind and Behaviour",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "clinical_psychology": {
+          "subject_name": "Clinical Psychology",
+          "paid_book": "Clinical Psychology: An Introduction",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "counselling_psychology": {
+          "subject_name": "Counselling Psychology",
+          "paid_book": "An Introduction to Counselling",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "statistics": {
+          "subject_name": "Applied Statistics",
+          "paid_book": "Statistics in Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/59a36a12beda22e37ffd2ad77c31eae3f8a9aaec"
+        },
+        "advanced_research": {
+          "subject_name": "Advanced Research Methods",
+          "paid_book": "Doing Your Research Project",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html"
+        },
+        "psychological_testing": {
+          "subject_name": "Psychological Testing / Assessment",
+          "paid_book": "Psychological Testing: A Practical Approach",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "thesis_project": {
+          "subject_name": "Thesis / Project",
+          "paid_book": "How to Write a Thesis",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/index.html"
+        }
+      }
+    },
+    "Canada": {
+      "country_code": "ðŸ‡¨ðŸ‡¦",
+      "full_name": "Canada",
+      "subjects": {
+        "general_psychology": {
+          "subject_name": "General Psychology",
+          "paid_book": "General Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "cognitive_psychology": {
+          "subject_name": "Cognitive Psychology",
+          "paid_book": "Cognition",
+          "status": 1,
+          "free_alternative": "https://nobaproject.com/textbooks/cognitive-psychology-a-student-friendly-introduction"
+        },
+        "social_psychology": {
+          "subject_name": "Social Psychology",
+          "paid_book": "Social Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "personality_psychology": {
+          "subject_name": "Personality Psychology",
+          "paid_book": "Personality",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "abnormal_psychology": {
+          "subject_name": "Abnormal Psychology",
+          "paid_book": "Psychopathology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "research_methods": {
+          "subject_name": "Research Methods & Ethics",
+          "paid_book": "Methods in Behavioral Research",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html"
+        },
+        "health_psychology": {
+          "subject_name": "Health Psychology",
+          "paid_book": "Health Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "experimental_psychology": {
+          "subject_name": "Experimental Psychology",
+          "paid_book": "Experimental Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "biological_psychology": {
+          "subject_name": "Biological Psychology",
+          "paid_book": "Neuroscience and Behavior",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "lab_work": {
+          "subject_name": "Lab Work / Practical",
+          "paid_book": "Psychology Lab Manual",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "developmental_psychology": {
+          "subject_name": "Developmental Psychology",
+          "paid_book": "Child Development",
+          "status": 1,
+          "free_alternative": "https://nobaproject.com/textbooks/human-lifespan-development"
+        },
+        "history_of_psychology": {
+          "subject_name": "History of Psychology",
+          "paid_book": "Psychology: Themes and Variations",
+          "status": 1,
+          "free_alternative": "https://nobaproject.com/textbooks/the-history-of-psychology"
+        },
+        "research_skills": {
+          "subject_name": "Research Skills",
+          "paid_book": "The Craft of Research",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html"
+        },
+        "human_development": {
+          "subject_name": "Human Development",
+          "paid_book": "Life-Span Development",
+          "status": 1,
+          "free_alternative": "https://nobaproject.com/textbooks/human-lifespan-development"
+        },
+        "general_biology": {
+          "subject_name": "General Biology",
+          "paid_book": "Campbell Biology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/a5832c47ab5cf09b6dd19d2c87bf1e0301a4b5e3"
+        },
+        "foundations_psychology": {
+          "subject_name": "Foundations of Psychology",
+          "paid_book": "Psychology: Themes and Variations",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "clinical_psychology": {
+          "subject_name": "Clinical Psychology",
+          "paid_book": "Clinical Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "counselling_psychology": {
+          "subject_name": "Counselling Psychology",
+          "paid_book": "Counselling Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "statistics": {
+          "subject_name": "Applied Statistics",
+          "paid_book": "Psychological Statistics",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/59a36a12beda22e37ffd2ad77c31eae3f8a9aaec"
+        },
+        "advanced_research": {
+          "subject_name": "Advanced Research Methods",
+          "paid_book": "Advanced Research Methods",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html"
+        },
+        "psychological_testing": {
+          "subject_name": "Psychological Testing / Assessment",
+          "paid_book": "Psychological Testing",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "thesis_project": {
+          "subject_name": "Thesis / Project",
+          "paid_book": "Research Writing",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/index.html"
+        }
+      }
+    },
+    "Australia": {
+      "country_code": "ðŸ‡¦ðŸ‡º",
+      "full_name": "Australia",
+      "subjects": {
+        "general_psychology": {
+          "subject_name": "General Psychology",
+          "paid_book": "General Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "cognitive_psychology": {
+          "subject_name": "Cognitive Psychology",
+          "paid_book": "Cognitive Psychology",
+          "status": 1,
+          "free_alternative": "https://nobaproject.com/textbooks/cognitive-psychology-a-student-friendly-introduction"
+        },
+        "social_psychology": {
+          "subject_name": "Social Psychology",
+          "paid_book": "Social Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "personality_psychology": {
+          "subject_name": "Personality Psychology",
+          "paid_book": "Personality Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "abnormal_psychology": {
+          "subject_name": "Abnormal Psychology",
+          "paid_book": "Abnormal Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "research_methods": {
+          "subject_name": "Research Methods & Ethics",
+          "paid_book": "Research Methods",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html"
+        },
+        "health_psychology": {
+          "subject_name": "Health Psychology",
+          "paid_book": "Health Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "experimental_psychology": {
+          "subject_name": "Experimental Psychology",
+          "paid_book": "Experimental Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "biological_psychology": {
+          "subject_name": "Biological Psychology",
+          "paid_book": "Biological Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "lab_work": {
+          "subject_name": "Lab Work / Practical",
+          "paid_book": "Psychology Lab Manual",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "developmental_psychology": {
+          "subject_name": "Developmental Psychology",
+          "paid_book": "Lifespan Development",
+          "status": 1,
+          "free_alternative": "https://nobaproject.com/textbooks/human-lifespan-development"
+        },
+        "history_of_psychology": {
+          "subject_name": "History of Psychology",
+          "paid_book": "Psychology: From Inquiry to Understanding",
+          "status": 1,
+          "free_alternative": "https://nobaproject.com/textbooks/the-history-of-psychology"
+        },
+        "research_skills": {
+          "subject_name": "Research Skills",
+          "paid_book": "The Craft of Research",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html"
+        },
+        "human_development": {
+          "subject_name": "Human Development",
+          "paid_book": "Life-Span Development",
+          "status": 1,
+          "free_alternative": "https://nobaproject.com/textbooks/human-lifespan-development"
+        },
+        "general_biology": {
+          "subject_name": "General Biology",
+          "paid_book": "Biology: A Global Approach",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/a5832c47ab5cf09b6dd19d2c87bf1e0301a4b5e3"
+        },
+        "foundations_psychology": {
+          "subject_name": "Foundations of Psychology",
+          "paid_book": "Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "clinical_psychology": {
+          "subject_name": "Clinical Psychology",
+          "paid_book": "Clinical Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "counselling_psychology": {
+          "subject_name": "Counselling Psychology",
+          "paid_book": "Counselling Skills and Theory",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "statistics": {
+          "subject_name": "Applied Statistics",
+          "paid_book": "Behavioral Statistics",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/59a36a12beda22e37ffd2ad77c31eae3f8a9aaec"
+        },
+        "advanced_research": {
+          "subject_name": "Advanced Research Methods",
+          "paid_book": "Research Methods",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html"
+        },
+        "psychological_testing": {
+          "subject_name": "Psychological Testing / Assessment",
+          "paid_book": "Psychological Assessment",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "thesis_project": {
+          "subject_name": "Thesis / Project",
+          "paid_book": "Thesis Writing",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/index.html"
+        }
+      }
+    },
+    "India": {
+      "country_code": "ðŸ‡®ðŸ‡³",
+      "full_name": "India",
+      "subjects": {
+        "general_psychology": {
+          "subject_name": "General Psychology",
+          "paid_book": "General Psychology",
+          "status": 0,
+          "free_alternative": "http://egyankosh.ac.in, https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "cognitive_psychology": {
+          "subject_name": "Cognitive Psychology",
+          "paid_book": "Cognitive Psychology",
+          "status": 0,
+          "free_alternative": "http://egyankosh.ac.in, https://nobaproject.com/textbooks/cognitive-psychology-a-student-friendly-introduction"
+        },
+        "social_psychology": {
+          "subject_name": "Social Psychology",
+          "paid_book": "Social Psychology",
+          "status": 0,
+          "free_alternative": "http://egyankosh.ac.in, https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "personality_psychology": {
+          "subject_name": "Personality Psychology",
+          "paid_book": "Personality Psychology",
+          "status": 0,
+          "free_alternative": "http://egyankosh.ac.in, https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "abnormal_psychology": {
+          "subject_name": "Abnormal Psychology",
+          "paid_book": "Abnormal Psychology",
+          "status": 0,
+          "free_alternative": "http://egyankosh.ac.in, https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "research_methods": {
+          "subject_name": "Research Methods & Ethics",
+          "paid_book": "Research Methodology",
+          "status": 0,
+          "free_alternative": "http://egyankosh.ac.in, https://owl.purdue.edu/owl/research_and_citation/research_process/index.html"
+        },
+        "health_psychology": {
+          "subject_name": "Health Psychology",
+          "paid_book": "Health Psychology",
+          "status": 0,
+          "free_alternative": "http://egyankosh.ac.in, https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "experimental_psychology": {
+          "subject_name": "Experimental Psychology",
+          "paid_book": "Experimental Psychology",
+          "status": 0,
+          "free_alternative": "http://egyankosh.ac.in, https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "biological_psychology": {
+          "subject_name": "Biological Psychology",
+          "paid_book": "Physiological Psychology",
+          "status": 0,
+          "free_alternative": "http://egyankosh.ac.in, https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "lab_work": {
+          "subject_name": "Lab Work / Practical",
+          "paid_book": "Practical Psychology",
+          "status": 0,
+          "free_alternative": "http://egyankosh.ac.in"
+        },
+        "developmental_psychology": {
+          "subject_name": "Developmental Psychology",
+          "paid_book": "Developmental Psychology",
+          "status": 0,
+          "free_alternative": "http://egyankosh.ac.in, https://nobaproject.com/textbooks/human-lifespan-development"
+        },
+        "history_of_psychology": {
+          "subject_name": "History of Psychology",
+          "paid_book": "History of Psychology",
+          "status": 0,
+          "free_alternative": "http://egyankosh.ac.in, https://nobaproject.com/textbooks/the-history-of-psychology"
+        },
+        "research_skills": {
+          "subject_name": "Research Skills",
+          "paid_book": "The Craft of Research",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html, https://ocw.mit.edu/search/?q=research"
+        },
+        "human_development": {
+          "subject_name": "Human Development",
+          "paid_book": "Life-Span Development",
+          "status": 1,
+          "free_alternative": "https://nobaproject.com/textbooks/human-lifespan-development, https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "general_biology": {
+          "subject_name": "General Biology",
+          "paid_book": "NCERT Biology",
+          "status": 0,
+          "free_alternative": "https://ncert.nic.in/textbook.php, https://openstax.org/apps/archive/20240401.180420/resources/a5832c47ab5cf09b6dd19d2c87bf1e0301a4b5e3"
+        },
+        "foundations_psychology": {
+          "subject_name": "Foundations of Psychology",
+          "paid_book": "Introduction to Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d, http://egyankosh.ac.in"
+        },
+        "clinical_psychology": {
+          "subject_name": "Clinical Psychology",
+          "paid_book": "Clinical Psychology",
+          "status": 0,
+          "free_alternative": "http://egyankosh.ac.in, https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "counselling_psychology": {
+          "subject_name": "Counselling Psychology",
+          "paid_book": "Guidance and Counselling",
+          "status": 0,
+          "free_alternative": "http://egyankosh.ac.in"
+        },
+        "statistics": {
+          "subject_name": "Applied Statistics",
+          "paid_book": "Statistics in Psychology",
+          "status": 0,
+          "free_alternative": "http://egyankosh.ac.in, https://openstax.org/apps/archive/20240401.180420/resources/59a36a12beda22e37ffd2ad77c31eae3f8a9aaec"
+        },
+        "advanced_research": {
+          "subject_name": "Advanced Research Methods",
+          "paid_book": "Research Methodology",
+          "status": 0,
+          "free_alternative": "http://egyankosh.ac.in, https://owl.purdue.edu/owl/research_and_citation/research_process/index.html"
+        },
+        "psychological_testing": {
+          "subject_name": "Psychological Testing / Assessment",
+          "paid_book": "Psychological Assessment",
+          "status": 0,
+          "free_alternative": "http://egyankosh.ac.in"
+        },
+        "thesis_project": {
+          "subject_name": "Thesis / Project",
+          "paid_book": "Dissertation Writing",
+          "status": 0,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/index.html"
+        }
+      }
+    },
+    "Germany": {
+      "country_code": "ðŸ‡©ðŸ‡ª",
+      "full_name": "Germany",
+      "subjects": {
+        "general_psychology": {
+          "subject_name": "General Psychology",
+          "paid_book": "General Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "cognitive_psychology": {
+          "subject_name": "Cognitive Psychology",
+          "paid_book": "Kognitive Psychologie",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "social_psychology": {
+          "subject_name": "Social Psychology",
+          "paid_book": "Sozialpsychologie",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "personality_psychology": {
+          "subject_name": "Personality Psychology",
+          "paid_book": "PersÃ¶nlichkeitspsychologie",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "abnormal_psychology": {
+          "subject_name": "Abnormal Psychology",
+          "paid_book": "Klinische Psychologie",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "research_methods": {
+          "subject_name": "Research Methods & Ethics",
+          "paid_book": "Forschungsmethoden der Psychologie",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html"
+        },
+        "health_psychology": {
+          "subject_name": "Health Psychology",
+          "paid_book": "Gesundheitspsychologie",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "experimental_psychology": {
+          "subject_name": "Experimental Psychology",
+          "paid_book": "Experimentalpsychologie",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "biological_psychology": {
+          "subject_name": "Biological Psychology",
+          "paid_book": "Biologische Psychologie",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "lab_work": {
+          "subject_name": "Lab Work / Practical",
+          "paid_book": "Psychologisches Praktikum",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "developmental_psychology": {
+          "subject_name": "Developmental Psychology",
+          "paid_book": "Entwicklungspsychologie",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "history_of_psychology": {
+          "subject_name": "History of Psychology",
+          "paid_book": "Geschichte der Psychologie",
+          "status": 1,
+          "free_alternative": "https://nobaproject.com/textbooks/the-history-of-psychology"
+        },
+        "research_skills": {
+          "subject_name": "Research Skills",
+          "paid_book": "The Craft of Research",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html"
+        },
+        "human_development": {
+          "subject_name": "Human Development",
+          "paid_book": "Life-Span Development",
+          "status": 1,
+          "free_alternative": "https://nobaproject.com/textbooks/human-lifespan-development"
+        },
+        "general_biology": {
+          "subject_name": "General Biology",
+          "paid_book": "Campbell Biology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/a5832c47ab5cf09b6dd19d2c87bf1e0301a4b5e3"
+        },
+        "foundations_psychology": {
+          "subject_name": "Foundations of Psychology",
+          "paid_book": "Man's Search for Meaning",
+          "status": 0,
+          "free_alternative": "https://archive.org/download/frankl_mans_search_for_meaning/frankl_mans_search_for_meaning.pdf"
+        },
+        "clinical_psychology": {
+          "subject_name": "Clinical Psychology",
+          "paid_book": "Klinische Psychologie",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "counselling_psychology": {
+          "subject_name": "Counselling Psychology",
+          "paid_book": "Counseling Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "statistics": {
+          "subject_name": "Applied Statistics",
+          "paid_book": "Statistik in Psychologie",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/59a36a12beda22e37ffd2ad77c31eae3f8a9aaec"
+        },
+        "advanced_research": {
+          "subject_name": "Advanced Research Methods",
+          "paid_book": "Forschungsmethoden",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html"
+        },
+        "psychological_testing": {
+          "subject_name": "Psychological Testing / Assessment",
+          "paid_book": "Psychologische Diagnostik",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "thesis_project": {
+          "subject_name": "Thesis / Project",
+          "paid_book": "Thesis Manuals",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/index.html"
+        }
+      }
+    },
+    "France": {
+      "country_code": "ðŸ‡«ðŸ‡·",
+      "full_name": "France",
+      "subjects": {
+        "general_psychology": {
+          "subject_name": "General Psychology",
+          "paid_book": "General Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "cognitive_psychology": {
+          "subject_name": "Cognitive Psychology",
+          "paid_book": "Psychologie cognitive",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "social_psychology": {
+          "subject_name": "Social Psychology",
+          "paid_book": "Psychologie sociale",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "personality_psychology": {
+          "subject_name": "Personality Psychology",
+          "paid_book": "Psychologie de la personnalitÃ©",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "abnormal_psychology": {
+          "subject_name": "Abnormal Psychology",
+          "paid_book": "Psychopathologie",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "research_methods": {
+          "subject_name": "Research Methods & Ethics",
+          "paid_book": "MÃ©thodes en psychologie",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html"
+        },
+        "health_psychology": {
+          "subject_name": "Health Psychology",
+          "paid_book": "Psychologie de la santÃ©",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "experimental_psychology": {
+          "subject_name": "Experimental Psychology",
+          "paid_book": "Psychologie expÃ©rimentale",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "biological_psychology": {
+          "subject_name": "Biological Psychology",
+          "paid_book": "Psychobiologie",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "lab_work": {
+          "subject_name": "Lab Work / Practical",
+          "paid_book": "Travaux pratiques de psychologie",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "developmental_psychology": {
+          "subject_name": "Developmental Psychology",
+          "paid_book": "Psychologie du dÃ©veloppement",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "history_of_psychology": {
+          "subject_name": "History of Psychology",
+          "paid_book": "Histoire de la psychologie",
+          "status": 1,
+          "free_alternative": "https://nobaproject.com/textbooks/the-history-of-psychology"
+        },
+        "research_skills": {
+          "subject_name": "Research Skills",
+          "paid_book": "The Craft of Research",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html"
+        },
+        "human_development": {
+          "subject_name": "Human Development",
+          "paid_book": "The Psychology of Intelligence",
+          "status": 0,
+          "free_alternative": "https://archive.org/download/piaget_psychology_of_intelligence/piaget_psychology_of_intelligence.pdf"
+        },
+        "general_biology": {
+          "subject_name": "General Biology",
+          "paid_book": "Biology: A Global Approach",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/a5832c47ab5cf09b6dd19d2c87bf1e0301a4b5e3"
+        },
+        "foundations_psychology": {
+          "subject_name": "Foundations of Psychology",
+          "paid_book": "The Psychology of Intelligence",
+          "status": 0,
+          "free_alternative": "https://archive.org/download/piaget_psychology_of_intelligence/piaget_psychology_of_intelligence.pdf"
+        },
+        "clinical_psychology": {
+          "subject_name": "Clinical Psychology",
+          "paid_book": "Psychologie clinique",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "counselling_psychology": {
+          "subject_name": "Counselling Psychology",
+          "paid_book": "Approches du counseling",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "statistics": {
+          "subject_name": "Applied Statistics",
+          "paid_book": "Statistiques en psychologie",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/59a36a12beda22e37ffd2ad77c31eae3f8a9aaec"
+        },
+        "advanced_research": {
+          "subject_name": "Advanced Research Methods",
+          "paid_book": "MÃ©thodes avancÃ©es",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html"
+        },
+        "psychological_testing": {
+          "subject_name": "Psychological Testing / Assessment",
+          "paid_book": "Ã‰valuation psychologique",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "thesis_project": {
+          "subject_name": "Thesis / Project",
+          "paid_book": "Thesis Manuals",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/index.html"
+        }
+      }
+    },
+    "Netherlands": {
+      "country_code": "ðŸ‡³ðŸ‡±",
+      "full_name": "Netherlands",
+      "subjects": {
+        "general_psychology": {
+          "subject_name": "General Psychology",
+          "paid_book": "General Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "cognitive_psychology": {
+          "subject_name": "Cognitive Psychology",
+          "paid_book": "Cognitive Psychology European Edition",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "social_psychology": {
+          "subject_name": "Social Psychology",
+          "paid_book": "Social Psychology European Edition",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "personality_psychology": {
+          "subject_name": "Personality Psychology",
+          "paid_book": "Personality Psychology European Edition",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "abnormal_psychology": {
+          "subject_name": "Abnormal Psychology",
+          "paid_book": "Clinical Psychology European Edition",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "research_methods": {
+          "subject_name": "Research Methods & Ethics",
+          "paid_book": "Research Methods European Edition",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html"
+        },
+        "health_psychology": {
+          "subject_name": "Health Psychology",
+          "paid_book": "Health Psychology European Edition",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "experimental_psychology": {
+          "subject_name": "Experimental Psychology",
+          "paid_book": "Experimental Psychology European Edition",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "biological_psychology": {
+          "subject_name": "Biological Psychology",
+          "paid_book": "Biological Psychology European Edition",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "lab_work": {
+          "subject_name": "Lab Work / Practical",
+          "paid_book": "Psychology Practical Manual EU",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "developmental_psychology": {
+          "subject_name": "Developmental Psychology",
+          "paid_book": "Developmental Psychology European Edition",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "history_of_psychology": {
+          "subject_name": "History of Psychology",
+          "paid_book": "History of Psychology European Edition",
+          "status": 1,
+          "free_alternative": "https://nobaproject.com/textbooks/the-history-of-psychology"
+        },
+        "research_skills": {
+          "subject_name": "Research Skills",
+          "paid_book": "The Craft of Research",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html"
+        },
+        "human_development": {
+          "subject_name": "Human Development",
+          "paid_book": "Life-Span Development",
+          "status": 1,
+          "free_alternative": "https://nobaproject.com/textbooks/human-lifespan-development"
+        },
+        "general_biology": {
+          "subject_name": "General Biology",
+          "paid_book": "Campbell Biology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/a5832c47ab5cf09b6dd19d2c87bf1e0301a4b5e3"
+        },
+        "foundations_psychology": {
+          "subject_name": "Foundations of Psychology",
+          "paid_book": "Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "clinical_psychology": {
+          "subject_name": "Clinical Psychology",
+          "paid_book": "Clinical Psychology EU Edition",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "counselling_psychology": {
+          "subject_name": "Counselling Psychology",
+          "paid_book": "Counselling Skills",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "statistics": {
+          "subject_name": "Applied Statistics",
+          "paid_book": "Statistics Psychology EU",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/59a36a12beda22e37ffd2ad77c31eae3f8a9aaec"
+        },
+        "advanced_research": {
+          "subject_name": "Advanced Research Methods",
+          "paid_book": "Research Methods EU",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html"
+        },
+        "psychological_testing": {
+          "subject_name": "Psychological Testing / Assessment",
+          "paid_book": "Psychological Assessment EU",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "thesis_project": {
+          "subject_name": "Thesis / Project",
+          "paid_book": "Thesis Manuals",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/index.html"
+        }
+      }
+    },
+    "Sweden": {
+      "country_code": "ðŸ‡¸ðŸ‡ª",
+      "full_name": "Sweden",
+      "subjects": {
+        "general_psychology": {
+          "subject_name": "General Psychology",
+          "paid_book": "General Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "cognitive_psychology": {
+          "subject_name": "Cognitive Psychology",
+          "paid_book": "Kognitiv psykologi",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "social_psychology": {
+          "subject_name": "Social Psychology",
+          "paid_book": "Socialpsykologi",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "personality_psychology": {
+          "subject_name": "Personality Psychology",
+          "paid_book": "Personlighetspsykologi",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "abnormal_psychology": {
+          "subject_name": "Abnormal Psychology",
+          "paid_book": "Klinisk psykologi",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "research_methods": {
+          "subject_name": "Research Methods & Ethics",
+          "paid_book": "Forskningsmetoder i psykologi",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html"
+        },
+        "health_psychology": {
+          "subject_name": "Health Psychology",
+          "paid_book": "HÃ¤lsopsykologi",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "experimental_psychology": {
+          "subject_name": "Experimental Psychology",
+          "paid_book": "Experimentell psykologi",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "biological_psychology": {
+          "subject_name": "Biological Psychology",
+          "paid_book": "Biologisk psykologi",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "lab_work": {
+          "subject_name": "Lab Work / Practical",
+          "paid_book": "Psykologilaborationer",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "developmental_psychology": {
+          "subject_name": "Developmental Psychology",
+          "paid_book": "Utvecklingspsykologi",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "history_of_psychology": {
+          "subject_name": "History of Psychology",
+          "paid_book": "Psychology History Nordic Edition",
+          "status": 1,
+          "free_alternative": "https://nobaproject.com/textbooks/the-history-of-psychology"
+        },
+        "research_skills": {
+          "subject_name": "Research Skills",
+          "paid_book": "The Craft of Research",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html"
+        },
+        "human_development": {
+          "subject_name": "Human Development",
+          "paid_book": "Life-Span Development",
+          "status": 1,
+          "free_alternative": "https://nobaproject.com/textbooks/human-lifespan-development"
+        },
+        "general_biology": {
+          "subject_name": "General Biology",
+          "paid_book": "Biology: A Global Approach",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/a5832c47ab5cf09b6dd19d2c87bf1e0301a4b5e3"
+        },
+        "foundations_psychology": {
+          "subject_name": "Foundations of Psychology",
+          "paid_book": "Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "clinical_psychology": {
+          "subject_name": "Clinical Psychology",
+          "paid_book": "Klinisk psykologi",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "counselling_psychology": {
+          "subject_name": "Counselling Psychology",
+          "paid_book": "Counselling Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "statistics": {
+          "subject_name": "Applied Statistics",
+          "paid_book": "Statistik psykologi",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/59a36a12beda22e37ffd2ad77c31eae3f8a9aaec"
+        },
+        "advanced_research": {
+          "subject_name": "Advanced Research Methods",
+          "paid_book": "Research Methods",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html"
+        },
+        "psychological_testing": {
+          "subject_name": "Psychological Testing / Assessment",
+          "paid_book": "Psychological Assessment",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "thesis_project": {
+          "subject_name": "Thesis / Project",
+          "paid_book": "Thesis Manuals",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/index.html"
+        }
+      }
+    },
+    "Finland": {
+      "country_code": "ðŸ‡«ðŸ‡®",
+      "full_name": "Finland",
+      "subjects": {
+        "general_psychology": {
+          "subject_name": "General Psychology",
+          "paid_book": "General Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "cognitive_psychology": {
+          "subject_name": "Cognitive Psychology",
+          "paid_book": "Kognitiivinen psykologia",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "social_psychology": {
+          "subject_name": "Social Psychology",
+          "paid_book": "Sosiaalipsykologia",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "personality_psychology": {
+          "subject_name": "Personality Psychology",
+          "paid_book": "Persoonallisuuspsykologia",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "abnormal_psychology": {
+          "subject_name": "Abnormal Psychology",
+          "paid_book": "Kliininen psykologia",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "research_methods": {
+          "subject_name": "Research Methods & Ethics",
+          "paid_book": "TutkimusmenetelmÃ¤t psykologiassa",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html"
+        },
+        "health_psychology": {
+          "subject_name": "Health Psychology",
+          "paid_book": "Terveyspsykologia",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "experimental_psychology": {
+          "subject_name": "Experimental Psychology",
+          "paid_book": "Kokeellinen psykologia",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "biological_psychology": {
+          "subject_name": "Biological Psychology",
+          "paid_book": "Biologinen psykologia",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "lab_work": {
+          "subject_name": "Lab Work / Practical",
+          "paid_book": "Psykologian laboratorio",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "developmental_psychology": {
+          "subject_name": "Developmental Psychology",
+          "paid_book": "Kehityspsykologia",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "history_of_psychology": {
+          "subject_name": "History of Psychology",
+          "paid_book": "Psykologian historia",
+          "status": 1,
+          "free_alternative": "https://nobaproject.com/textbooks/the-history-of-psychology"
+        },
+        "research_skills": {
+          "subject_name": "Research Skills",
+          "paid_book": "The Craft of Research",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html"
+        },
+        "human_development": {
+          "subject_name": "Human Development",
+          "paid_book": "Life-Span Development",
+          "status": 1,
+          "free_alternative": "https://nobaproject.com/textbooks/human-lifespan-development"
+        },
+        "general_biology": {
+          "subject_name": "General Biology",
+          "paid_book": "Campbell Biology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/a5832c47ab5cf09b6dd19d2c87bf1e0301a4b5e3"
+        },
+        "foundations_psychology": {
+          "subject_name": "Foundations of Psychology",
+          "paid_book": "Psychology: Themes and Variations",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "clinical_psychology": {
+          "subject_name": "Clinical Psychology",
+          "paid_book": "Kliininen psykologia",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "counselling_psychology": {
+          "subject_name": "Counselling Psychology",
+          "paid_book": "Counselling Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "statistics": {
+          "subject_name": "Applied Statistics",
+          "paid_book": "Psykologinen tilastotiede",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/59a36a12beda22e37ffd2ad77c31eae3f8a9aaec"
+        },
+        "advanced_research": {
+          "subject_name": "Advanced Research Methods",
+          "paid_book": "TutkimusmenetelmÃ¤t",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html"
+        },
+        "psychological_testing": {
+          "subject_name": "Psychological Testing / Assessment",
+          "paid_book": "Psykologinen arviointi",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "thesis_project": {
+          "subject_name": "Thesis / Project",
+          "paid_book": "Thesis Manuals",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/index.html"
+        }
+      }
+    },
+    "Norway": {
+      "country_code": "ðŸ‡³ðŸ‡´",
+      "full_name": "Norway",
+      "subjects": {
+        "general_psychology": {
+          "subject_name": "General Psychology",
+          "paid_book": "General Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "cognitive_psychology": {
+          "subject_name": "Cognitive Psychology",
+          "paid_book": "Kognitiv psykologi",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "social_psychology": {
+          "subject_name": "Social Psychology",
+          "paid_book": "Sosialpsykologi",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "personality_psychology": {
+          "subject_name": "Personality Psychology",
+          "paid_book": "Personlighetspsykologi",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "abnormal_psychology": {
+          "subject_name": "Abnormal Psychology",
+          "paid_book": "Klinisk psykologi",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "research_methods": {
+          "subject_name": "Research Methods & Ethics",
+          "paid_book": "Forskningsmetoder",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html"
+        },
+        "health_psychology": {
+          "subject_name": "Health Psychology",
+          "paid_book": "Helsepsykologi",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "experimental_psychology": {
+          "subject_name": "Experimental Psychology",
+          "paid_book": "Eksperimentell psykologi",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "biological_psychology": {
+          "subject_name": "Biological Psychology",
+          "paid_book": "Biologisk psykologi",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "lab_work": {
+          "subject_name": "Lab Work / Practical",
+          "paid_book": "Psykologisk praksis",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "developmental_psychology": {
+          "subject_name": "Developmental Psychology",
+          "paid_book": "Utviklingspsykologi",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "history_of_psychology": {
+          "subject_name": "History of Psychology",
+          "paid_book": "Psykologiens historie",
+          "status": 1,
+          "free_alternative": "https://nobaproject.com/textbooks/the-history-of-psychology"
+        },
+        "research_skills": {
+          "subject_name": "Research Skills",
+          "paid_book": "The Craft of Research",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html"
+        },
+        "human_development": {
+          "subject_name": "Human Development",
+          "paid_book": "Life-Span Development",
+          "status": 1,
+          "free_alternative": "https://nobaproject.com/textbooks/human-lifespan-development"
+        },
+        "general_biology": {
+          "subject_name": "General Biology",
+          "paid_book": "Biology: A Global Approach",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/a5832c47ab5cf09b6dd19d2c87bf1e0301a4b5e3"
+        },
+        "foundations_psychology": {
+          "subject_name": "Foundations of Psychology",
+          "paid_book": "Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "clinical_psychology": {
+          "subject_name": "Clinical Psychology",
+          "paid_book": "Klinisk psykologi",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "counselling_psychology": {
+          "subject_name": "Counselling Psychology",
+          "paid_book": "Counselling Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "statistics": {
+          "subject_name": "Applied Statistics",
+          "paid_book": "Statistik psykologi",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/59a36a12beda22e37ffd2ad77c31eae3f8a9aaec"
+        },
+        "advanced_research": {
+          "subject_name": "Advanced Research Methods",
+          "paid_book": "Research Methods",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html"
+        },
+        "psychological_testing": {
+          "subject_name": "Psychological Testing / Assessment",
+          "paid_book": "Psychological Assessment",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "thesis_project": {
+          "subject_name": "Thesis / Project",
+          "paid_book": "Thesis Manuals",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/index.html"
+        }
+      }
+    },
+    "Switzerland": {
+      "country_code": "ðŸ‡¨ðŸ‡­",
+      "full_name": "Switzerland",
+      "subjects": {
+        "general_psychology": {
+          "subject_name": "General Psychology",
+          "paid_book": "General Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "cognitive_psychology": {
+          "subject_name": "Cognitive Psychology",
+          "paid_book": "Kognitive Psychologie",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "social_psychology": {
+          "subject_name": "Social Psychology",
+          "paid_book": "Sozialpsychologie",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "personality_psychology": {
+          "subject_name": "Personality Psychology",
+          "paid_book": "PersÃ¶nlichkeitspsychologie",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "abnormal_psychology": {
+          "subject_name": "Abnormal Psychology",
+          "paid_book": "Klinische Psychologie",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "research_methods": {
+          "subject_name": "Research Methods & Ethics",
+          "paid_book": "Psychologische Forschungsmethoden",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html"
+        },
+        "health_psychology": {
+          "subject_name": "Health Psychology",
+          "paid_book": "Gesundheitspsychologie",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "experimental_psychology": {
+          "subject_name": "Experimental Psychology",
+          "paid_book": "Experimentalpsychologie",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "biological_psychology": {
+          "subject_name": "Biological Psychology",
+          "paid_book": "Biologische Psychologie",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "lab_work": {
+          "subject_name": "Lab Work / Practical",
+          "paid_book": "Psychologisches Praktikum",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "developmental_psychology": {
+          "subject_name": "Developmental Psychology",
+          "paid_book": "Entwicklungspsychologie",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "history_of_psychology": {
+          "subject_name": "History of Psychology",
+          "paid_book": "Psychologie Geschichte",
+          "status": 1,
+          "free_alternative": "https://nobaproject.com/textbooks/the-history-of-psychology"
+        },
+        "research_skills": {
+          "subject_name": "Research Skills",
+          "paid_book": "The Craft of Research",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html"
+        },
+        "human_development": {
+          "subject_name": "Human Development",
+          "paid_book": "The Psychology of Intelligence",
+          "status": 0,
+          "free_alternative": "https://archive.org/download/piaget_psychology_of_intelligence/piaget_psychology_of_intelligence.pdf"
+        },
+        "general_biology": {
+          "subject_name": "General Biology",
+          "paid_book": "Campbell Biology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/a5832c47ab5cf09b6dd19d2c87bf1e0301a4b5e3"
+        },
+        "foundations_psychology": {
+          "subject_name": "Foundations of Psychology",
+          "paid_book": "The Psychology of Intelligence",
+          "status": 0,
+          "free_alternative": "https://archive.org/download/piaget_psychology_of_intelligence/piaget_psychology_of_intelligence.pdf"
+        },
+        "clinical_psychology": {
+          "subject_name": "Clinical Psychology",
+          "paid_book": "Klinische Psychologie",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "counselling_psychology": {
+          "subject_name": "Counselling Psychology",
+          "paid_book": "Counselling Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "statistics": {
+          "subject_name": "Applied Statistics",
+          "paid_book": "Statistics Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/59a36a12beda22e37ffd2ad77c31eae3f8a9aaec"
+        },
+        "advanced_research": {
+          "subject_name": "Advanced Research Methods",
+          "paid_book": "Research Methods",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html"
+        },
+        "psychological_testing": {
+          "subject_name": "Psychological Testing / Assessment",
+          "paid_book": "Psychological Diagnostics",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "thesis_project": {
+          "subject_name": "Thesis / Project",
+          "paid_book": "Thesis Manuals",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/index.html"
+        }
+      }
+    },
+    "South Korea": {
+      "country_code": "ðŸ‡°ðŸ‡·",
+      "full_name": "South Korea",
+      "subjects": {
+        "general_psychology": {
+          "subject_name": "General Psychology",
+          "paid_book": "General Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "cognitive_psychology": {
+          "subject_name": "Cognitive Psychology",
+          "paid_book": "Cognitive Psychology Korean Edition",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "social_psychology": {
+          "subject_name": "Social Psychology",
+          "paid_book": "Social Psychology Korean Edition",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "personality_psychology": {
+          "subject_name": "Personality Psychology",
+          "paid_book": "Personality Psychology Korean Edition",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "abnormal_psychology": {
+          "subject_name": "Abnormal Psychology",
+          "paid_book": "Abnormal Psychology Korean Edition",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "research_methods": {
+          "subject_name": "Research Methods & Ethics",
+          "paid_book": "Research Methods Korean Edition",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html"
+        },
+        "health_psychology": {
+          "subject_name": "Health Psychology",
+          "paid_book": "Health Psychology Korean Edition",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "experimental_psychology": {
+          "subject_name": "Experimental Psychology",
+          "paid_book": "Experimental Psychology Korean Edition",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "biological_psychology": {
+          "subject_name": "Biological Psychology",
+          "paid_book": "Biological Psychology Korean Edition",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "lab_work": {
+          "subject_name": "Lab Work / Practical",
+          "paid_book": "Psychology Lab Work Korean Edition",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "developmental_psychology": {
+          "subject_name": "Developmental Psychology",
+          "paid_book": "Developmental Psychology Korean Edition",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "history_of_psychology": {
+          "subject_name": "History of Psychology",
+          "paid_book": "History of Psychology Korean Edition",
+          "status": 1,
+          "free_alternative": "https://nobaproject.com/textbooks/the-history-of-psychology"
+        },
+        "research_skills": {
+          "subject_name": "Research Skills",
+          "paid_book": "The Craft of Research",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html"
+        },
+        "human_development": {
+          "subject_name": "Human Development",
+          "paid_book": "Life-Span Development",
+          "status": 1,
+          "free_alternative": "https://nobaproject.com/textbooks/human-lifespan-development"
+        },
+        "general_biology": {
+          "subject_name": "General Biology",
+          "paid_book": "Campbell Biology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/a5832c47ab5cf09b6dd19d2c87bf1e0301a4b5e3"
+        },
+        "foundations_psychology": {
+          "subject_name": "Foundations of Psychology",
+          "paid_book": "Psychology",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "clinical_psychology": {
+          "subject_name": "Clinical Psychology",
+          "paid_book": "Clinical Psychology Korean Edition",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "counselling_psychology": {
+          "subject_name": "Counselling Psychology",
+          "paid_book": "Counselling Korean Edition",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "statistics": {
+          "subject_name": "Applied Statistics",
+          "paid_book": "Statistics Korean Edition",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/59a36a12beda22e37ffd2ad77c31eae3f8a9aaec"
+        },
+        "advanced_research": {
+          "subject_name": "Advanced Research Methods",
+          "paid_book": "Research Methods Korea",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html"
+        },
+        "psychological_testing": {
+          "subject_name": "Psychological Testing / Assessment",
+          "paid_book": "Psychological Testing Korean Edition",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "thesis_project": {
+          "subject_name": "Thesis / Project",
+          "paid_book": "Thesis Manuals",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/index.html"
+        }
+      }
+    },
+    "Spain": {
+      "country_code": "ðŸ‡ªðŸ‡¸",
+      "full_name": "Spain",
+      "subjects": {
+        "foundations_psychology": {
+          "subject_name": "Foundations of Psychology",
+          "paid_book": "PsicologÃ­a",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        }
+      }
+    },
+    "Italy": {
+      "country_code": "ðŸ‡®ðŸ‡¹",
+      "full_name": "Italy",
+      "subjects": {
+        "history_of_psychology": {
+          "subject_name": "History of Psychology",
+          "paid_book": "Storia della psicologia",
+          "status": 1,
+          "free_alternative": "https://nobaproject.com/textbooks/the-history-of-psychology"
+        },
+        "cognitive_psychology": {
+          "subject_name": "Cognitive Psychology",
+          "paid_book": "Psicologia cognitiva",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "social_psychology": {
+          "subject_name": "Social Psychology",
+          "paid_book": "Psicologia sociale",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "personality_psychology": {
+          "subject_name": "Personality Psychology",
+          "paid_book": "Psicologia della personalitÃ ",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "abnormal_psychology": {
+          "subject_name": "Abnormal Psychology",
+          "paid_book": "Psicopatologia",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "research_methods": {
+          "subject_name": "Research Methods & Ethics",
+          "paid_book": "Metodi di ricerca in psicologia",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html"
+        },
+        "health_psychology": {
+          "subject_name": "Health Psychology",
+          "paid_book": "Psicologia della salute",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "experimental_psychology": {
+          "subject_name": "Experimental Psychology",
+          "paid_book": "Psicologia sperimentale",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "biological_psychology": {
+          "subject_name": "Biological Psychology",
+          "paid_book": "Psicobiologia",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "lab_work": {
+          "subject_name": "Lab Work / Practical",
+          "paid_book": "Laboratorio di psicologia",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "developmental_psychology": {
+          "subject_name": "Developmental Psychology",
+          "paid_book": "Psicologia dello sviluppo",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "clinical_psychology": {
+          "subject_name": "Clinical Psychology",
+          "paid_book": "Psicologia clinica",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "counselling_psychology": {
+          "subject_name": "Counselling Psychology",
+          "paid_book": "Psicologia del counseling",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "statistics": {
+          "subject_name": "Applied Statistics",
+          "paid_book": "Statistica psicologica",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/59a36a12beda22e37ffd2ad77c31eae3f8a9aaec"
+        },
+        "advanced_research": {
+          "subject_name": "Advanced Research Methods",
+          "paid_book": "Metodi avanzati",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html"
+        }
+      }
+    },
+    "Japan": {
+      "country_code": "ðŸ‡¯ðŸ‡µ",
+      "full_name": "Japan",
+      "subjects": {
+        "history_of_psychology": {
+          "subject_name": "History of Psychology",
+          "paid_book": "History of Psychology Japan Edition",
+          "status": 1,
+          "free_alternative": "https://nobaproject.com/textbooks/the-history-of-psychology"
+        },
+        "cognitive_psychology": {
+          "subject_name": "Cognitive Psychology",
+          "paid_book": "Cognitive Psychology Japan Edition",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "social_psychology": {
+          "subject_name": "Social Psychology",
+          "paid_book": "Social Psychology Japan Edition",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "personality_psychology": {
+          "subject_name": "Personality Psychology",
+          "paid_book": "Personality Psychology Japan Edition",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "abnormal_psychology": {
+          "subject_name": "Abnormal Psychology",
+          "paid_book": "Abnormal Psychology Japan Edition",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "research_methods": {
+          "subject_name": "Research Methods & Ethics",
+          "paid_book": "Research Methods Japan Edition",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html"
+        },
+        "health_psychology": {
+          "subject_name": "Health Psychology",
+          "paid_book": "Health Psychology Japan Edition",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "experimental_psychology": {
+          "subject_name": "Experimental Psychology",
+          "paid_book": "Experimental Psychology Japan Edition",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "biological_psychology": {
+          "subject_name": "Biological Psychology",
+          "paid_book": "Biological Psychology Japan Edition",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "lab_work": {
+          "subject_name": "Lab Work / Practical",
+          "paid_book": "Psychology Lab Work Japan Edition",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "developmental_psychology": {
+          "subject_name": "Developmental Psychology",
+          "paid_book": "Developmental Psychology Japan Edition",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "clinical_psychology": {
+          "subject_name": "Clinical Psychology",
+          "paid_book": "Clinical Psychology Japan Edition",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "counselling_psychology": {
+          "subject_name": "Counselling Psychology",
+          "paid_book": "Counselling Japan Edition",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/2e44e844e6d1c0674b1e6e63e3d8da21fcaa0e5d"
+        },
+        "statistics": {
+          "subject_name": "Applied Statistics",
+          "paid_book": "Statistics Japan Edition",
+          "status": 1,
+          "free_alternative": "https://openstax.org/apps/archive/20240401.180420/resources/59a36a12beda22e37ffd2ad77c31eae3f8a9aaec"
+        },
+        "advanced_research": {
+          "subject_name": "Advanced Research Methods",
+          "paid_book": "Research Methods Japan",
+          "status": 1,
+          "free_alternative": "https://owl.purdue.edu/owl/research_and_citation/research_process/index.html"
+        }
+      }
+    }
+  },
+  "quick_reference": {
+    "free_countries": ["India"],
+    "paid_countries": ["US", "UK", "Canada", "Australia", "Germany", "France", "Netherlands", "Sweden", "Finland", "Norway", "Switzerland", "South Korea", "Spain", "Italy", "Japan"],
+    "authoritative_sources": {
+      "openstax": "https://openstax.org/books",
+      "noba_project": "https://nobaproject.com/textbooks",
+      "ncert": "https://ncert.nic.in/textbook.php",
+      "ignou": "http://egyankosh.ac.in",
+      "mit_ocw": "https://ocw.mit.edu/search/?q=psychology",
+      "purdue_owl": "https://owl.purdue.edu/owl/research_and_citation/",
+      "archive_org": "https://archive.org"
+    },
+    "all_urls_verified": true,
+    "last_verified": "2026-04-21"
+  }
+}
+

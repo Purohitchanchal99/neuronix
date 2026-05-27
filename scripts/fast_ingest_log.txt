@@ -1,0 +1,363 @@
+2026-04-25 18:06:19,308 - INFO - 🔧 Initializing ingestion engine...
+2026-04-25 18:06:43,861 - ERROR - ❌ Initialization failed: [Errno 22] Invalid argument: 'C:\\Users\\admin\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\pip-26.0.1.dist-info\\METADATA'
+2026-04-25 18:12:58,717 - INFO - 🔧 Initializing ingestion engine...
+2026-04-25 18:13:16,963 - INFO - ✅ Google Gemini Embeddings ready
+2026-04-25 18:13:16,963 - INFO - 
+======================================================================
+2026-04-25 18:13:16,966 - INFO - ⚡ FAST BATCH RAG INGESTION PIPELINE
+2026-04-25 18:13:16,967 - INFO - ======================================================================
+2026-04-25 18:13:17,000 - INFO - 📁 Found 279 PDFs to process
+2026-04-25 18:13:17,000 - INFO - 📚 Initializing vector store...
+2026-04-25 18:13:19,260 - INFO - ✅ Vector store initialized at C:\Users\admin\Desktop\desktop\NEURO_MENTAL\data\vector_db
+2026-04-25 18:13:19,260 - INFO - 
+🔄 BATCH 1/14
+2026-04-25 18:13:19,261 - INFO -    Processing PDFs 1 to 20 of 279
+2026-04-25 18:13:19,261 - INFO - 
+📦 Processing batch of 20 PDFs...
+2026-04-25 18:13:47,651 - INFO -   ✓ Abnormal Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:14:10,158 - INFO -   ✓ Applied Statistics_IntroductoryStatistics-OP.pdf: 2095 chunks
+2026-04-25 18:14:33,015 - INFO -   ✓ Biological Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:15:01,623 - INFO -   ✓ Clinical Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:15:25,144 - INFO -   ✓ Cognitive Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:15:45,517 - INFO -   ✓ Counselling Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:16:05,460 - INFO -   ✓ Developmental Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:16:26,828 - INFO -   ✓ Experimental Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:16:49,668 - INFO -   ✓ Foundations of Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:17:31,588 - INFO -   ✓ General Biology_Biology2e-WEB.pdf: 5343 chunks
+2026-04-25 18:17:54,479 - INFO -   ✓ General Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:18:16,160 - INFO -   ✓ Health Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:18:38,084 - INFO -   ✓ History of Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:18:59,162 - INFO -   ✓ Human Development_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:19:19,634 - INFO -   ✓ Lab Work _ Practical_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:19:39,931 - INFO -   ✓ Personality Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:19:58,370 - INFO -   ✓ Psychological Testing _ Assessment_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:20:16,569 - INFO -   ✓ Research Methods & Ethics_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:20:35,081 - INFO -   ✓ Social Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:20:53,992 - INFO -   ✓ Abnormal Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:20:53,993 - INFO -   💾 Storing 62158 chunks in vector DB...
+2026-04-25 18:21:00,699 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/embedding-001:batchEmbedContents "HTTP/1.1 400 Bad Request"
+2026-04-25 18:21:00,705 - ERROR -   ❌ Vector store error: Error embedding content (INVALID_ARGUMENT): 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2026-04-25 18:21:00,705 - INFO - 
+📊 Progress: 20/279 PDFs
+2026-04-25 18:21:00,708 - INFO -    Chunks: 62,158
+2026-04-25 18:21:00,708 - INFO -    Stored: 0
+2026-04-25 18:21:00,708 - INFO - 
+🔄 BATCH 2/14
+2026-04-25 18:21:00,708 - INFO -    Processing PDFs 21 to 40 of 279
+2026-04-25 18:21:00,710 - INFO - 
+📦 Processing batch of 20 PDFs...
+2026-04-25 18:21:20,118 - INFO -   ✓ Applied Statistics_IntroductoryStatistics-OP.pdf: 2095 chunks
+2026-04-25 18:21:42,426 - INFO -   ✓ Biological Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:22:09,315 - INFO -   ✓ Clinical Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:22:37,667 - INFO -   ✓ Cognitive Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:23:03,752 - INFO -   ✓ Counselling Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:23:26,200 - INFO -   ✓ Developmental Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:23:46,074 - INFO -   ✓ Experimental Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:24:04,674 - INFO -   ✓ Foundations of Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:24:43,448 - INFO -   ✓ General Biology_Biology2e-WEB.pdf: 5343 chunks
+2026-04-25 18:25:01,387 - INFO -   ✓ General Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:25:18,716 - INFO -   ✓ Health Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:25:50,742 - INFO -   ✓ History of Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:26:08,717 - INFO -   ✓ Human Development_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:26:27,720 - INFO -   ✓ Lab Work _ Practical_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:26:46,773 - INFO -   ✓ Personality Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:27:05,647 - INFO -   ✓ Psychological Testing _ Assessment_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:27:25,631 - INFO -   ✓ Research Methods & Ethics_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:27:46,395 - INFO -   ✓ Social Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:28:08,167 - INFO -   ✓ Abnormal Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:28:38,405 - INFO -   ✓ Applied Statistics_IntroductoryStatistics-OP.pdf: 2095 chunks
+2026-04-25 18:28:38,417 - INFO -   💾 Storing 61213 chunks in vector DB...
+2026-04-25 18:28:49,431 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/embedding-001:batchEmbedContents "HTTP/1.1 400 Bad Request"
+2026-04-25 18:28:49,446 - ERROR -   ❌ Vector store error: Error embedding content (INVALID_ARGUMENT): 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2026-04-25 18:28:49,452 - INFO - 
+📊 Progress: 40/279 PDFs
+2026-04-25 18:28:49,453 - INFO -    Chunks: 123,371
+2026-04-25 18:28:49,453 - INFO -    Stored: 0
+2026-04-25 18:28:49,455 - INFO - 
+🔄 BATCH 3/14
+2026-04-25 18:28:49,455 - INFO -    Processing PDFs 41 to 60 of 279
+2026-04-25 18:28:49,456 - INFO - 
+📦 Processing batch of 20 PDFs...
+2026-04-25 18:29:14,130 - INFO -   ✓ Biological Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:29:40,707 - INFO -   ✓ Clinical Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:30:00,390 - INFO -   ✓ Cognitive Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:30:20,357 - INFO -   ✓ Counselling Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:30:45,464 - INFO -   ✓ Developmental Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:31:04,683 - INFO -   ✓ Experimental Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:31:22,309 - INFO -   ✓ Foundations of Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:32:06,030 - INFO -   ✓ General Biology_Biology2e-WEB.pdf: 5343 chunks
+2026-04-25 18:32:37,241 - INFO -   ✓ General Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:33:03,539 - INFO -   ✓ Health Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:33:26,804 - INFO -   ✓ History of Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:33:47,719 - INFO -   ✓ Human Development_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:34:07,236 - INFO -   ✓ Lab Work _ Practical_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:34:27,144 - INFO -   ✓ Personality Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:34:46,598 - INFO -   ✓ Psychological Testing _ Assessment_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:35:05,444 - INFO -   ✓ Research Methods & Ethics_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:35:24,214 - INFO -   ✓ Social Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:35:42,935 - INFO -   ✓ Abnormal Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:36:02,446 - INFO -   ✓ Applied Statistics_IntroductoryStatistics-OP.pdf: 2095 chunks
+2026-04-25 18:36:21,114 - INFO -   ✓ Biological Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:36:21,114 - INFO -   💾 Storing 62158 chunks in vector DB...
+2026-04-25 18:36:28,249 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/embedding-001:batchEmbedContents "HTTP/1.1 400 Bad Request"
+2026-04-25 18:36:28,255 - ERROR -   ❌ Vector store error: Error embedding content (INVALID_ARGUMENT): 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2026-04-25 18:36:28,255 - INFO - 
+📊 Progress: 60/279 PDFs
+2026-04-25 18:36:28,255 - INFO -    Chunks: 185,529
+2026-04-25 18:36:28,255 - INFO -    Stored: 0
+2026-04-25 18:36:28,255 - INFO - 
+🔄 BATCH 4/14
+2026-04-25 18:36:28,255 - INFO -    Processing PDFs 61 to 80 of 279
+2026-04-25 18:36:28,257 - INFO - 
+📦 Processing batch of 20 PDFs...
+2026-04-25 18:36:45,997 - INFO -   ✓ Clinical Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:37:05,029 - INFO -   ✓ Cognitive Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:37:24,253 - INFO -   ✓ Counselling Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:38:21,052 - INFO -   ✓ Developmental Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:38:39,964 - INFO -   ✓ Experimental Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:38:59,332 - INFO -   ✓ Foundations of Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:40:35,926 - INFO -   ✓ General Biology_Biology2e-WEB.pdf: 5343 chunks
+2026-04-25 18:41:04,517 - INFO -   ✓ General Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:41:44,963 - INFO -   ✓ Health Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:42:40,369 - INFO -   ✓ History of Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:43:26,219 - INFO -   ✓ Human Development_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:44:20,906 - INFO -   ✓ Lab Work _ Practical_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:45:08,538 - INFO -   ✓ Personality Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:45:57,861 - INFO -   ✓ Psychological Testing _ Assessment_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:46:46,087 - INFO -   ✓ Research Methods & Ethics_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:47:29,084 - INFO -   ✓ Social Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:48:14,641 - INFO -   ✓ Abnormal Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:48:59,445 - INFO -   ✓ Applied Statistics_IntroductoryStatistics-OP.pdf: 2095 chunks
+2026-04-25 18:49:19,090 - INFO -   ✓ Biological Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:49:37,994 - INFO -   ✓ Clinical Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:49:37,994 - INFO -   💾 Storing 62158 chunks in vector DB...
+2026-04-25 18:49:44,484 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/embedding-001:batchEmbedContents "HTTP/1.1 400 Bad Request"
+2026-04-25 18:49:44,488 - ERROR -   ❌ Vector store error: Error embedding content (INVALID_ARGUMENT): 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2026-04-25 18:49:44,488 - INFO - 
+📊 Progress: 80/279 PDFs
+2026-04-25 18:49:44,488 - INFO -    Chunks: 247,687
+2026-04-25 18:49:44,488 - INFO -    Stored: 0
+2026-04-25 18:49:44,492 - INFO - 
+🔄 BATCH 5/14
+2026-04-25 18:49:44,492 - INFO -    Processing PDFs 81 to 100 of 279
+2026-04-25 18:49:44,492 - INFO - 
+📦 Processing batch of 20 PDFs...
+2026-04-25 18:50:03,139 - INFO -   ✓ Cognitive Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:50:20,894 - INFO -   ✓ Counselling Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:50:39,165 - INFO -   ✓ Developmental Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:50:57,435 - INFO -   ✓ Experimental Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:51:16,184 - INFO -   ✓ Foundations of Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:51:55,562 - INFO -   ✓ General Biology_Biology2e-WEB.pdf: 5343 chunks
+2026-04-25 18:52:16,443 - INFO -   ✓ General Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:52:43,300 - INFO -   ✓ Health Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:53:06,363 - INFO -   ✓ History of Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:53:25,532 - INFO -   ✓ Human Development_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:53:47,967 - INFO -   ✓ Lab Work _ Practical_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:54:12,956 - INFO -   ✓ Personality Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:54:38,896 - INFO -   ✓ Psychological Testing _ Assessment_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:55:03,947 - INFO -   ✓ Research Methods & Ethics_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:55:31,633 - INFO -   ✓ Social Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:55:58,052 - INFO -   ✓ Abnormal Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:56:25,521 - INFO -   ✓ Advanced Research Methods_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:56:49,199 - INFO -   ✓ Applied Statistics_IntroductoryStatistics-OP.pdf: 2095 chunks
+2026-04-25 18:57:16,824 - INFO -   ✓ Applied Statistics_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:57:36,835 - INFO -   ✓ Biological Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:57:36,835 - INFO -   💾 Storing 62158 chunks in vector DB...
+2026-04-25 18:57:45,400 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/embedding-001:batchEmbedContents "HTTP/1.1 400 Bad Request"
+2026-04-25 18:57:45,406 - ERROR -   ❌ Vector store error: Error embedding content (INVALID_ARGUMENT): 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2026-04-25 18:57:45,409 - INFO - 
+📊 Progress: 100/279 PDFs
+2026-04-25 18:57:45,410 - INFO -    Chunks: 309,845
+2026-04-25 18:57:45,410 - INFO -    Stored: 0
+2026-04-25 18:57:45,411 - INFO - 
+🔄 BATCH 6/14
+2026-04-25 18:57:45,412 - INFO -    Processing PDFs 101 to 120 of 279
+2026-04-25 18:57:45,412 - INFO - 
+📦 Processing batch of 20 PDFs...
+2026-04-25 18:58:09,826 - INFO -   ✓ Clinical Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:58:47,718 - INFO -   ✓ Cognitive Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 18:59:19,835 - INFO -   ✓ Counselling Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:00:04,387 - INFO -   ✓ Developmental Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:00:49,384 - INFO -   ✓ Experimental Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:01:20,881 - INFO -   ✓ Foundations of Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:02:58,158 - INFO -   ✓ General Biology_Biology2e-WEB.pdf: 5343 chunks
+2026-04-25 19:03:30,433 - INFO -   ✓ General Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:04:01,992 - INFO -   ✓ Health Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:04:33,025 - INFO -   ✓ History of Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:05:02,157 - INFO -   ✓ Human Development_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:05:37,176 - INFO -   ✓ Lab Work _ Practical_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:06:06,553 - INFO -   ✓ Personality Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:06:39,400 - INFO -   ✓ Psychological Testing _ Assessment_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:07:13,099 - INFO -   ✓ Research Methods & Ethics_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:07:45,639 - INFO -   ✓ Social Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:08:19,682 - INFO -   ✓ Abnormal Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:08:54,911 - INFO -   ✓ Applied Statistics_IntroductoryStatistics-OP.pdf: 2095 chunks
+2026-04-25 19:09:23,872 - INFO -   ✓ Biological Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:09:56,567 - INFO -   ✓ Clinical Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:09:56,585 - INFO -   💾 Storing 62158 chunks in vector DB...
+2026-04-25 19:10:08,583 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/embedding-001:batchEmbedContents "HTTP/1.1 400 Bad Request"
+2026-04-25 19:10:08,803 - ERROR -   ❌ Vector store error: Error embedding content (INVALID_ARGUMENT): 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2026-04-25 19:10:08,833 - INFO - 
+📊 Progress: 120/279 PDFs
+2026-04-25 19:10:08,838 - INFO -    Chunks: 372,003
+2026-04-25 19:10:08,838 - INFO -    Stored: 0
+2026-04-25 19:10:08,838 - INFO - 
+🔄 BATCH 7/14
+2026-04-25 19:10:08,838 - INFO -    Processing PDFs 121 to 140 of 279
+2026-04-25 19:10:08,838 - INFO - 
+📦 Processing batch of 20 PDFs...
+2026-04-25 19:10:43,901 - INFO -   ✓ Cognitive Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:11:12,674 - INFO -   ✓ Counselling Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:11:39,181 - INFO -   ✓ Developmental Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:12:12,306 - INFO -   ✓ Experimental Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:12:45,829 - INFO -   ✓ Health Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:13:21,911 - INFO -   ✓ History of Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:13:59,970 - INFO -   ✓ Lab Work _ Practical_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:14:35,244 - INFO -   ✓ Personality Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:15:09,020 - INFO -   ✓ Research Methods & Ethics_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:15:40,543 - INFO -   ✓ Social Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:16:08,026 - INFO -   ✓ Abnormal Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:16:36,129 - INFO -   ✓ Applied Statistics_IntroductoryStatistics-OP.pdf: 2095 chunks
+2026-04-25 19:17:01,062 - INFO -   ✓ Biological Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:17:28,574 - INFO -   ✓ Clinical Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:17:55,612 - INFO -   ✓ Cognitive Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:18:31,566 - INFO -   ✓ Counselling Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:19:07,952 - INFO -   ✓ Developmental Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:19:30,558 - INFO -   ✓ Experimental Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:19:54,398 - INFO -   ✓ Health Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:20:16,126 - INFO -   ✓ History of Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:20:16,136 - INFO -   💾 Storing 59855 chunks in vector DB...
+2026-04-25 19:20:23,000 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/embedding-001:batchEmbedContents "HTTP/1.1 400 Bad Request"
+2026-04-25 19:20:23,006 - ERROR -   ❌ Vector store error: Error embedding content (INVALID_ARGUMENT): 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2026-04-25 19:20:23,007 - INFO - 
+📊 Progress: 140/279 PDFs
+2026-04-25 19:20:23,007 - INFO -    Chunks: 431,858
+2026-04-25 19:20:23,007 - INFO -    Stored: 0
+2026-04-25 19:20:23,008 - INFO - 
+🔄 BATCH 8/14
+2026-04-25 19:20:23,008 - INFO -    Processing PDFs 141 to 160 of 279
+2026-04-25 19:20:23,008 - INFO - 
+📦 Processing batch of 20 PDFs...
+2026-04-25 19:20:44,918 - INFO -   ✓ Lab Work _ Practical_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:21:15,875 - INFO -   ✓ Personality Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:21:38,047 - INFO -   ✓ Research Methods & Ethics_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:22:00,672 - INFO -   ✓ Social Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:22:28,747 - INFO -   ✓ Abnormal Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:22:50,866 - INFO -   ✓ Applied Statistics_IntroductoryStatistics-OP.pdf: 2095 chunks
+2026-04-25 19:23:18,536 - INFO -   ✓ Biological Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:23:44,311 - INFO -   ✓ Clinical Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:24:09,560 - INFO -   ✓ Cognitive Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:24:35,294 - INFO -   ✓ Counselling Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:24:59,404 - INFO -   ✓ Developmental Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:25:21,067 - INFO -   ✓ Experimental Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:25:43,622 - INFO -   ✓ Foundations of Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:26:28,213 - INFO -   ✓ General Biology_Biology2e-WEB.pdf: 5343 chunks
+2026-04-25 19:26:45,538 - INFO -   ✓ General Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:27:03,769 - INFO -   ✓ Health Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:27:22,468 - INFO -   ✓ History of Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:27:43,124 - INFO -   ✓ Human Development_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:28:06,978 - INFO -   ✓ Lab Work _ Practical_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:28:26,492 - INFO -   ✓ Personality Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:28:26,500 - INFO -   💾 Storing 62158 chunks in vector DB...
+2026-04-25 19:28:32,733 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/embedding-001:batchEmbedContents "HTTP/1.1 400 Bad Request"
+2026-04-25 19:28:32,740 - ERROR -   ❌ Vector store error: Error embedding content (INVALID_ARGUMENT): 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2026-04-25 19:28:32,751 - INFO - 
+📊 Progress: 160/279 PDFs
+2026-04-25 19:28:32,767 - INFO -    Chunks: 494,016
+2026-04-25 19:28:32,767 - INFO -    Stored: 0
+2026-04-25 19:28:32,767 - INFO - 
+🔄 BATCH 9/14
+2026-04-25 19:28:32,776 - INFO -    Processing PDFs 161 to 180 of 279
+2026-04-25 19:28:32,776 - INFO - 
+📦 Processing batch of 20 PDFs...
+2026-04-25 19:28:52,464 - INFO -   ✓ Psychological Testing _ Assessment_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:29:16,618 - INFO -   ✓ Research Methods & Ethics_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:29:40,005 - INFO -   ✓ Social Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:29:57,806 - INFO -   ✓ Abnormal Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:30:16,416 - INFO -   ✓ Applied Statistics_IntroductoryStatistics-OP.pdf: 2095 chunks
+2026-04-25 19:30:38,156 - INFO -   ✓ Biological Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:30:56,125 - INFO -   ✓ Clinical Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:31:18,407 - INFO -   ✓ Cognitive Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:31:40,730 - INFO -   ✓ Counselling Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:32:04,263 - INFO -   ✓ Developmental Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:32:40,292 - INFO -   ✓ Experimental Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:44:29,483 - INFO -   ✓ Foundations of Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:45:32,655 - INFO -   ✓ General Biology_Biology2e-WEB.pdf: 5343 chunks
+2026-04-25 19:46:00,715 - WARNING - ⚠️  Failed to read General Psychology_Psychology2e_WEB.pdf: 
+2026-04-25 19:46:02,758 - WARNING - ⚠️  Failed to read Health Psychology_Psychology2e_WEB.pdf: 
+2026-04-25 19:46:04,791 - WARNING - ⚠️  Failed to read History of Psychology_Psychology2e_WEB.pdf: 
+2026-04-25 19:46:06,827 - WARNING - ⚠️  Failed to read Human Development_Psychology2e_WEB.pdf: 
+2026-04-25 19:46:08,873 - WARNING - ⚠️  Failed to read Lab Work _ Practical_Psychology2e_WEB.pdf: 
+2026-04-25 19:46:13,512 - WARNING - ⚠️  Failed to read Personality Psychology_Psychology2e_WEB.pdf: 
+2026-04-25 19:46:40,826 - WARNING - ⚠️  Failed to read Psychological Testing _ Assessment_Psychology2e_WEB.pdf: 
+2026-04-25 19:46:41,101 - INFO -   💾 Storing 40878 chunks in vector DB...
+2026-04-25 19:46:45,346 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/embedding-001:batchEmbedContents "HTTP/1.1 400 Bad Request"
+2026-04-25 19:46:45,355 - ERROR -   ❌ Vector store error: Error embedding content (INVALID_ARGUMENT): 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2026-04-25 19:46:45,355 - INFO - 
+📊 Progress: 173/279 PDFs
+2026-04-25 19:46:45,355 - INFO -    Chunks: 534,894
+2026-04-25 19:46:45,355 - INFO -    Stored: 0
+2026-04-25 19:46:45,355 - INFO - 
+🔄 BATCH 10/14
+2026-04-25 19:46:45,355 - INFO -    Processing PDFs 181 to 200 of 279
+2026-04-25 19:46:45,355 - INFO - 
+📦 Processing batch of 20 PDFs...
+2026-04-25 19:46:48,412 - WARNING - ⚠️  Failed to read Research Methods & Ethics_Psychology2e_WEB.pdf: 
+2026-04-25 19:46:50,466 - WARNING - ⚠️  Failed to read Social Psychology_Psychology2e_WEB.pdf: 
+2026-04-25 19:46:52,495 - WARNING - ⚠️  Failed to read Psychology2e_WEB.pdf: 
+2026-04-25 19:47:16,689 - INFO -   ✓ Abnormal Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-25 19:47:41,334 - INFO -   ✓ Applied Statistics_IntroductoryStatistics-OP.pdf: 2095 chunks
+2026-04-25 19:48:06,510 - INFO -   ✓ Biological Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-26 13:48:14,960 - INFO - 🔧 Initializing ingestion engine...
+2026-04-26 13:48:31,559 - INFO - ✅ Google Gemini Embeddings ready
+2026-04-26 13:48:31,559 - INFO - 
+======================================================================
+2026-04-26 13:48:31,559 - INFO - ⚡ FAST BATCH RAG INGESTION PIPELINE
+2026-04-26 13:48:31,559 - INFO - ======================================================================
+2026-04-26 13:48:31,603 - INFO - 📁 Found 279 PDFs to process
+2026-04-26 13:48:31,605 - INFO - 📚 Initializing vector store...
+2026-04-26 13:48:33,484 - INFO - ✅ Vector store initialized at C:\Users\admin\Desktop\desktop\NEURO_MENTAL\data\vector_db
+2026-04-26 13:48:33,484 - INFO - 
+🔄 BATCH 1/14
+2026-04-26 13:48:33,484 - INFO -    Processing PDFs 1 to 20 of 279
+2026-04-26 13:48:33,484 - INFO - 
+📦 Processing batch of 20 PDFs...
+2026-04-26 13:48:57,744 - INFO -   ✓ Abnormal Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-26 13:49:28,367 - INFO -   ✓ Applied Statistics_IntroductoryStatistics-OP.pdf: 2095 chunks
+2026-04-26 13:49:51,516 - INFO -   ✓ Biological Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-26 13:50:13,788 - INFO -   ✓ Clinical Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-26 13:50:35,557 - INFO -   ✓ Cognitive Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-26 13:50:58,084 - INFO -   ✓ Counselling Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-26 13:51:19,633 - INFO -   ✓ Developmental Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-26 13:51:44,921 - INFO -   ✓ Experimental Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-26 13:52:11,633 - INFO -   ✓ Foundations of Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-26 13:52:53,529 - INFO -   ✓ General Biology_Biology2e-WEB.pdf: 5343 chunks
+2026-04-26 13:53:16,423 - INFO -   ✓ General Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-26 13:53:39,572 - INFO -   ✓ Health Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-26 13:54:02,500 - INFO -   ✓ History of Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-26 13:54:24,774 - INFO -   ✓ Human Development_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-26 13:54:47,516 - INFO -   ✓ Lab Work _ Practical_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-26 13:55:09,497 - INFO -   ✓ Personality Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-26 13:55:31,602 - INFO -   ✓ Psychological Testing _ Assessment_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-26 13:55:53,736 - INFO -   ✓ Research Methods & Ethics_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-26 13:56:16,094 - INFO -   ✓ Social Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-26 13:56:39,110 - INFO -   ✓ Abnormal Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-26 13:56:39,110 - INFO -   💾 Storing 62158 chunks in vector DB...
+2026-04-26 13:56:47,651 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/embedding-001:batchEmbedContents "HTTP/1.1 404 Not Found"
+2026-04-26 13:56:47,654 - ERROR -   ❌ Vector store error: Error embedding content (NOT_FOUND): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/embedding-001 is not found for API version v1beta, or is not supported for embedContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-04-26 13:56:47,654 - INFO - 
+📊 Progress: 20/279 PDFs
+2026-04-26 13:56:47,654 - INFO -    Chunks: 62,158
+2026-04-26 13:56:47,662 - INFO -    Stored: 0
+2026-04-26 13:56:47,662 - INFO - 
+🔄 BATCH 2/14
+2026-04-26 13:56:47,662 - INFO -    Processing PDFs 21 to 40 of 279
+2026-04-26 13:56:47,664 - INFO - 
+📦 Processing batch of 20 PDFs...
+2026-04-26 13:57:12,381 - INFO -   ✓ Applied Statistics_IntroductoryStatistics-OP.pdf: 2095 chunks
+2026-04-26 13:57:37,482 - INFO -   ✓ Biological Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-26 13:58:06,076 - INFO -   ✓ Clinical Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-26 13:58:33,487 - INFO -   ✓ Cognitive Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-26 13:59:00,857 - INFO -   ✓ Counselling Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-26 13:59:28,618 - INFO -   ✓ Developmental Psychology_Psychology2e_WEB.pdf: 3040 chunks
+2026-04-26 13:59:57,099 - INFO -   ✓ Experimental Psychology_Psychology2e_WEB.pdf: 3040 chunks

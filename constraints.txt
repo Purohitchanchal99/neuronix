@@ -1,0 +1,66 @@
+# ============================================================================
+# Neuronix AI - Locked Dependency Constraints
+# ============================================================================
+# This file ensures exact version compatibility across all installations
+# Use with: pip install -r requirements.txt -c constraints.txt
+#
+# Last Updated: 2026-04-16
+# Python Version: 3.11+
+# ============================================================================
+
+# Core LangChain Stack (0.3.x series - modern aligned versions)
+langchain==0.3.7
+langchain-core==0.3.47
+langchain-community==0.3.7
+langchain-text-splitters==0.3.7
+langchain-google-genai==2.0.10
+
+# Google AI (aligned with langchain-google-genai)
+google-generativeai==0.8.6
+google-api-core==2.30.3
+
+# LLM Integrations
+# (google-generativeai pinned above)
+
+# Vector Database & Embeddings
+chromadb==0.5.5
+
+# Embeddings
+sentence-transformers==3.0.1
+
+# ML/AI Libraries
+torch==2.3.1
+transformers==4.39.3
+
+# Data Processing & Science
+numpy<2.0.0
+scipy==1.13.0
+
+# PDF Processing
+pypdf==3.17.1
+beautifulsoup4==4.12.0
+
+# String Matching
+rapidfuzz==3.6.0
+
+# Web Framework
+FastAPI==0.104.1
+
+# API Client
+OpenAI==1.3.8
+
+# ============================================================================
+# Notes on Compatibility:
+#
+# ✅ langchain 0.1.20:
+#   - Compatible with langchain-core 1.2.30
+#   - Works with langchain-community 0.4.1
+#   - Supports langchain-google-genai 4.2.2
+#
+# ✅ numpy < 2.0.0:
+#   - Prevents breaking changes with torch/transformers
+#   - ML libraries require numpy 1.x series
+#
+# ✅ All versions verified to work together on Python 3.11
+#
+# ============================================================================

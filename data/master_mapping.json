@@ -1,0 +1,2043 @@
+{
+  "metadata": {
+    "description": "Master mapping of countries to psychology subjects with paid/free textbook status",
+    "last_updated": "2026-04-21",
+    "status_legend": {
+      "0": "Free Alternative Available",
+      "1": "Paid Textbook (redirect to free alternative)"
+    }
+  },
+  "countries": {
+    "US": {
+      "country_code": "ðŸ‡ºðŸ‡¸",
+      "full_name": "United States",
+      "subjects": {
+        "general_psychology": {
+          "subject_name": "General Psychology",
+          "paid_book": "General Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "cognitive_psychology": {
+          "subject_name": "Cognitive Psychology",
+          "paid_book": "Cognitive Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "social_psychology": {
+          "subject_name": "Social Psychology",
+          "paid_book": "Social Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "personality_psychology": {
+          "subject_name": "Personality Psychology",
+          "paid_book": "Personality Theories",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "abnormal_psychology": {
+          "subject_name": "Abnormal Psychology",
+          "paid_book": "Abnormal Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "research_methods": {
+          "subject_name": "Research Methods & Ethics",
+          "paid_book": "Research Methods in Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "health_psychology": {
+          "subject_name": "Health Psychology",
+          "paid_book": "Health Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "experimental_psychology": {
+          "subject_name": "Experimental Psychology",
+          "paid_book": "Experimental Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "biological_psychology": {
+          "subject_name": "Biological Psychology",
+          "paid_book": "Biopsychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "lab_work": {
+          "subject_name": "Lab Work / Practical",
+          "paid_book": "Laboratory Experiments in Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "developmental_psychology": {
+          "subject_name": "Developmental Psychology",
+          "paid_book": "Development Through the Lifespan",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "history_of_psychology": {
+          "subject_name": "History of Psychology",
+          "paid_book": "A History of Modern Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "research_skills": {
+          "subject_name": "Research Skills",
+          "paid_book": "The Craft of Research",
+          "status": 0,
+          "free_alternative": "https://ocw.mit.edu/courses/21w-781-advanced-research-writing-spring-2017/"
+        },
+        "human_development": {
+          "subject_name": "Human Development",
+          "paid_book": "Life-Span Development",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "general_biology": {
+          "subject_name": "General Biology",
+          "paid_book": "Campbell Biology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Biology2e_WEB.pdf"
+        },
+        "foundations_psychology": {
+          "subject_name": "Foundations of Psychology",
+          "paid_book": "Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "clinical_psychology": {
+          "subject_name": "Clinical Psychology",
+          "paid_book": "Clinical Psychology: Science, Practice, and Diversity",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/abnormalpsychology2019/"
+        },
+        "counselling_psychology": {
+          "subject_name": "Counselling Psychology",
+          "paid_book": "Theory and Practice of Counseling and Psychotherapy",
+          "status": 0,
+          "free_alternative": "https://opentextbc.ca/psych/"
+        },
+        "statistics": {
+          "subject_name": "Applied Statistics",
+          "paid_book": "Statistics for the Behavioral Sciences",
+          "status": 0,
+          "free_alternative": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf"
+        },
+        "advanced_research": {
+          "subject_name": "Advanced Research Methods",
+          "paid_book": "Research Design",
+          "status": 0,
+          "free_alternative": "https://ocw.mit.edu/courses/brain-and-cognitive-sciences/"
+        },
+        "psychological_testing": {
+          "subject_name": "Psychological Testing / Assessment",
+          "paid_book": "Psychological Testing and Assessment",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/psychologydegree/chapter/psychological-testing/"
+        },
+        "thesis_project": {
+          "subject_name": "Thesis / Project",
+          "paid_book": "Writing Your Psychology Research Paper",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/writingforpsychology/"
+        }
+      }
+    },
+    "UK": {
+      "country_code": "ðŸ‡¬ðŸ‡§",
+      "full_name": "United Kingdom",
+      "subjects": {
+        "general_psychology": {
+          "subject_name": "General Psychology",
+          "paid_book": "General Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "cognitive_psychology": {
+          "subject_name": "Cognitive Psychology",
+          "paid_book": "Cognitive Psychology: A Student's Handbook",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "social_psychology": {
+          "subject_name": "Social Psychology",
+          "paid_book": "Introducing Social Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "personality_psychology": {
+          "subject_name": "Personality Psychology",
+          "paid_book": "Personality Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "abnormal_psychology": {
+          "subject_name": "Abnormal Psychology",
+          "paid_book": "Abnormal Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "research_methods": {
+          "subject_name": "Research Methods & Ethics",
+          "paid_book": "Research Methods and Statistics",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "health_psychology": {
+          "subject_name": "Health Psychology",
+          "paid_book": "Health Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "experimental_psychology": {
+          "subject_name": "Experimental Psychology",
+          "paid_book": "Experimental Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "biological_psychology": {
+          "subject_name": "Biological Psychology",
+          "paid_book": "Biological Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "lab_work": {
+          "subject_name": "Lab Work / Practical",
+          "paid_book": "Practical Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "developmental_psychology": {
+          "subject_name": "Developmental Psychology",
+          "paid_book": "Developmental Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "history_of_psychology": {
+          "subject_name": "History of Psychology",
+          "paid_book": "The Story of Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "research_skills": {
+          "subject_name": "Research Skills",
+          "paid_book": "The Craft of Research",
+          "status": 0,
+          "free_alternative": "https://ocw.mit.edu/courses/21w-781-advanced-research-writing-spring-2017/"
+        },
+        "human_development": {
+          "subject_name": "Human Development",
+          "paid_book": "Child Development",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "general_biology": {
+          "subject_name": "General Biology",
+          "paid_book": "Biology: A Global Approach",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Biology2e_WEB.pdf"
+        },
+        "foundations_psychology": {
+          "subject_name": "Foundations of Psychology",
+          "paid_book": "Psychology: The Science of Mind and Behaviour",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "clinical_psychology": {
+          "subject_name": "Clinical Psychology",
+          "paid_book": "Clinical Psychology: An Introduction",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/abnormalpsychology2019/"
+        },
+        "counselling_psychology": {
+          "subject_name": "Counselling Psychology",
+          "paid_book": "An Introduction to Counselling",
+          "status": 0,
+          "free_alternative": "https://opentextbc.ca/psych/"
+        },
+        "statistics": {
+          "subject_name": "Applied Statistics",
+          "paid_book": "Statistics in Psychology",
+          "status": 0,
+          "free_alternative": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf"
+        },
+        "advanced_research": {
+          "subject_name": "Advanced Research Methods",
+          "paid_book": "Doing Your Research Project",
+          "status": 0,
+          "free_alternative": "https://ocw.mit.edu/courses/brain-and-cognitive-sciences/"
+        },
+        "psychological_testing": {
+          "subject_name": "Psychological Testing / Assessment",
+          "paid_book": "Psychological Testing: A Practical Approach",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/psychologydegree/chapter/psychological-testing/"
+        },
+        "thesis_project": {
+          "subject_name": "Thesis / Project",
+          "paid_book": "How to Write a Thesis",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/writingforpsychology/"
+        }
+      }
+    },
+    "Canada": {
+      "country_code": "ðŸ‡¨ðŸ‡¦",
+      "full_name": "Canada",
+      "subjects": {
+        "general_psychology": {
+          "subject_name": "General Psychology",
+          "paid_book": "General Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "cognitive_psychology": {
+          "subject_name": "Cognitive Psychology",
+          "paid_book": "Cognition",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "social_psychology": {
+          "subject_name": "Social Psychology",
+          "paid_book": "Social Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "personality_psychology": {
+          "subject_name": "Personality Psychology",
+          "paid_book": "Personality",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "abnormal_psychology": {
+          "subject_name": "Abnormal Psychology",
+          "paid_book": "Psychopathology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "research_methods": {
+          "subject_name": "Research Methods & Ethics",
+          "paid_book": "Methods in Behavioral Research",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "health_psychology": {
+          "subject_name": "Health Psychology",
+          "paid_book": "Health Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "experimental_psychology": {
+          "subject_name": "Experimental Psychology",
+          "paid_book": "Experimental Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "biological_psychology": {
+          "subject_name": "Biological Psychology",
+          "paid_book": "Neuroscience and Behavior",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "lab_work": {
+          "subject_name": "Lab Work / Practical",
+          "paid_book": "Psychology Lab Manual",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "developmental_psychology": {
+          "subject_name": "Developmental Psychology",
+          "paid_book": "Child Development",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "history_of_psychology": {
+          "subject_name": "History of Psychology",
+          "paid_book": "Psychology: Themes and Variations",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "research_skills": {
+          "subject_name": "Research Skills",
+          "paid_book": "The Craft of Research",
+          "status": 0,
+          "free_alternative": "https://ocw.mit.edu/courses/21w-781-advanced-research-writing-spring-2017/"
+        },
+        "human_development": {
+          "subject_name": "Human Development",
+          "paid_book": "Life-Span Development",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "general_biology": {
+          "subject_name": "General Biology",
+          "paid_book": "Campbell Biology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Biology2e_WEB.pdf"
+        },
+        "foundations_psychology": {
+          "subject_name": "Foundations of Psychology",
+          "paid_book": "Psychology: Themes and Variations",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "clinical_psychology": {
+          "subject_name": "Clinical Psychology",
+          "paid_book": "Clinical Psychology",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/abnormalpsychology2019/"
+        },
+        "counselling_psychology": {
+          "subject_name": "Counselling Psychology",
+          "paid_book": "Counselling Psychology",
+          "status": 0,
+          "free_alternative": "https://opentextbc.ca/psych/"
+        },
+        "statistics": {
+          "subject_name": "Applied Statistics",
+          "paid_book": "Psychological Statistics",
+          "status": 0,
+          "free_alternative": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf"
+        },
+        "advanced_research": {
+          "subject_name": "Advanced Research Methods",
+          "paid_book": "Advanced Research Methods",
+          "status": 0,
+          "free_alternative": "https://ocw.mit.edu/courses/brain-and-cognitive-sciences/"
+        },
+        "psychological_testing": {
+          "subject_name": "Psychological Testing / Assessment",
+          "paid_book": "Psychological Testing",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/psychologydegree/chapter/psychological-testing/"
+        },
+        "thesis_project": {
+          "subject_name": "Thesis / Project",
+          "paid_book": "Research Writing",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/writingforpsychology/"
+        }
+      }
+    },
+    "Australia": {
+      "country_code": "ðŸ‡¦ðŸ‡º",
+      "full_name": "Australia",
+      "subjects": {
+        "general_psychology": {
+          "subject_name": "General Psychology",
+          "paid_book": "General Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "cognitive_psychology": {
+          "subject_name": "Cognitive Psychology",
+          "paid_book": "Cognitive Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "social_psychology": {
+          "subject_name": "Social Psychology",
+          "paid_book": "Social Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "personality_psychology": {
+          "subject_name": "Personality Psychology",
+          "paid_book": "Personality Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "abnormal_psychology": {
+          "subject_name": "Abnormal Psychology",
+          "paid_book": "Abnormal Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "research_methods": {
+          "subject_name": "Research Methods & Ethics",
+          "paid_book": "Research Methods",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "health_psychology": {
+          "subject_name": "Health Psychology",
+          "paid_book": "Health Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "experimental_psychology": {
+          "subject_name": "Experimental Psychology",
+          "paid_book": "Experimental Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "biological_psychology": {
+          "subject_name": "Biological Psychology",
+          "paid_book": "Biological Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "lab_work": {
+          "subject_name": "Lab Work / Practical",
+          "paid_book": "Psychology Lab Manual",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "developmental_psychology": {
+          "subject_name": "Developmental Psychology",
+          "paid_book": "Lifespan Development",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "history_of_psychology": {
+          "subject_name": "History of Psychology",
+          "paid_book": "Psychology: From Inquiry to Understanding",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "research_skills": {
+          "subject_name": "Research Skills",
+          "paid_book": "The Craft of Research",
+          "status": 0,
+          "free_alternative": "https://ocw.mit.edu/courses/21w-781-advanced-research-writing-spring-2017/"
+        },
+        "human_development": {
+          "subject_name": "Human Development",
+          "paid_book": "Life-Span Development",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "general_biology": {
+          "subject_name": "General Biology",
+          "paid_book": "Biology: A Global Approach",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Biology2e_WEB.pdf"
+        },
+        "foundations_psychology": {
+          "subject_name": "Foundations of Psychology",
+          "paid_book": "Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "clinical_psychology": {
+          "subject_name": "Clinical Psychology",
+          "paid_book": "Clinical Psychology",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/abnormalpsychology2019/"
+        },
+        "counselling_psychology": {
+          "subject_name": "Counselling Psychology",
+          "paid_book": "Counselling Skills and Theory",
+          "status": 0,
+          "free_alternative": "https://opentextbc.ca/psych/"
+        },
+        "statistics": {
+          "subject_name": "Applied Statistics",
+          "paid_book": "Behavioral Statistics",
+          "status": 0,
+          "free_alternative": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf"
+        },
+        "advanced_research": {
+          "subject_name": "Advanced Research Methods",
+          "paid_book": "Research Methods",
+          "status": 0,
+          "free_alternative": "https://ocw.mit.edu/courses/brain-and-cognitive-sciences/"
+        },
+        "psychological_testing": {
+          "subject_name": "Psychological Testing / Assessment",
+          "paid_book": "Psychological Assessment",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/psychologydegree/chapter/psychological-testing/"
+        },
+        "thesis_project": {
+          "subject_name": "Thesis / Project",
+          "paid_book": "Thesis Writing",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/writingforpsychology/"
+        }
+      }
+    },
+    "India": {
+      "country_code": "ðŸ‡®ðŸ‡³",
+      "full_name": "India",
+      "subjects": {
+        "general_psychology": {
+          "subject_name": "General Psychology",
+          "paid_book": "General Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "cognitive_psychology": {
+          "subject_name": "Cognitive Psychology",
+          "paid_book": "Cognitive Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "social_psychology": {
+          "subject_name": "Social Psychology",
+          "paid_book": "Social Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "personality_psychology": {
+          "subject_name": "Personality Psychology",
+          "paid_book": "Personality Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "abnormal_psychology": {
+          "subject_name": "Abnormal Psychology",
+          "paid_book": "Abnormal Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "research_methods": {
+          "subject_name": "Research Methods & Ethics",
+          "paid_book": "Research Methodology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "health_psychology": {
+          "subject_name": "Health Psychology",
+          "paid_book": "Health Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "experimental_psychology": {
+          "subject_name": "Experimental Psychology",
+          "paid_book": "Experimental Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "biological_psychology": {
+          "subject_name": "Biological Psychology",
+          "paid_book": "Physiological Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "lab_work": {
+          "subject_name": "Lab Work / Practical",
+          "paid_book": "Practical Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "developmental_psychology": {
+          "subject_name": "Developmental Psychology",
+          "paid_book": "Developmental Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "history_of_psychology": {
+          "subject_name": "History of Psychology",
+          "paid_book": "History of Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "research_skills": {
+          "subject_name": "Research Skills",
+          "paid_book": "The Craft of Research",
+          "status": 0,
+          "free_alternative": "https://ocw.mit.edu/courses/21w-781-advanced-research-writing-spring-2017/"
+        },
+        "human_development": {
+          "subject_name": "Human Development",
+          "paid_book": "Life-Span Development",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "general_biology": {
+          "subject_name": "General Biology",
+          "paid_book": "NCERT Biology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Biology2e_WEB.pdf"
+        },
+        "foundations_psychology": {
+          "subject_name": "Foundations of Psychology",
+          "paid_book": "Introduction to Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "clinical_psychology": {
+          "subject_name": "Clinical Psychology",
+          "paid_book": "Clinical Psychology",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/abnormalpsychology2019/"
+        },
+        "counselling_psychology": {
+          "subject_name": "Counselling Psychology",
+          "paid_book": "Guidance and Counselling",
+          "status": 0,
+          "free_alternative": "https://opentextbc.ca/psych/"
+        },
+        "statistics": {
+          "subject_name": "Applied Statistics",
+          "paid_book": "Statistics in Psychology",
+          "status": 0,
+          "free_alternative": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf"
+        },
+        "advanced_research": {
+          "subject_name": "Advanced Research Methods",
+          "paid_book": "Research Methodology",
+          "status": 0,
+          "free_alternative": "https://ocw.mit.edu/courses/brain-and-cognitive-sciences/"
+        },
+        "psychological_testing": {
+          "subject_name": "Psychological Testing / Assessment",
+          "paid_book": "Psychological Assessment",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/psychologydegree/chapter/psychological-testing/"
+        },
+        "thesis_project": {
+          "subject_name": "Thesis / Project",
+          "paid_book": "Dissertation Writing",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/writingforpsychology/"
+        }
+      }
+    },
+    "Germany": {
+      "country_code": "ðŸ‡©ðŸ‡ª",
+      "full_name": "Germany",
+      "subjects": {
+        "general_psychology": {
+          "subject_name": "General Psychology",
+          "paid_book": "General Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "cognitive_psychology": {
+          "subject_name": "Cognitive Psychology",
+          "paid_book": "Kognitive Psychologie",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "social_psychology": {
+          "subject_name": "Social Psychology",
+          "paid_book": "Sozialpsychologie",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "personality_psychology": {
+          "subject_name": "Personality Psychology",
+          "paid_book": "PersÃ¶nlichkeitspsychologie",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "abnormal_psychology": {
+          "subject_name": "Abnormal Psychology",
+          "paid_book": "Klinische Psychologie",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "research_methods": {
+          "subject_name": "Research Methods & Ethics",
+          "paid_book": "Forschungsmethoden der Psychologie",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "health_psychology": {
+          "subject_name": "Health Psychology",
+          "paid_book": "Gesundheitspsychologie",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "experimental_psychology": {
+          "subject_name": "Experimental Psychology",
+          "paid_book": "Experimentalpsychologie",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "biological_psychology": {
+          "subject_name": "Biological Psychology",
+          "paid_book": "Biologische Psychologie",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "lab_work": {
+          "subject_name": "Lab Work / Practical",
+          "paid_book": "Psychologisches Praktikum",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "developmental_psychology": {
+          "subject_name": "Developmental Psychology",
+          "paid_book": "Entwicklungspsychologie",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "history_of_psychology": {
+          "subject_name": "History of Psychology",
+          "paid_book": "Geschichte der Psychologie",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "research_skills": {
+          "subject_name": "Research Skills",
+          "paid_book": "The Craft of Research",
+          "status": 0,
+          "free_alternative": "https://ocw.mit.edu/courses/21w-781-advanced-research-writing-spring-2017/"
+        },
+        "human_development": {
+          "subject_name": "Human Development",
+          "paid_book": "Life-Span Development",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "general_biology": {
+          "subject_name": "General Biology",
+          "paid_book": "Campbell Biology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Biology2e_WEB.pdf"
+        },
+        "foundations_psychology": {
+          "subject_name": "Foundations of Psychology",
+          "paid_book": "Man's Search for Meaning",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "clinical_psychology": {
+          "subject_name": "Clinical Psychology",
+          "paid_book": "Klinische Psychologie",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/abnormalpsychology2019/"
+        },
+        "counselling_psychology": {
+          "subject_name": "Counselling Psychology",
+          "paid_book": "Counseling Psychology",
+          "status": 0,
+          "free_alternative": "https://opentextbc.ca/psych/"
+        },
+        "statistics": {
+          "subject_name": "Applied Statistics",
+          "paid_book": "Statistik in Psychologie",
+          "status": 0,
+          "free_alternative": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf"
+        },
+        "advanced_research": {
+          "subject_name": "Advanced Research Methods",
+          "paid_book": "Forschungsmethoden",
+          "status": 0,
+          "free_alternative": "https://ocw.mit.edu/courses/brain-and-cognitive-sciences/"
+        },
+        "psychological_testing": {
+          "subject_name": "Psychological Testing / Assessment",
+          "paid_book": "Psychologische Diagnostik",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/psychologydegree/chapter/psychological-testing/"
+        },
+        "thesis_project": {
+          "subject_name": "Thesis / Project",
+          "paid_book": "Thesis Manuals",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/writingforpsychology/"
+        }
+      }
+    },
+    "France": {
+      "country_code": "ðŸ‡«ðŸ‡·",
+      "full_name": "France",
+      "subjects": {
+        "general_psychology": {
+          "subject_name": "General Psychology",
+          "paid_book": "General Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "cognitive_psychology": {
+          "subject_name": "Cognitive Psychology",
+          "paid_book": "Psychologie cognitive",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "social_psychology": {
+          "subject_name": "Social Psychology",
+          "paid_book": "Psychologie sociale",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "personality_psychology": {
+          "subject_name": "Personality Psychology",
+          "paid_book": "Psychologie de la personnalitÃ©",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "abnormal_psychology": {
+          "subject_name": "Abnormal Psychology",
+          "paid_book": "Psychopathologie",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "research_methods": {
+          "subject_name": "Research Methods & Ethics",
+          "paid_book": "MÃ©thodes en psychologie",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "health_psychology": {
+          "subject_name": "Health Psychology",
+          "paid_book": "Psychologie de la santÃ©",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "experimental_psychology": {
+          "subject_name": "Experimental Psychology",
+          "paid_book": "Psychologie expÃ©rimentale",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "biological_psychology": {
+          "subject_name": "Biological Psychology",
+          "paid_book": "Psychobiologie",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "lab_work": {
+          "subject_name": "Lab Work / Practical",
+          "paid_book": "Travaux pratiques de psychologie",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "developmental_psychology": {
+          "subject_name": "Developmental Psychology",
+          "paid_book": "Psychologie du dÃ©veloppement",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "history_of_psychology": {
+          "subject_name": "History of Psychology",
+          "paid_book": "Histoire de la psychologie",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "research_skills": {
+          "subject_name": "Research Skills",
+          "paid_book": "The Craft of Research",
+          "status": 0,
+          "free_alternative": "https://ocw.mit.edu/courses/21w-781-advanced-research-writing-spring-2017/"
+        },
+        "human_development": {
+          "subject_name": "Human Development",
+          "paid_book": "The Psychology of Intelligence",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "general_biology": {
+          "subject_name": "General Biology",
+          "paid_book": "Biology: A Global Approach",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Biology2e_WEB.pdf"
+        },
+        "foundations_psychology": {
+          "subject_name": "Foundations of Psychology",
+          "paid_book": "The Psychology of Intelligence",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "clinical_psychology": {
+          "subject_name": "Clinical Psychology",
+          "paid_book": "Psychologie clinique",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/abnormalpsychology2019/"
+        },
+        "counselling_psychology": {
+          "subject_name": "Counselling Psychology",
+          "paid_book": "Approches du counseling",
+          "status": 0,
+          "free_alternative": "https://opentextbc.ca/psych/"
+        },
+        "statistics": {
+          "subject_name": "Applied Statistics",
+          "paid_book": "Statistiques en psychologie",
+          "status": 0,
+          "free_alternative": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf"
+        },
+        "advanced_research": {
+          "subject_name": "Advanced Research Methods",
+          "paid_book": "MÃ©thodes avancÃ©es",
+          "status": 0,
+          "free_alternative": "https://ocw.mit.edu/courses/brain-and-cognitive-sciences/"
+        },
+        "psychological_testing": {
+          "subject_name": "Psychological Testing / Assessment",
+          "paid_book": "Ã‰valuation psychologique",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/psychologydegree/chapter/psychological-testing/"
+        },
+        "thesis_project": {
+          "subject_name": "Thesis / Project",
+          "paid_book": "Thesis Manuals",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/writingforpsychology/"
+        }
+      }
+    },
+    "Netherlands": {
+      "country_code": "ðŸ‡³ðŸ‡±",
+      "full_name": "Netherlands",
+      "subjects": {
+        "general_psychology": {
+          "subject_name": "General Psychology",
+          "paid_book": "General Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "cognitive_psychology": {
+          "subject_name": "Cognitive Psychology",
+          "paid_book": "Cognitive Psychology European Edition",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "social_psychology": {
+          "subject_name": "Social Psychology",
+          "paid_book": "Social Psychology European Edition",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "personality_psychology": {
+          "subject_name": "Personality Psychology",
+          "paid_book": "Personality Psychology European Edition",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "abnormal_psychology": {
+          "subject_name": "Abnormal Psychology",
+          "paid_book": "Clinical Psychology European Edition",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "research_methods": {
+          "subject_name": "Research Methods & Ethics",
+          "paid_book": "Research Methods European Edition",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "health_psychology": {
+          "subject_name": "Health Psychology",
+          "paid_book": "Health Psychology European Edition",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "experimental_psychology": {
+          "subject_name": "Experimental Psychology",
+          "paid_book": "Experimental Psychology European Edition",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "biological_psychology": {
+          "subject_name": "Biological Psychology",
+          "paid_book": "Biological Psychology European Edition",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "lab_work": {
+          "subject_name": "Lab Work / Practical",
+          "paid_book": "Psychology Practical Manual EU",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "developmental_psychology": {
+          "subject_name": "Developmental Psychology",
+          "paid_book": "Developmental Psychology European Edition",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "history_of_psychology": {
+          "subject_name": "History of Psychology",
+          "paid_book": "History of Psychology European Edition",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "research_skills": {
+          "subject_name": "Research Skills",
+          "paid_book": "The Craft of Research",
+          "status": 0,
+          "free_alternative": "https://ocw.mit.edu/courses/21w-781-advanced-research-writing-spring-2017/"
+        },
+        "human_development": {
+          "subject_name": "Human Development",
+          "paid_book": "Life-Span Development",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "general_biology": {
+          "subject_name": "General Biology",
+          "paid_book": "Campbell Biology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Biology2e_WEB.pdf"
+        },
+        "foundations_psychology": {
+          "subject_name": "Foundations of Psychology",
+          "paid_book": "Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "clinical_psychology": {
+          "subject_name": "Clinical Psychology",
+          "paid_book": "Clinical Psychology EU Edition",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/abnormalpsychology2019/"
+        },
+        "counselling_psychology": {
+          "subject_name": "Counselling Psychology",
+          "paid_book": "Counselling Skills",
+          "status": 0,
+          "free_alternative": "https://opentextbc.ca/psych/"
+        },
+        "statistics": {
+          "subject_name": "Applied Statistics",
+          "paid_book": "Statistics Psychology EU",
+          "status": 0,
+          "free_alternative": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf"
+        },
+        "advanced_research": {
+          "subject_name": "Advanced Research Methods",
+          "paid_book": "Research Methods EU",
+          "status": 0,
+          "free_alternative": "https://ocw.mit.edu/courses/brain-and-cognitive-sciences/"
+        },
+        "psychological_testing": {
+          "subject_name": "Psychological Testing / Assessment",
+          "paid_book": "Psychological Assessment EU",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/psychologydegree/chapter/psychological-testing/"
+        },
+        "thesis_project": {
+          "subject_name": "Thesis / Project",
+          "paid_book": "Thesis Manuals",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/writingforpsychology/"
+        }
+      }
+    },
+    "Sweden": {
+      "country_code": "ðŸ‡¸ðŸ‡ª",
+      "full_name": "Sweden",
+      "subjects": {
+        "general_psychology": {
+          "subject_name": "General Psychology",
+          "paid_book": "General Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "cognitive_psychology": {
+          "subject_name": "Cognitive Psychology",
+          "paid_book": "Kognitiv psykologi",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "social_psychology": {
+          "subject_name": "Social Psychology",
+          "paid_book": "Socialpsykologi",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "personality_psychology": {
+          "subject_name": "Personality Psychology",
+          "paid_book": "Personlighetspsykologi",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "abnormal_psychology": {
+          "subject_name": "Abnormal Psychology",
+          "paid_book": "Klinisk psykologi",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "research_methods": {
+          "subject_name": "Research Methods & Ethics",
+          "paid_book": "Forskningsmetoder i psykologi",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "health_psychology": {
+          "subject_name": "Health Psychology",
+          "paid_book": "HÃ¤lsopsykologi",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "experimental_psychology": {
+          "subject_name": "Experimental Psychology",
+          "paid_book": "Experimentell psykologi",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "biological_psychology": {
+          "subject_name": "Biological Psychology",
+          "paid_book": "Biologisk psykologi",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "lab_work": {
+          "subject_name": "Lab Work / Practical",
+          "paid_book": "Psykologilaborationer",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "developmental_psychology": {
+          "subject_name": "Developmental Psychology",
+          "paid_book": "Utvecklingspsykologi",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "history_of_psychology": {
+          "subject_name": "History of Psychology",
+          "paid_book": "Psychology History Nordic Edition",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "research_skills": {
+          "subject_name": "Research Skills",
+          "paid_book": "The Craft of Research",
+          "status": 0,
+          "free_alternative": "https://ocw.mit.edu/courses/21w-781-advanced-research-writing-spring-2017/"
+        },
+        "human_development": {
+          "subject_name": "Human Development",
+          "paid_book": "Life-Span Development",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "general_biology": {
+          "subject_name": "General Biology",
+          "paid_book": "Biology: A Global Approach",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Biology2e_WEB.pdf"
+        },
+        "foundations_psychology": {
+          "subject_name": "Foundations of Psychology",
+          "paid_book": "Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "clinical_psychology": {
+          "subject_name": "Clinical Psychology",
+          "paid_book": "Klinisk psykologi",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/abnormalpsychology2019/"
+        },
+        "counselling_psychology": {
+          "subject_name": "Counselling Psychology",
+          "paid_book": "Counselling Psychology",
+          "status": 0,
+          "free_alternative": "https://opentextbc.ca/psych/"
+        },
+        "statistics": {
+          "subject_name": "Applied Statistics",
+          "paid_book": "Statistik psykologi",
+          "status": 0,
+          "free_alternative": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf"
+        },
+        "advanced_research": {
+          "subject_name": "Advanced Research Methods",
+          "paid_book": "Research Methods",
+          "status": 0,
+          "free_alternative": "https://ocw.mit.edu/courses/brain-and-cognitive-sciences/"
+        },
+        "psychological_testing": {
+          "subject_name": "Psychological Testing / Assessment",
+          "paid_book": "Psychological Assessment",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/psychologydegree/chapter/psychological-testing/"
+        },
+        "thesis_project": {
+          "subject_name": "Thesis / Project",
+          "paid_book": "Thesis Manuals",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/writingforpsychology/"
+        }
+      }
+    },
+    "Finland": {
+      "country_code": "ðŸ‡«ðŸ‡®",
+      "full_name": "Finland",
+      "subjects": {
+        "general_psychology": {
+          "subject_name": "General Psychology",
+          "paid_book": "General Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "cognitive_psychology": {
+          "subject_name": "Cognitive Psychology",
+          "paid_book": "Kognitiivinen psykologia",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "social_psychology": {
+          "subject_name": "Social Psychology",
+          "paid_book": "Sosiaalipsykologia",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "personality_psychology": {
+          "subject_name": "Personality Psychology",
+          "paid_book": "Persoonallisuuspsykologia",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "abnormal_psychology": {
+          "subject_name": "Abnormal Psychology",
+          "paid_book": "Kliininen psykologia",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "research_methods": {
+          "subject_name": "Research Methods & Ethics",
+          "paid_book": "TutkimusmenetelmÃ¤t psykologiassa",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "health_psychology": {
+          "subject_name": "Health Psychology",
+          "paid_book": "Terveyspsykologia",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "experimental_psychology": {
+          "subject_name": "Experimental Psychology",
+          "paid_book": "Kokeellinen psykologia",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "biological_psychology": {
+          "subject_name": "Biological Psychology",
+          "paid_book": "Biologinen psykologia",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "lab_work": {
+          "subject_name": "Lab Work / Practical",
+          "paid_book": "Psykologian laboratorio",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "developmental_psychology": {
+          "subject_name": "Developmental Psychology",
+          "paid_book": "Kehityspsykologia",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "history_of_psychology": {
+          "subject_name": "History of Psychology",
+          "paid_book": "Psykologian historia",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "research_skills": {
+          "subject_name": "Research Skills",
+          "paid_book": "The Craft of Research",
+          "status": 0,
+          "free_alternative": "https://ocw.mit.edu/courses/21w-781-advanced-research-writing-spring-2017/"
+        },
+        "human_development": {
+          "subject_name": "Human Development",
+          "paid_book": "Life-Span Development",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "general_biology": {
+          "subject_name": "General Biology",
+          "paid_book": "Campbell Biology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Biology2e_WEB.pdf"
+        },
+        "foundations_psychology": {
+          "subject_name": "Foundations of Psychology",
+          "paid_book": "Psychology: Themes and Variations",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "clinical_psychology": {
+          "subject_name": "Clinical Psychology",
+          "paid_book": "Kliininen psykologia",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/abnormalpsychology2019/"
+        },
+        "counselling_psychology": {
+          "subject_name": "Counselling Psychology",
+          "paid_book": "Counselling Psychology",
+          "status": 0,
+          "free_alternative": "https://opentextbc.ca/psych/"
+        },
+        "statistics": {
+          "subject_name": "Applied Statistics",
+          "paid_book": "Psykologinen tilastotiede",
+          "status": 0,
+          "free_alternative": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf"
+        },
+        "advanced_research": {
+          "subject_name": "Advanced Research Methods",
+          "paid_book": "TutkimusmenetelmÃ¤t",
+          "status": 0,
+          "free_alternative": "https://ocw.mit.edu/courses/brain-and-cognitive-sciences/"
+        },
+        "psychological_testing": {
+          "subject_name": "Psychological Testing / Assessment",
+          "paid_book": "Psykologinen arviointi",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/psychologydegree/chapter/psychological-testing/"
+        },
+        "thesis_project": {
+          "subject_name": "Thesis / Project",
+          "paid_book": "Thesis Manuals",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/writingforpsychology/"
+        }
+      }
+    },
+    "Norway": {
+      "country_code": "ðŸ‡³ðŸ‡´",
+      "full_name": "Norway",
+      "subjects": {
+        "general_psychology": {
+          "subject_name": "General Psychology",
+          "paid_book": "General Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "cognitive_psychology": {
+          "subject_name": "Cognitive Psychology",
+          "paid_book": "Kognitiv psykologi",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "social_psychology": {
+          "subject_name": "Social Psychology",
+          "paid_book": "Sosialpsykologi",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "personality_psychology": {
+          "subject_name": "Personality Psychology",
+          "paid_book": "Personlighetspsykologi",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "abnormal_psychology": {
+          "subject_name": "Abnormal Psychology",
+          "paid_book": "Klinisk psykologi",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "research_methods": {
+          "subject_name": "Research Methods & Ethics",
+          "paid_book": "Forskningsmetoder",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "health_psychology": {
+          "subject_name": "Health Psychology",
+          "paid_book": "Helsepsykologi",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "experimental_psychology": {
+          "subject_name": "Experimental Psychology",
+          "paid_book": "Eksperimentell psykologi",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "biological_psychology": {
+          "subject_name": "Biological Psychology",
+          "paid_book": "Biologisk psykologi",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "lab_work": {
+          "subject_name": "Lab Work / Practical",
+          "paid_book": "Psykologisk praksis",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "developmental_psychology": {
+          "subject_name": "Developmental Psychology",
+          "paid_book": "Utviklingspsykologi",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "history_of_psychology": {
+          "subject_name": "History of Psychology",
+          "paid_book": "Psykologiens historie",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "research_skills": {
+          "subject_name": "Research Skills",
+          "paid_book": "The Craft of Research",
+          "status": 0,
+          "free_alternative": "https://ocw.mit.edu/courses/21w-781-advanced-research-writing-spring-2017/"
+        },
+        "human_development": {
+          "subject_name": "Human Development",
+          "paid_book": "Life-Span Development",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "general_biology": {
+          "subject_name": "General Biology",
+          "paid_book": "Biology: A Global Approach",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Biology2e_WEB.pdf"
+        },
+        "foundations_psychology": {
+          "subject_name": "Foundations of Psychology",
+          "paid_book": "Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "clinical_psychology": {
+          "subject_name": "Clinical Psychology",
+          "paid_book": "Klinisk psykologi",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/abnormalpsychology2019/"
+        },
+        "counselling_psychology": {
+          "subject_name": "Counselling Psychology",
+          "paid_book": "Counselling Psychology",
+          "status": 0,
+          "free_alternative": "https://opentextbc.ca/psych/"
+        },
+        "statistics": {
+          "subject_name": "Applied Statistics",
+          "paid_book": "Statistik psykologi",
+          "status": 0,
+          "free_alternative": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf"
+        },
+        "advanced_research": {
+          "subject_name": "Advanced Research Methods",
+          "paid_book": "Research Methods",
+          "status": 0,
+          "free_alternative": "https://ocw.mit.edu/courses/brain-and-cognitive-sciences/"
+        },
+        "psychological_testing": {
+          "subject_name": "Psychological Testing / Assessment",
+          "paid_book": "Psychological Assessment",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/psychologydegree/chapter/psychological-testing/"
+        },
+        "thesis_project": {
+          "subject_name": "Thesis / Project",
+          "paid_book": "Thesis Manuals",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/writingforpsychology/"
+        }
+      }
+    },
+    "Switzerland": {
+      "country_code": "ðŸ‡¨ðŸ‡­",
+      "full_name": "Switzerland",
+      "subjects": {
+        "general_psychology": {
+          "subject_name": "General Psychology",
+          "paid_book": "General Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "cognitive_psychology": {
+          "subject_name": "Cognitive Psychology",
+          "paid_book": "Kognitive Psychologie",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "social_psychology": {
+          "subject_name": "Social Psychology",
+          "paid_book": "Sozialpsychologie",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "personality_psychology": {
+          "subject_name": "Personality Psychology",
+          "paid_book": "PersÃ¶nlichkeitspsychologie",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "abnormal_psychology": {
+          "subject_name": "Abnormal Psychology",
+          "paid_book": "Klinische Psychologie",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "research_methods": {
+          "subject_name": "Research Methods & Ethics",
+          "paid_book": "Psychologische Forschungsmethoden",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "health_psychology": {
+          "subject_name": "Health Psychology",
+          "paid_book": "Gesundheitspsychologie",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "experimental_psychology": {
+          "subject_name": "Experimental Psychology",
+          "paid_book": "Experimentalpsychologie",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "biological_psychology": {
+          "subject_name": "Biological Psychology",
+          "paid_book": "Biologische Psychologie",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "lab_work": {
+          "subject_name": "Lab Work / Practical",
+          "paid_book": "Psychologisches Praktikum",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "developmental_psychology": {
+          "subject_name": "Developmental Psychology",
+          "paid_book": "Entwicklungspsychologie",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "history_of_psychology": {
+          "subject_name": "History of Psychology",
+          "paid_book": "Psychologie Geschichte",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "research_skills": {
+          "subject_name": "Research Skills",
+          "paid_book": "The Craft of Research",
+          "status": 0,
+          "free_alternative": "https://ocw.mit.edu/courses/21w-781-advanced-research-writing-spring-2017/"
+        },
+        "human_development": {
+          "subject_name": "Human Development",
+          "paid_book": "The Psychology of Intelligence",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "general_biology": {
+          "subject_name": "General Biology",
+          "paid_book": "Campbell Biology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Biology2e_WEB.pdf"
+        },
+        "foundations_psychology": {
+          "subject_name": "Foundations of Psychology",
+          "paid_book": "The Psychology of Intelligence",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "clinical_psychology": {
+          "subject_name": "Clinical Psychology",
+          "paid_book": "Klinische Psychologie",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/abnormalpsychology2019/"
+        },
+        "counselling_psychology": {
+          "subject_name": "Counselling Psychology",
+          "paid_book": "Counselling Psychology",
+          "status": 0,
+          "free_alternative": "https://opentextbc.ca/psych/"
+        },
+        "statistics": {
+          "subject_name": "Applied Statistics",
+          "paid_book": "Statistics Psychology",
+          "status": 0,
+          "free_alternative": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf"
+        },
+        "advanced_research": {
+          "subject_name": "Advanced Research Methods",
+          "paid_book": "Research Methods",
+          "status": 0,
+          "free_alternative": "https://ocw.mit.edu/courses/brain-and-cognitive-sciences/"
+        },
+        "psychological_testing": {
+          "subject_name": "Psychological Testing / Assessment",
+          "paid_book": "Psychological Diagnostics",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/psychologydegree/chapter/psychological-testing/"
+        },
+        "thesis_project": {
+          "subject_name": "Thesis / Project",
+          "paid_book": "Thesis Manuals",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/writingforpsychology/"
+        }
+      }
+    },
+    "South Korea": {
+      "country_code": "ðŸ‡°ðŸ‡·",
+      "full_name": "South Korea",
+      "subjects": {
+        "general_psychology": {
+          "subject_name": "General Psychology",
+          "paid_book": "General Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "cognitive_psychology": {
+          "subject_name": "Cognitive Psychology",
+          "paid_book": "Cognitive Psychology Korean Edition",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "social_psychology": {
+          "subject_name": "Social Psychology",
+          "paid_book": "Social Psychology Korean Edition",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "personality_psychology": {
+          "subject_name": "Personality Psychology",
+          "paid_book": "Personality Psychology Korean Edition",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "abnormal_psychology": {
+          "subject_name": "Abnormal Psychology",
+          "paid_book": "Abnormal Psychology Korean Edition",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "research_methods": {
+          "subject_name": "Research Methods & Ethics",
+          "paid_book": "Research Methods Korean Edition",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "health_psychology": {
+          "subject_name": "Health Psychology",
+          "paid_book": "Health Psychology Korean Edition",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "experimental_psychology": {
+          "subject_name": "Experimental Psychology",
+          "paid_book": "Experimental Psychology Korean Edition",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "biological_psychology": {
+          "subject_name": "Biological Psychology",
+          "paid_book": "Biological Psychology Korean Edition",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "lab_work": {
+          "subject_name": "Lab Work / Practical",
+          "paid_book": "Psychology Lab Work Korean Edition",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "developmental_psychology": {
+          "subject_name": "Developmental Psychology",
+          "paid_book": "Developmental Psychology Korean Edition",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "history_of_psychology": {
+          "subject_name": "History of Psychology",
+          "paid_book": "History of Psychology Korean Edition",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "research_skills": {
+          "subject_name": "Research Skills",
+          "paid_book": "The Craft of Research",
+          "status": 0,
+          "free_alternative": "https://ocw.mit.edu/courses/21w-781-advanced-research-writing-spring-2017/"
+        },
+        "human_development": {
+          "subject_name": "Human Development",
+          "paid_book": "Life-Span Development",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "general_biology": {
+          "subject_name": "General Biology",
+          "paid_book": "Campbell Biology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Biology2e_WEB.pdf"
+        },
+        "foundations_psychology": {
+          "subject_name": "Foundations of Psychology",
+          "paid_book": "Psychology",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "clinical_psychology": {
+          "subject_name": "Clinical Psychology",
+          "paid_book": "Clinical Psychology Korean Edition",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/abnormalpsychology2019/"
+        },
+        "counselling_psychology": {
+          "subject_name": "Counselling Psychology",
+          "paid_book": "Counselling Korean Edition",
+          "status": 0,
+          "free_alternative": "https://opentextbc.ca/psych/"
+        },
+        "statistics": {
+          "subject_name": "Applied Statistics",
+          "paid_book": "Statistics Korean Edition",
+          "status": 0,
+          "free_alternative": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf"
+        },
+        "advanced_research": {
+          "subject_name": "Advanced Research Methods",
+          "paid_book": "Research Methods Korea",
+          "status": 0,
+          "free_alternative": "https://ocw.mit.edu/courses/brain-and-cognitive-sciences/"
+        },
+        "psychological_testing": {
+          "subject_name": "Psychological Testing / Assessment",
+          "paid_book": "Psychological Testing Korean Edition",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/psychologydegree/chapter/psychological-testing/"
+        },
+        "thesis_project": {
+          "subject_name": "Thesis / Project",
+          "paid_book": "Thesis Manuals",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/writingforpsychology/"
+        }
+      }
+    },
+    "Spain": {
+      "country_code": "ðŸ‡ªðŸ‡¸",
+      "full_name": "Spain",
+      "subjects": {
+        "foundations_psychology": {
+          "subject_name": "Foundations of Psychology",
+          "paid_book": "PsicologÃ­a",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        }
+      }
+    },
+    "Italy": {
+      "country_code": "ðŸ‡®ðŸ‡¹",
+      "full_name": "Italy",
+      "subjects": {
+        "history_of_psychology": {
+          "subject_name": "History of Psychology",
+          "paid_book": "Storia della psicologia",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "cognitive_psychology": {
+          "subject_name": "Cognitive Psychology",
+          "paid_book": "Psicologia cognitiva",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "social_psychology": {
+          "subject_name": "Social Psychology",
+          "paid_book": "Psicologia sociale",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "personality_psychology": {
+          "subject_name": "Personality Psychology",
+          "paid_book": "Psicologia della personalitÃ ",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "abnormal_psychology": {
+          "subject_name": "Abnormal Psychology",
+          "paid_book": "Psicopatologia",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "research_methods": {
+          "subject_name": "Research Methods & Ethics",
+          "paid_book": "Metodi di ricerca in psicologia",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "health_psychology": {
+          "subject_name": "Health Psychology",
+          "paid_book": "Psicologia della salute",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "experimental_psychology": {
+          "subject_name": "Experimental Psychology",
+          "paid_book": "Psicologia sperimentale",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "biological_psychology": {
+          "subject_name": "Biological Psychology",
+          "paid_book": "Psicobiologia",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "lab_work": {
+          "subject_name": "Lab Work / Practical",
+          "paid_book": "Laboratorio di psicologia",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "developmental_psychology": {
+          "subject_name": "Developmental Psychology",
+          "paid_book": "Psicologia dello sviluppo",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "clinical_psychology": {
+          "subject_name": "Clinical Psychology",
+          "paid_book": "Psicologia clinica",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/abnormalpsychology2019/"
+        },
+        "counselling_psychology": {
+          "subject_name": "Counselling Psychology",
+          "paid_book": "Psicologia del counseling",
+          "status": 0,
+          "free_alternative": "https://opentextbc.ca/psych/"
+        },
+        "statistics": {
+          "subject_name": "Applied Statistics",
+          "paid_book": "Statistica psicologica",
+          "status": 0,
+          "free_alternative": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf"
+        },
+        "advanced_research": {
+          "subject_name": "Advanced Research Methods",
+          "paid_book": "Metodi avanzati",
+          "status": 0,
+          "free_alternative": "https://ocw.mit.edu/courses/brain-and-cognitive-sciences/"
+        }
+      }
+    },
+    "Japan": {
+      "country_code": "ðŸ‡¯ðŸ‡µ",
+      "full_name": "Japan",
+      "subjects": {
+        "history_of_psychology": {
+          "subject_name": "History of Psychology",
+          "paid_book": "History of Psychology Japan Edition",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "cognitive_psychology": {
+          "subject_name": "Cognitive Psychology",
+          "paid_book": "Cognitive Psychology Japan Edition",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "social_psychology": {
+          "subject_name": "Social Psychology",
+          "paid_book": "Social Psychology Japan Edition",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "personality_psychology": {
+          "subject_name": "Personality Psychology",
+          "paid_book": "Personality Psychology Japan Edition",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "abnormal_psychology": {
+          "subject_name": "Abnormal Psychology",
+          "paid_book": "Abnormal Psychology Japan Edition",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "research_methods": {
+          "subject_name": "Research Methods & Ethics",
+          "paid_book": "Research Methods Japan Edition",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "health_psychology": {
+          "subject_name": "Health Psychology",
+          "paid_book": "Health Psychology Japan Edition",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "experimental_psychology": {
+          "subject_name": "Experimental Psychology",
+          "paid_book": "Experimental Psychology Japan Edition",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "biological_psychology": {
+          "subject_name": "Biological Psychology",
+          "paid_book": "Biological Psychology Japan Edition",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "lab_work": {
+          "subject_name": "Lab Work / Practical",
+          "paid_book": "Psychology Lab Work Japan Edition",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "developmental_psychology": {
+          "subject_name": "Developmental Psychology",
+          "paid_book": "Developmental Psychology Japan Edition",
+          "status": 0,
+          "free_alternative": "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Psychology2e_WEB.pdf"
+        },
+        "clinical_psychology": {
+          "subject_name": "Clinical Psychology",
+          "paid_book": "Clinical Psychology Japan Edition",
+          "status": 0,
+          "free_alternative": "https://pressbooks.bccampus.ca/abnormalpsychology2019/"
+        },
+        "counselling_psychology": {
+          "subject_name": "Counselling Psychology",
+          "paid_book": "Counselling Japan Edition",
+          "status": 0,
+          "free_alternative": "https://opentextbc.ca/psych/"
+        },
+        "statistics": {
+          "subject_name": "Applied Statistics",
+          "paid_book": "Statistics Japan Edition",
+          "status": 0,
+          "free_alternative": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf"
+        },
+        "advanced_research": {
+          "subject_name": "Advanced Research Methods",
+          "paid_book": "Research Methods Japan",
+          "status": 0,
+          "free_alternative": "https://ocw.mit.edu/courses/brain-and-cognitive-sciences/"
+        }
+      }
+    }
+  },
+  "quick_reference": {
+    "free_countries": [
+      "India"
+    ],
+    "paid_countries": [
+      "US",
+      "UK",
+      "Canada",
+      "Australia",
+      "Germany",
+      "France",
+      "Netherlands",
+      "Sweden",
+      "Finland",
+      "Norway",
+      "Switzerland",
+      "South Korea",
+      "Spain",
+      "Italy",
+      "Japan"
+    ],
+    "authoritative_sources": {
+      "openstax": "https://openstax.org/books",
+      "noba_project": "https://nobaproject.com/textbooks",
+      "ncert": "https://ncert.nic.in/textbook.php",
+      "ignou": "http://egyankosh.ac.in",
+      "mit_ocw": "https://ocw.mit.edu/search/?q=psychology",
+      "purdue_owl": "https://owl.purdue.edu/owl/research_and_citation/",
+      "archive_org": "https://archive.org"
+    },
+    "all_urls_verified": true,
+    "last_verified": "2026-04-21"
+  }
+}

@@ -1,0 +1,31 @@
+[
+  {
+    "review_id": "cb17af7aa0221352",
+    "status": "pending",
+    "created_at": 1779339326.6774538,
+    "cluster": [
+      "mera dimag bhaari lagta hai",
+      "mera dimag bhaari lagta hai",
+      "mera dimag bhaari lagta hai",
+      "mera dimag bhaari lagta hai",
+      "mera dimag bhaari lagta hai",
+      "mera dimag bhaari lagta hai",
+      "mera dimag bhaari lagta hai",
+      "mera dimag bhaari lagta hai",
+      "mera dimag bhaari lagta hai",
+      "mera dimag bhaari lagta hai"
+    ],
+    "nearest_existing": "sad mood",
+    "confidence": 0.2145896852016449,
+    "suggested_concept": "sad_mood",
+    "suggested_aliases": [
+      "mera dimag bhaari lagta hai"
+    ],
+    "cluster_size": 10,
+    "min_cluster_size": 3,
+    "evidence_phrases": [
+      "mera dimag bhaari lagta hai"
+    ],
+    "rationale": "Cluster size=10; representative='mera dimag bhaari lagta hai'. Nearest anchor='sad mood' with confidence=0.21."
+  }
+]

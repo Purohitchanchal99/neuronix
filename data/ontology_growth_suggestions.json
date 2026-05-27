@@ -1,0 +1,36 @@
+{
+  "generated_at": 1779340916.3853202,
+  "last_n": 200,
+  "min_cluster_size": 3,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "cluster_similarity_threshold": 0.55,
+  "anchor_semantic_threshold": 0.62,
+  "suggestions": [
+    {
+      "cluster": [
+        "mera dimag bhaari lagta hai",
+        "mera dimag bhaari lagta hai",
+        "mera dimag bhaari lagta hai",
+        "mera dimag bhaari lagta hai",
+        "mera dimag bhaari lagta hai",
+        "mera dimag bhaari lagta hai",
+        "mera dimag bhaari lagta hai",
+        "mera dimag bhaari lagta hai",
+        "mera dimag bhaari lagta hai",
+        "mera dimag bhaari lagta hai"
+      ],
+      "cluster_size": 10,
+      "nearest_existing": "sad mood",
+      "suggested_concept": "sad_mood",
+      "suggested_aliases": [
+        "mera dimag bhaari lagta hai"
+      ],
+      "confidence": 0.2145896852016449,
+      "evidence_phrases": [
+        "mera dimag bhaari lagta hai"
+      ],
+      "rationale": "Cluster size=10; representative='mera dimag bhaari lagta hai'. Nearest anchor='sad mood' with confidence=0.21.",
+      "generated_at": 1779340916.3853202
+    }
+  ]
+}

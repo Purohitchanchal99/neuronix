@@ -1,0 +1,150 @@
+2026-04-15 11:15:49,521 - INFO - [OK] Loaded master mapping
+2026-04-15 11:15:49,521 - INFO - 
+
+2026-04-15 11:15:49,521 - INFO - ################################################################################
+2026-04-15 11:15:49,521 - INFO - # NEURONIX RAG DEMO - LOCAL TESTING
+2026-04-15 11:15:49,521 - INFO - # Started: 2026-04-15 11:15:49
+2026-04-15 11:15:49,521 - INFO - ################################################################################
+2026-04-15 11:15:49,521 - INFO - 
+================================================================================
+2026-04-15 11:15:49,521 - INFO - PHASE 1: Loading Documents
+2026-04-15 11:15:49,521 - INFO - ================================================================================
+2026-04-15 11:15:49,523 - INFO - No PDF files found, loading text files for demo...
+2026-04-15 11:15:49,526 - INFO -   [OK] Loaded: cognitive_psychology.txt
+2026-04-15 11:15:49,530 - INFO - [OK] Total documents loaded: 1
+2026-04-15 11:15:49,530 - INFO - 
+================================================================================
+2026-04-15 11:15:49,530 - INFO - PHASE 2: Creating Chunks
+2026-04-15 11:15:49,530 - INFO - ================================================================================
+2026-04-15 11:15:49,530 - INFO -   [OK] Created 6 chunks from cognitive_psychology.txt
+2026-04-15 11:15:49,530 - INFO - [OK] Total chunks created: 6
+2026-04-15 11:15:49,532 - INFO - 
+================================================================================
+2026-04-15 11:15:49,532 - INFO - SAMPLE CHUNKS (showing 3 of 6)
+2026-04-15 11:15:49,532 - INFO - ================================================================================
+2026-04-15 11:15:49,532 - INFO - 
+Chunk #1
+2026-04-15 11:15:49,532 - INFO - --------------------------------------------------------------------------------
+2026-04-15 11:15:49,532 - INFO - Source: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\India\cognitive_psychology.txt
+2026-04-15 11:15:49,532 - INFO - Content preview: Sample Psychology Textbook - Cognitive Psychology
+
+Chapter 1: Introduction to Cognitive Psychology
+
+Cognitive psychology is the scientific study of the mind and how it processes information. 
+It exami...
+2026-04-15 11:15:49,532 - INFO - 
+Chunk #2
+2026-04-15 11:15:49,532 - INFO - --------------------------------------------------------------------------------
+2026-04-15 11:15:49,532 - INFO - Source: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\India\cognitive_psychology.txt
+2026-04-15 11:15:49,532 - INFO - Content preview: Memory is the cognitive process that encodes, stores, and retrieves information. 
+Psychologists recognize three main memory systems: sensory memory, short-term memory, 
+and long-term memory.
+
+Sensory ...
+2026-04-15 11:15:49,532 - INFO - 
+Chunk #3
+2026-04-15 11:15:49,532 - INFO - --------------------------------------------------------------------------------
+2026-04-15 11:15:49,532 - INFO - Source: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\India\cognitive_psychology.txt
+2026-04-15 11:15:49,532 - INFO - Content preview: Chapter 3: Attention
+
+Attention is the cognitive process of concentrating on specific aspects of the 
+environment while ignoring other aspects. Selective attention allows us to focus on 
+relevant info...
+2026-04-15 11:15:49,532 - INFO - 
+================================================================================
+2026-04-15 11:15:49,533 - INFO - SUMMARY
+2026-04-15 11:15:49,533 - INFO - ================================================================================
+2026-04-15 11:15:49,533 - INFO - 
+Documents: 1
+2026-04-15 11:15:49,533 - INFO - Chunks Created: 6
+2026-04-15 11:15:49,533 - INFO - Chunk Size: 1000 characters
+2026-04-15 11:15:49,533 - INFO - Chunk Overlap: 200 characters
+2026-04-15 11:15:49,533 - INFO - 
+[OK] No errors encountered
+2026-04-15 11:15:49,533 - INFO - 
+================================================================================
+2026-04-15 11:15:49,533 - INFO - 
+[OK] Demo completed successfully!
+2026-04-15 11:15:49,533 - INFO - 
+Next steps:
+2026-04-15 11:15:49,533 - INFO -   1. Set GOOGLE_API_KEY environment variable
+2026-04-15 11:15:49,533 - INFO -   2. Run: python scripts/ingest_data.py
+2026-04-15 11:15:49,533 - INFO -      (This will create the searchable vector database)
+2026-04-15 11:15:49,533 - INFO -   3. Search with: python scripts/query_rag.py 'your query'
+2026-04-15 11:15:49,533 - INFO - 
+Ended: 2026-04-15 11:15:49
+2026-04-15 21:41:19,790 - INFO - [OK] Loaded master mapping
+2026-04-15 21:41:19,791 - INFO - 
+
+2026-04-15 21:41:19,791 - INFO - ################################################################################
+2026-04-15 21:41:19,792 - INFO - # NEURONIX RAG DEMO - LOCAL TESTING
+2026-04-15 21:41:19,792 - INFO - # Started: 2026-04-15 21:41:19
+2026-04-15 21:41:19,792 - INFO - ################################################################################
+2026-04-15 21:41:19,792 - INFO - 
+================================================================================
+2026-04-15 21:41:19,792 - INFO - PHASE 1: Loading Documents
+2026-04-15 21:41:19,794 - INFO - ================================================================================
+2026-04-15 21:41:19,797 - INFO - No PDF files found, loading text files for demo...
+2026-04-15 21:41:19,803 - INFO -   [OK] Loaded: cognitive_psychology.txt
+2026-04-15 21:41:19,804 - INFO - [OK] Total documents loaded: 1
+2026-04-15 21:41:19,804 - INFO - 
+================================================================================
+2026-04-15 21:41:19,804 - INFO - PHASE 2: Creating Chunks
+2026-04-15 21:41:19,804 - INFO - ================================================================================
+2026-04-15 21:41:19,804 - INFO -   [OK] Created 6 chunks from cognitive_psychology.txt
+2026-04-15 21:41:19,804 - INFO - [OK] Total chunks created: 6
+2026-04-15 21:41:19,804 - INFO - 
+================================================================================
+2026-04-15 21:41:19,804 - INFO - SAMPLE CHUNKS (showing 3 of 6)
+2026-04-15 21:41:19,804 - INFO - ================================================================================
+2026-04-15 21:41:19,804 - INFO - 
+Chunk #1
+2026-04-15 21:41:19,804 - INFO - --------------------------------------------------------------------------------
+2026-04-15 21:41:19,804 - INFO - Source: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\India\cognitive_psychology.txt
+2026-04-15 21:41:19,804 - INFO - Content preview: Sample Psychology Textbook - Cognitive Psychology
+
+Chapter 1: Introduction to Cognitive Psychology
+
+Cognitive psychology is the scientific study of the mind and how it processes information. 
+It exami...
+2026-04-15 21:41:19,804 - INFO - 
+Chunk #2
+2026-04-15 21:41:19,804 - INFO - --------------------------------------------------------------------------------
+2026-04-15 21:41:19,804 - INFO - Source: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\India\cognitive_psychology.txt
+2026-04-15 21:41:19,804 - INFO - Content preview: Memory is the cognitive process that encodes, stores, and retrieves information. 
+Psychologists recognize three main memory systems: sensory memory, short-term memory, 
+and long-term memory.
+
+Sensory ...
+2026-04-15 21:41:19,804 - INFO - 
+Chunk #3
+2026-04-15 21:41:19,804 - INFO - --------------------------------------------------------------------------------
+2026-04-15 21:41:19,804 - INFO - Source: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\India\cognitive_psychology.txt
+2026-04-15 21:41:19,804 - INFO - Content preview: Chapter 3: Attention
+
+Attention is the cognitive process of concentrating on specific aspects of the 
+environment while ignoring other aspects. Selective attention allows us to focus on 
+relevant info...
+2026-04-15 21:41:19,804 - INFO - 
+================================================================================
+2026-04-15 21:41:19,804 - INFO - SUMMARY
+2026-04-15 21:41:19,808 - INFO - ================================================================================
+2026-04-15 21:41:19,808 - INFO - 
+Documents: 1
+2026-04-15 21:41:19,808 - INFO - Chunks Created: 6
+2026-04-15 21:41:19,808 - INFO - Chunk Size: 1000 characters
+2026-04-15 21:41:19,808 - INFO - Chunk Overlap: 200 characters
+2026-04-15 21:41:19,808 - INFO - 
+[OK] No errors encountered
+2026-04-15 21:41:19,808 - INFO - 
+================================================================================
+2026-04-15 21:41:19,808 - INFO - 
+[OK] Demo completed successfully!
+2026-04-15 21:41:19,808 - INFO - 
+Next steps:
+2026-04-15 21:41:19,808 - INFO -   1. Set GOOGLE_API_KEY environment variable
+2026-04-15 21:41:19,808 - INFO -   2. Run: python scripts/ingest_data.py
+2026-04-15 21:41:19,808 - INFO -      (This will create the searchable vector database)
+2026-04-15 21:41:19,808 - INFO -   3. Search with: python scripts/query_rag.py 'your query'
+2026-04-15 21:41:19,808 - INFO - 
+Ended: 2026-04-15 21:41:19

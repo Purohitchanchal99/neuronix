@@ -1,0 +1,2120 @@
+2026-04-22 19:43:07,138 - INFO - ================================================================================
+2026-04-22 19:43:07,138 - INFO - Starting Neuronix Textbook Downloader
+2026-04-22 19:43:07,138 - INFO - ================================================================================
+2026-04-22 19:43:07,153 - INFO - Successfully loaded mapping file from C:\Users\admin\Desktop\desktop\NEURO_MENTAL\data\master_mapping.json
+2026-04-22 19:43:07,154 - INFO - Found 317 free alternatives to process
+2026-04-22 19:43:07,154 - INFO - 
+[1/317] Processing: United States - General Psychology
+2026-04-22 19:43:07,154 - INFO - 
+Processing: United States - General Psychology
+2026-04-22 19:43:07,154 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:07,155 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:07,278 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_States\General Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:43:08,280 - INFO - 
+[2/317] Processing: United States - Cognitive Psychology
+2026-04-22 19:43:08,281 - INFO - 
+Processing: United States - Cognitive Psychology
+2026-04-22 19:43:08,281 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:08,281 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:08,389 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_States\Cognitive Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:43:09,398 - INFO - 
+[3/317] Processing: United States - Social Psychology
+2026-04-22 19:43:09,398 - INFO - 
+Processing: United States - Social Psychology
+2026-04-22 19:43:09,398 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:09,399 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:09,489 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_States\Social Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:43:10,490 - INFO - 
+[4/317] Processing: United States - Personality Psychology
+2026-04-22 19:43:10,490 - INFO - 
+Processing: United States - Personality Psychology
+2026-04-22 19:43:10,490 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:10,491 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:10,579 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_States\Personality Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:43:11,584 - INFO - 
+[5/317] Processing: United States - Abnormal Psychology
+2026-04-22 19:43:11,584 - INFO - 
+Processing: United States - Abnormal Psychology
+2026-04-22 19:43:11,584 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:11,585 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:11,670 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_States\Abnormal Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:43:12,675 - INFO - 
+[6/317] Processing: United States - Research Methods & Ethics
+2026-04-22 19:43:12,675 - INFO - 
+Processing: United States - Research Methods & Ethics
+2026-04-22 19:43:12,675 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:12,675 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:12,762 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_States\Research Methods & Ethics_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:43:13,763 - INFO - 
+[7/317] Processing: United States - Health Psychology
+2026-04-22 19:43:13,763 - INFO - 
+Processing: United States - Health Psychology
+2026-04-22 19:43:13,763 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:13,763 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:13,884 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_States\Health Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:43:14,885 - INFO - 
+[8/317] Processing: United States - Experimental Psychology
+2026-04-22 19:43:14,885 - INFO - 
+Processing: United States - Experimental Psychology
+2026-04-22 19:43:14,885 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:14,886 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:14,977 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_States\Experimental Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:43:15,982 - INFO - 
+[9/317] Processing: United States - Biological Psychology
+2026-04-22 19:43:15,982 - INFO - 
+Processing: United States - Biological Psychology
+2026-04-22 19:43:15,982 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:15,982 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:16,078 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_States\Biological Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:43:17,080 - INFO - 
+[10/317] Processing: United States - Lab Work / Practical
+2026-04-22 19:43:17,080 - INFO - 
+Processing: United States - Lab Work / Practical
+2026-04-22 19:43:17,080 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:17,080 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:17,170 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_States\Lab Work _ Practical_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:43:18,179 - INFO - 
+[11/317] Processing: United States - Developmental Psychology
+2026-04-22 19:43:18,179 - INFO - 
+Processing: United States - Developmental Psychology
+2026-04-22 19:43:18,179 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:18,179 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:18,271 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_States\Developmental Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:43:19,277 - INFO - 
+[12/317] Processing: United States - History of Psychology
+2026-04-22 19:43:19,277 - INFO - 
+Processing: United States - History of Psychology
+2026-04-22 19:43:19,277 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:19,277 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:19,373 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_States\History of Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:43:20,376 - INFO - 
+[13/317] Processing: United States - Research Skills
+2026-04-22 19:43:20,376 - INFO - 
+Processing: United States - Research Skills
+2026-04-22 19:43:20,376 - INFO - Alternatives: https://ocw.mit.edu/courses/21w-781-advanced-research-writing-spring-2017/
+2026-04-22 19:43:20,376 - INFO - Flagged for manual review: https://ocw.mit.edu/courses/21w-781-advanced-research-writing-spring-2017/
+2026-04-22 19:43:21,378 - INFO - 
+[14/317] Processing: United States - Human Development
+2026-04-22 19:43:21,378 - INFO - 
+Processing: United States - Human Development
+2026-04-22 19:43:21,378 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:21,378 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:21,470 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_States\Human Development_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:43:22,474 - INFO - 
+[15/317] Processing: United States - General Biology
+2026-04-22 19:43:22,474 - INFO - 
+Processing: United States - General Biology
+2026-04-22 19:43:22,474 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Biology2e_WEB.pdf
+2026-04-22 19:43:23,475 - INFO - 
+[16/317] Processing: United States - Foundations of Psychology
+2026-04-22 19:43:23,475 - INFO - 
+Processing: United States - Foundations of Psychology
+2026-04-22 19:43:23,475 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:23,475 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:23,586 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_States\Foundations of Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:43:24,590 - INFO - 
+[17/317] Processing: United States - Clinical Psychology
+2026-04-22 19:43:24,590 - INFO - 
+Processing: United States - Clinical Psychology
+2026-04-22 19:43:24,590 - INFO - Alternatives: https://pressbooks.bccampus.ca/abnormalpsychology2019/
+2026-04-22 19:43:24,590 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/abnormalpsychology2019/
+2026-04-22 19:43:25,591 - INFO - 
+[18/317] Processing: United States - Counselling Psychology
+2026-04-22 19:43:25,591 - INFO - 
+Processing: United States - Counselling Psychology
+2026-04-22 19:43:25,591 - INFO - Alternatives: https://opentextbc.ca/psych/
+2026-04-22 19:43:25,591 - INFO - Flagged for manual review: https://opentextbc.ca/psych/
+2026-04-22 19:43:26,594 - INFO - 
+[19/317] Processing: United States - Applied Statistics
+2026-04-22 19:43:26,594 - INFO - 
+Processing: United States - Applied Statistics
+2026-04-22 19:43:26,594 - INFO - Alternatives: https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf
+2026-04-22 19:43:26,594 - INFO - Downloading (attempt 1/3): https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf
+2026-04-22 19:43:36,759 - INFO - Successfully downloaded: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_States\Applied Statistics_IntroductoryStatistics-OP.pdf (29990560 bytes)
+2026-04-22 19:43:37,768 - INFO - 
+[20/317] Processing: United States - Advanced Research Methods
+2026-04-22 19:43:37,768 - INFO - 
+Processing: United States - Advanced Research Methods
+2026-04-22 19:43:37,768 - INFO - Alternatives: https://ocw.mit.edu/courses/brain-and-cognitive-sciences/
+2026-04-22 19:43:37,769 - INFO - Flagged for manual review: https://ocw.mit.edu/courses/brain-and-cognitive-sciences/
+2026-04-22 19:43:38,771 - INFO - 
+[21/317] Processing: United States - Psychological Testing / Assessment
+2026-04-22 19:43:38,771 - INFO - 
+Processing: United States - Psychological Testing / Assessment
+2026-04-22 19:43:38,771 - INFO - Alternatives: https://pressbooks.bccampus.ca/psychologydegree/chapter/psychological-testing/
+2026-04-22 19:43:38,771 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/psychologydegree/chapter/psychological-testing/
+2026-04-22 19:43:39,773 - INFO - 
+[22/317] Processing: United States - Thesis / Project
+2026-04-22 19:43:39,773 - INFO - 
+Processing: United States - Thesis / Project
+2026-04-22 19:43:39,773 - INFO - Alternatives: https://pressbooks.bccampus.ca/writingforpsychology/
+2026-04-22 19:43:39,773 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/writingforpsychology/
+2026-04-22 19:43:40,775 - INFO - 
+[23/317] Processing: United Kingdom - General Psychology
+2026-04-22 19:43:40,775 - INFO - 
+Processing: United Kingdom - General Psychology
+2026-04-22 19:43:40,775 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:40,775 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:40,857 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_Kingdom\General Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:43:41,866 - INFO - 
+[24/317] Processing: United Kingdom - Cognitive Psychology
+2026-04-22 19:43:41,866 - INFO - 
+Processing: United Kingdom - Cognitive Psychology
+2026-04-22 19:43:41,866 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:41,867 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:42,009 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_Kingdom\Cognitive Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:43:43,010 - INFO - 
+[25/317] Processing: United Kingdom - Social Psychology
+2026-04-22 19:43:43,010 - INFO - 
+Processing: United Kingdom - Social Psychology
+2026-04-22 19:43:43,010 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:43,010 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:43,101 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_Kingdom\Social Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:43:44,103 - INFO - 
+[26/317] Processing: United Kingdom - Personality Psychology
+2026-04-22 19:43:44,103 - INFO - 
+Processing: United Kingdom - Personality Psychology
+2026-04-22 19:43:44,103 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:44,103 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:44,195 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_Kingdom\Personality Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:43:45,197 - INFO - 
+[27/317] Processing: United Kingdom - Abnormal Psychology
+2026-04-22 19:43:45,197 - INFO - 
+Processing: United Kingdom - Abnormal Psychology
+2026-04-22 19:43:45,197 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:45,198 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:45,286 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_Kingdom\Abnormal Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:43:46,288 - INFO - 
+[28/317] Processing: United Kingdom - Research Methods & Ethics
+2026-04-22 19:43:46,288 - INFO - 
+Processing: United Kingdom - Research Methods & Ethics
+2026-04-22 19:43:46,288 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:46,288 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:46,389 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_Kingdom\Research Methods & Ethics_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:43:47,401 - INFO - 
+[29/317] Processing: United Kingdom - Health Psychology
+2026-04-22 19:43:47,401 - INFO - 
+Processing: United Kingdom - Health Psychology
+2026-04-22 19:43:47,401 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:47,403 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:47,486 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_Kingdom\Health Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:43:48,493 - INFO - 
+[30/317] Processing: United Kingdom - Experimental Psychology
+2026-04-22 19:43:48,493 - INFO - 
+Processing: United Kingdom - Experimental Psychology
+2026-04-22 19:43:48,493 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:48,493 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:48,578 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_Kingdom\Experimental Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:43:49,583 - INFO - 
+[31/317] Processing: United Kingdom - Biological Psychology
+2026-04-22 19:43:49,583 - INFO - 
+Processing: United Kingdom - Biological Psychology
+2026-04-22 19:43:49,583 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:49,583 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:49,676 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_Kingdom\Biological Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:43:50,681 - INFO - 
+[32/317] Processing: United Kingdom - Lab Work / Practical
+2026-04-22 19:43:50,681 - INFO - 
+Processing: United Kingdom - Lab Work / Practical
+2026-04-22 19:43:50,681 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:50,681 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:50,774 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_Kingdom\Lab Work _ Practical_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:43:51,779 - INFO - 
+[33/317] Processing: United Kingdom - Developmental Psychology
+2026-04-22 19:43:51,779 - INFO - 
+Processing: United Kingdom - Developmental Psychology
+2026-04-22 19:43:51,779 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:51,779 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:51,868 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_Kingdom\Developmental Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:43:52,870 - INFO - 
+[34/317] Processing: United Kingdom - History of Psychology
+2026-04-22 19:43:52,870 - INFO - 
+Processing: United Kingdom - History of Psychology
+2026-04-22 19:43:52,870 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:52,871 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:52,954 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_Kingdom\History of Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:43:53,962 - INFO - 
+[35/317] Processing: United Kingdom - Research Skills
+2026-04-22 19:43:53,962 - INFO - 
+Processing: United Kingdom - Research Skills
+2026-04-22 19:43:53,962 - INFO - Alternatives: https://ocw.mit.edu/courses/21w-781-advanced-research-writing-spring-2017/
+2026-04-22 19:43:53,962 - INFO - Flagged for manual review: https://ocw.mit.edu/courses/21w-781-advanced-research-writing-spring-2017/
+2026-04-22 19:43:54,964 - INFO - 
+[36/317] Processing: United Kingdom - Human Development
+2026-04-22 19:43:54,964 - INFO - 
+Processing: United Kingdom - Human Development
+2026-04-22 19:43:54,964 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:54,964 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:55,057 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_Kingdom\Human Development_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:43:56,062 - INFO - 
+[37/317] Processing: United Kingdom - General Biology
+2026-04-22 19:43:56,062 - INFO - 
+Processing: United Kingdom - General Biology
+2026-04-22 19:43:56,062 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Biology2e_WEB.pdf
+2026-04-22 19:43:57,064 - INFO - 
+[38/317] Processing: United Kingdom - Foundations of Psychology
+2026-04-22 19:43:57,064 - INFO - 
+Processing: United Kingdom - Foundations of Psychology
+2026-04-22 19:43:57,064 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:57,064 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:43:57,155 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_Kingdom\Foundations of Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:43:58,159 - INFO - 
+[39/317] Processing: United Kingdom - Clinical Psychology
+2026-04-22 19:43:58,159 - INFO - 
+Processing: United Kingdom - Clinical Psychology
+2026-04-22 19:43:58,159 - INFO - Alternatives: https://pressbooks.bccampus.ca/abnormalpsychology2019/
+2026-04-22 19:43:58,159 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/abnormalpsychology2019/
+2026-04-22 19:43:59,160 - INFO - 
+[40/317] Processing: United Kingdom - Counselling Psychology
+2026-04-22 19:43:59,160 - INFO - 
+Processing: United Kingdom - Counselling Psychology
+2026-04-22 19:43:59,160 - INFO - Alternatives: https://opentextbc.ca/psych/
+2026-04-22 19:43:59,160 - INFO - Flagged for manual review: https://opentextbc.ca/psych/
+2026-04-22 19:44:00,162 - INFO - 
+[41/317] Processing: United Kingdom - Applied Statistics
+2026-04-22 19:44:00,162 - INFO - 
+Processing: United Kingdom - Applied Statistics
+2026-04-22 19:44:00,162 - INFO - Alternatives: https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf
+2026-04-22 19:44:00,162 - INFO - Downloading (attempt 1/3): https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf
+2026-04-22 19:44:23,606 - INFO - Successfully downloaded: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\United_Kingdom\Applied Statistics_IntroductoryStatistics-OP.pdf (29990560 bytes)
+2026-04-22 19:44:24,616 - INFO - 
+[42/317] Processing: United Kingdom - Advanced Research Methods
+2026-04-22 19:44:24,616 - INFO - 
+Processing: United Kingdom - Advanced Research Methods
+2026-04-22 19:44:24,616 - INFO - Alternatives: https://ocw.mit.edu/courses/brain-and-cognitive-sciences/
+2026-04-22 19:44:24,616 - INFO - Flagged for manual review: https://ocw.mit.edu/courses/brain-and-cognitive-sciences/
+2026-04-22 19:44:25,618 - INFO - 
+[43/317] Processing: United Kingdom - Psychological Testing / Assessment
+2026-04-22 19:44:25,618 - INFO - 
+Processing: United Kingdom - Psychological Testing / Assessment
+2026-04-22 19:44:25,618 - INFO - Alternatives: https://pressbooks.bccampus.ca/psychologydegree/chapter/psychological-testing/
+2026-04-22 19:44:25,618 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/psychologydegree/chapter/psychological-testing/
+2026-04-22 19:44:26,620 - INFO - 
+[44/317] Processing: United Kingdom - Thesis / Project
+2026-04-22 19:44:26,620 - INFO - 
+Processing: United Kingdom - Thesis / Project
+2026-04-22 19:44:26,620 - INFO - Alternatives: https://pressbooks.bccampus.ca/writingforpsychology/
+2026-04-22 19:44:26,620 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/writingforpsychology/
+2026-04-22 19:44:27,622 - INFO - 
+[45/317] Processing: Canada - General Psychology
+2026-04-22 19:44:27,622 - INFO - 
+Processing: Canada - General Psychology
+2026-04-22 19:44:27,622 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:44:27,622 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:44:27,676 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Canada\General Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:44:28,687 - INFO - 
+[46/317] Processing: Canada - Cognitive Psychology
+2026-04-22 19:44:28,687 - INFO - 
+Processing: Canada - Cognitive Psychology
+2026-04-22 19:44:28,687 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:44:28,688 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:44:32,158 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Canada\Cognitive Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:44:33,165 - INFO - 
+[47/317] Processing: Canada - Social Psychology
+2026-04-22 19:44:33,165 - INFO - 
+Processing: Canada - Social Psychology
+2026-04-22 19:44:33,165 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:44:33,165 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:44:36,505 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Canada\Social Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:44:37,506 - INFO - 
+[48/317] Processing: Canada - Personality Psychology
+2026-04-22 19:44:37,506 - INFO - 
+Processing: Canada - Personality Psychology
+2026-04-22 19:44:37,506 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:44:37,506 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:44:40,055 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Canada\Personality Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:44:41,056 - INFO - 
+[49/317] Processing: Canada - Abnormal Psychology
+2026-04-22 19:44:41,056 - INFO - 
+Processing: Canada - Abnormal Psychology
+2026-04-22 19:44:41,056 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:44:41,056 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:44:44,258 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Canada\Abnormal Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:44:45,272 - INFO - 
+[50/317] Processing: Canada - Research Methods & Ethics
+2026-04-22 19:44:45,272 - INFO - 
+Processing: Canada - Research Methods & Ethics
+2026-04-22 19:44:45,272 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:44:45,273 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:44:50,871 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Canada\Research Methods & Ethics_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:44:51,872 - INFO - 
+[51/317] Processing: Canada - Health Psychology
+2026-04-22 19:44:51,872 - INFO - 
+Processing: Canada - Health Psychology
+2026-04-22 19:44:51,872 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:44:51,873 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:44:56,644 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Canada\Health Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:44:57,652 - INFO - 
+[52/317] Processing: Canada - Experimental Psychology
+2026-04-22 19:44:57,652 - INFO - 
+Processing: Canada - Experimental Psychology
+2026-04-22 19:44:57,652 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:44:57,652 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:44:57,738 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Canada\Experimental Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:44:58,739 - INFO - 
+[53/317] Processing: Canada - Biological Psychology
+2026-04-22 19:44:58,739 - INFO - 
+Processing: Canada - Biological Psychology
+2026-04-22 19:44:58,739 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:44:58,740 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:44:58,838 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Canada\Biological Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:44:59,839 - INFO - 
+[54/317] Processing: Canada - Lab Work / Practical
+2026-04-22 19:44:59,839 - INFO - 
+Processing: Canada - Lab Work / Practical
+2026-04-22 19:44:59,839 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:44:59,839 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:44:59,932 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Canada\Lab Work _ Practical_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:45:00,937 - INFO - 
+[55/317] Processing: Canada - Developmental Psychology
+2026-04-22 19:45:00,937 - INFO - 
+Processing: Canada - Developmental Psychology
+2026-04-22 19:45:00,937 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:00,937 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:01,057 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Canada\Developmental Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:45:02,058 - INFO - 
+[56/317] Processing: Canada - History of Psychology
+2026-04-22 19:45:02,058 - INFO - 
+Processing: Canada - History of Psychology
+2026-04-22 19:45:02,058 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:02,058 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:02,145 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Canada\History of Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:45:03,148 - INFO - 
+[57/317] Processing: Canada - Research Skills
+2026-04-22 19:45:03,148 - INFO - 
+Processing: Canada - Research Skills
+2026-04-22 19:45:03,148 - INFO - Alternatives: https://ocw.mit.edu/courses/21w-781-advanced-research-writing-spring-2017/
+2026-04-22 19:45:03,148 - INFO - Flagged for manual review: https://ocw.mit.edu/courses/21w-781-advanced-research-writing-spring-2017/
+2026-04-22 19:45:04,150 - INFO - 
+[58/317] Processing: Canada - Human Development
+2026-04-22 19:45:04,150 - INFO - 
+Processing: Canada - Human Development
+2026-04-22 19:45:04,150 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:04,150 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:04,257 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Canada\Human Development_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:45:05,258 - INFO - 
+[59/317] Processing: Canada - General Biology
+2026-04-22 19:45:05,258 - INFO - 
+Processing: Canada - General Biology
+2026-04-22 19:45:05,258 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Biology2e_WEB.pdf
+2026-04-22 19:45:06,259 - INFO - 
+[60/317] Processing: Canada - Foundations of Psychology
+2026-04-22 19:45:06,259 - INFO - 
+Processing: Canada - Foundations of Psychology
+2026-04-22 19:45:06,259 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:06,260 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:06,348 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Canada\Foundations of Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:45:07,351 - INFO - 
+[61/317] Processing: Canada - Clinical Psychology
+2026-04-22 19:45:07,351 - INFO - 
+Processing: Canada - Clinical Psychology
+2026-04-22 19:45:07,351 - INFO - Alternatives: https://pressbooks.bccampus.ca/abnormalpsychology2019/
+2026-04-22 19:45:07,351 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/abnormalpsychology2019/
+2026-04-22 19:45:08,354 - INFO - 
+[62/317] Processing: Canada - Counselling Psychology
+2026-04-22 19:45:08,354 - INFO - 
+Processing: Canada - Counselling Psychology
+2026-04-22 19:45:08,354 - INFO - Alternatives: https://opentextbc.ca/psych/
+2026-04-22 19:45:08,354 - INFO - Flagged for manual review: https://opentextbc.ca/psych/
+2026-04-22 19:45:09,356 - INFO - 
+[63/317] Processing: Canada - Applied Statistics
+2026-04-22 19:45:09,356 - INFO - 
+Processing: Canada - Applied Statistics
+2026-04-22 19:45:09,356 - INFO - Alternatives: https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf
+2026-04-22 19:45:09,357 - INFO - Downloading (attempt 1/3): https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf
+2026-04-22 19:45:17,107 - INFO - Successfully downloaded: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Canada\Applied Statistics_IntroductoryStatistics-OP.pdf (29990560 bytes)
+2026-04-22 19:45:18,109 - INFO - 
+[64/317] Processing: Canada - Advanced Research Methods
+2026-04-22 19:45:18,109 - INFO - 
+Processing: Canada - Advanced Research Methods
+2026-04-22 19:45:18,109 - INFO - Alternatives: https://ocw.mit.edu/courses/brain-and-cognitive-sciences/
+2026-04-22 19:45:18,109 - INFO - Flagged for manual review: https://ocw.mit.edu/courses/brain-and-cognitive-sciences/
+2026-04-22 19:45:19,111 - INFO - 
+[65/317] Processing: Canada - Psychological Testing / Assessment
+2026-04-22 19:45:19,111 - INFO - 
+Processing: Canada - Psychological Testing / Assessment
+2026-04-22 19:45:19,111 - INFO - Alternatives: https://pressbooks.bccampus.ca/psychologydegree/chapter/psychological-testing/
+2026-04-22 19:45:19,111 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/psychologydegree/chapter/psychological-testing/
+2026-04-22 19:45:20,113 - INFO - 
+[66/317] Processing: Canada - Thesis / Project
+2026-04-22 19:45:20,113 - INFO - 
+Processing: Canada - Thesis / Project
+2026-04-22 19:45:20,113 - INFO - Alternatives: https://pressbooks.bccampus.ca/writingforpsychology/
+2026-04-22 19:45:20,113 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/writingforpsychology/
+2026-04-22 19:45:21,115 - INFO - 
+[67/317] Processing: Australia - General Psychology
+2026-04-22 19:45:21,115 - INFO - 
+Processing: Australia - General Psychology
+2026-04-22 19:45:21,115 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:21,115 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:21,211 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Australia\General Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:45:22,213 - INFO - 
+[68/317] Processing: Australia - Cognitive Psychology
+2026-04-22 19:45:22,213 - INFO - 
+Processing: Australia - Cognitive Psychology
+2026-04-22 19:45:22,213 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:22,213 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:22,290 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Australia\Cognitive Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:45:23,302 - INFO - 
+[69/317] Processing: Australia - Social Psychology
+2026-04-22 19:45:23,302 - INFO - 
+Processing: Australia - Social Psychology
+2026-04-22 19:45:23,302 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:23,302 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:23,387 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Australia\Social Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:45:24,388 - INFO - 
+[70/317] Processing: Australia - Personality Psychology
+2026-04-22 19:45:24,388 - INFO - 
+Processing: Australia - Personality Psychology
+2026-04-22 19:45:24,388 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:24,388 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:24,467 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Australia\Personality Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:45:25,468 - INFO - 
+[71/317] Processing: Australia - Abnormal Psychology
+2026-04-22 19:45:25,468 - INFO - 
+Processing: Australia - Abnormal Psychology
+2026-04-22 19:45:25,468 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:25,469 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:25,555 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Australia\Abnormal Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:45:26,556 - INFO - 
+[72/317] Processing: Australia - Research Methods & Ethics
+2026-04-22 19:45:26,556 - INFO - 
+Processing: Australia - Research Methods & Ethics
+2026-04-22 19:45:26,556 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:26,556 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:26,645 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Australia\Research Methods & Ethics_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:45:27,646 - INFO - 
+[73/317] Processing: Australia - Health Psychology
+2026-04-22 19:45:27,646 - INFO - 
+Processing: Australia - Health Psychology
+2026-04-22 19:45:27,646 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:27,647 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:27,741 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Australia\Health Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:45:28,743 - INFO - 
+[74/317] Processing: Australia - Experimental Psychology
+2026-04-22 19:45:28,743 - INFO - 
+Processing: Australia - Experimental Psychology
+2026-04-22 19:45:28,743 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:28,743 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:28,849 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Australia\Experimental Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:45:29,851 - INFO - 
+[75/317] Processing: Australia - Biological Psychology
+2026-04-22 19:45:29,851 - INFO - 
+Processing: Australia - Biological Psychology
+2026-04-22 19:45:29,851 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:29,851 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:29,933 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Australia\Biological Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:45:30,934 - INFO - 
+[76/317] Processing: Australia - Lab Work / Practical
+2026-04-22 19:45:30,934 - INFO - 
+Processing: Australia - Lab Work / Practical
+2026-04-22 19:45:30,934 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:30,934 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:31,036 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Australia\Lab Work _ Practical_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:45:32,037 - INFO - 
+[77/317] Processing: Australia - Developmental Psychology
+2026-04-22 19:45:32,037 - INFO - 
+Processing: Australia - Developmental Psychology
+2026-04-22 19:45:32,037 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:32,039 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:32,129 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Australia\Developmental Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:45:33,135 - INFO - 
+[78/317] Processing: Australia - History of Psychology
+2026-04-22 19:45:33,135 - INFO - 
+Processing: Australia - History of Psychology
+2026-04-22 19:45:33,135 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:33,135 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:33,221 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Australia\History of Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:45:34,222 - INFO - 
+[79/317] Processing: Australia - Research Skills
+2026-04-22 19:45:34,222 - INFO - 
+Processing: Australia - Research Skills
+2026-04-22 19:45:34,222 - INFO - Alternatives: https://ocw.mit.edu/courses/21w-781-advanced-research-writing-spring-2017/
+2026-04-22 19:45:34,222 - INFO - Flagged for manual review: https://ocw.mit.edu/courses/21w-781-advanced-research-writing-spring-2017/
+2026-04-22 19:45:35,225 - INFO - 
+[80/317] Processing: Australia - Human Development
+2026-04-22 19:45:35,225 - INFO - 
+Processing: Australia - Human Development
+2026-04-22 19:45:35,225 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:35,225 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:35,299 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Australia\Human Development_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:45:36,307 - INFO - 
+[81/317] Processing: Australia - General Biology
+2026-04-22 19:45:36,307 - INFO - 
+Processing: Australia - General Biology
+2026-04-22 19:45:36,307 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Biology2e_WEB.pdf
+2026-04-22 19:45:37,309 - INFO - 
+[82/317] Processing: Australia - Foundations of Psychology
+2026-04-22 19:45:37,309 - INFO - 
+Processing: Australia - Foundations of Psychology
+2026-04-22 19:45:37,309 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:37,309 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:37,381 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Australia\Foundations of Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:45:38,388 - INFO - 
+[83/317] Processing: Australia - Clinical Psychology
+2026-04-22 19:45:38,388 - INFO - 
+Processing: Australia - Clinical Psychology
+2026-04-22 19:45:38,388 - INFO - Alternatives: https://pressbooks.bccampus.ca/abnormalpsychology2019/
+2026-04-22 19:45:38,388 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/abnormalpsychology2019/
+2026-04-22 19:45:39,389 - INFO - 
+[84/317] Processing: Australia - Counselling Psychology
+2026-04-22 19:45:39,390 - INFO - 
+Processing: Australia - Counselling Psychology
+2026-04-22 19:45:39,390 - INFO - Alternatives: https://opentextbc.ca/psych/
+2026-04-22 19:45:39,391 - INFO - Flagged for manual review: https://opentextbc.ca/psych/
+2026-04-22 19:45:40,391 - INFO - 
+[85/317] Processing: Australia - Applied Statistics
+2026-04-22 19:45:40,391 - INFO - 
+Processing: Australia - Applied Statistics
+2026-04-22 19:45:40,392 - INFO - Alternatives: https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf
+2026-04-22 19:45:40,392 - INFO - Downloading (attempt 1/3): https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf
+2026-04-22 19:45:48,227 - INFO - Successfully downloaded: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Australia\Applied Statistics_IntroductoryStatistics-OP.pdf (29990560 bytes)
+2026-04-22 19:45:49,230 - INFO - 
+[86/317] Processing: Australia - Advanced Research Methods
+2026-04-22 19:45:49,230 - INFO - 
+Processing: Australia - Advanced Research Methods
+2026-04-22 19:45:49,230 - INFO - Alternatives: https://ocw.mit.edu/courses/brain-and-cognitive-sciences/
+2026-04-22 19:45:49,230 - INFO - Flagged for manual review: https://ocw.mit.edu/courses/brain-and-cognitive-sciences/
+2026-04-22 19:45:50,232 - INFO - 
+[87/317] Processing: Australia - Psychological Testing / Assessment
+2026-04-22 19:45:50,232 - INFO - 
+Processing: Australia - Psychological Testing / Assessment
+2026-04-22 19:45:50,232 - INFO - Alternatives: https://pressbooks.bccampus.ca/psychologydegree/chapter/psychological-testing/
+2026-04-22 19:45:50,232 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/psychologydegree/chapter/psychological-testing/
+2026-04-22 19:45:51,234 - INFO - 
+[88/317] Processing: Australia - Thesis / Project
+2026-04-22 19:45:51,234 - INFO - 
+Processing: Australia - Thesis / Project
+2026-04-22 19:45:51,234 - INFO - Alternatives: https://pressbooks.bccampus.ca/writingforpsychology/
+2026-04-22 19:45:51,234 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/writingforpsychology/
+2026-04-22 19:45:52,235 - INFO - 
+[89/317] Processing: India - General Psychology
+2026-04-22 19:45:52,235 - INFO - 
+Processing: India - General Psychology
+2026-04-22 19:45:52,235 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:52,235 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:52,317 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\India\General Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:45:53,318 - INFO - 
+[90/317] Processing: India - Cognitive Psychology
+2026-04-22 19:45:53,318 - INFO - 
+Processing: India - Cognitive Psychology
+2026-04-22 19:45:53,318 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:53,319 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:53,457 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\India\Cognitive Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:45:54,458 - INFO - 
+[91/317] Processing: India - Social Psychology
+2026-04-22 19:45:54,458 - INFO - 
+Processing: India - Social Psychology
+2026-04-22 19:45:54,458 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:54,459 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:54,596 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\India\Social Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:45:55,601 - INFO - 
+[92/317] Processing: India - Personality Psychology
+2026-04-22 19:45:55,601 - INFO - 
+Processing: India - Personality Psychology
+2026-04-22 19:45:55,601 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:55,601 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:55,747 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\India\Personality Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:45:56,748 - INFO - 
+[93/317] Processing: India - Abnormal Psychology
+2026-04-22 19:45:56,748 - INFO - 
+Processing: India - Abnormal Psychology
+2026-04-22 19:45:56,748 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:56,748 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:56,833 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\India\Abnormal Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:45:57,835 - INFO - 
+[94/317] Processing: India - Research Methods & Ethics
+2026-04-22 19:45:57,835 - INFO - 
+Processing: India - Research Methods & Ethics
+2026-04-22 19:45:57,835 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:57,836 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:57,946 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\India\Research Methods & Ethics_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:45:58,951 - INFO - 
+[95/317] Processing: India - Health Psychology
+2026-04-22 19:45:58,951 - INFO - 
+Processing: India - Health Psychology
+2026-04-22 19:45:58,951 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:58,951 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:45:59,032 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\India\Health Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:46:00,033 - INFO - 
+[96/317] Processing: India - Experimental Psychology
+2026-04-22 19:46:00,033 - INFO - 
+Processing: India - Experimental Psychology
+2026-04-22 19:46:00,033 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:00,034 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:00,106 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\India\Experimental Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:46:01,115 - INFO - 
+[97/317] Processing: India - Biological Psychology
+2026-04-22 19:46:01,115 - INFO - 
+Processing: India - Biological Psychology
+2026-04-22 19:46:01,115 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:01,115 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:02,553 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\India\Biological Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:46:03,554 - INFO - 
+[98/317] Processing: India - Lab Work / Practical
+2026-04-22 19:46:03,554 - INFO - 
+Processing: India - Lab Work / Practical
+2026-04-22 19:46:03,554 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:03,556 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:03,618 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\India\Lab Work _ Practical_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:46:04,620 - INFO - 
+[99/317] Processing: India - Developmental Psychology
+2026-04-22 19:46:04,620 - INFO - 
+Processing: India - Developmental Psychology
+2026-04-22 19:46:04,620 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:04,620 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:05,784 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\India\Developmental Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:46:06,785 - INFO - 
+[100/317] Processing: India - History of Psychology
+2026-04-22 19:46:06,785 - INFO - 
+Processing: India - History of Psychology
+2026-04-22 19:46:06,785 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:06,786 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:06,851 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\India\History of Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:46:07,853 - INFO - 
+[101/317] Processing: India - Research Skills
+2026-04-22 19:46:07,853 - INFO - 
+Processing: India - Research Skills
+2026-04-22 19:46:07,853 - INFO - Alternatives: https://ocw.mit.edu/courses/21w-781-advanced-research-writing-spring-2017/
+2026-04-22 19:46:07,853 - INFO - Flagged for manual review: https://ocw.mit.edu/courses/21w-781-advanced-research-writing-spring-2017/
+2026-04-22 19:46:08,855 - INFO - 
+[102/317] Processing: India - Human Development
+2026-04-22 19:46:08,855 - INFO - 
+Processing: India - Human Development
+2026-04-22 19:46:08,855 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:08,856 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:09,820 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\India\Human Development_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:46:10,821 - INFO - 
+[103/317] Processing: India - General Biology
+2026-04-22 19:46:10,821 - INFO - 
+Processing: India - General Biology
+2026-04-22 19:46:10,821 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Biology2e_WEB.pdf
+2026-04-22 19:46:11,823 - INFO - 
+[104/317] Processing: India - Foundations of Psychology
+2026-04-22 19:46:11,824 - INFO - 
+Processing: India - Foundations of Psychology
+2026-04-22 19:46:11,824 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:11,825 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:11,887 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\India\Foundations of Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:46:12,890 - INFO - 
+[105/317] Processing: India - Clinical Psychology
+2026-04-22 19:46:12,890 - INFO - 
+Processing: India - Clinical Psychology
+2026-04-22 19:46:12,890 - INFO - Alternatives: https://pressbooks.bccampus.ca/abnormalpsychology2019/
+2026-04-22 19:46:12,890 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/abnormalpsychology2019/
+2026-04-22 19:46:13,891 - INFO - 
+[106/317] Processing: India - Counselling Psychology
+2026-04-22 19:46:13,891 - INFO - 
+Processing: India - Counselling Psychology
+2026-04-22 19:46:13,891 - INFO - Alternatives: https://opentextbc.ca/psych/
+2026-04-22 19:46:13,893 - INFO - Flagged for manual review: https://opentextbc.ca/psych/
+2026-04-22 19:46:14,893 - INFO - 
+[107/317] Processing: India - Applied Statistics
+2026-04-22 19:46:14,893 - INFO - 
+Processing: India - Applied Statistics
+2026-04-22 19:46:14,893 - INFO - Alternatives: https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf
+2026-04-22 19:46:14,893 - INFO - Downloading (attempt 1/3): https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf
+2026-04-22 19:46:22,575 - INFO - Successfully downloaded: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\India\Applied Statistics_IntroductoryStatistics-OP.pdf (29990560 bytes)
+2026-04-22 19:46:23,576 - INFO - 
+[108/317] Processing: India - Advanced Research Methods
+2026-04-22 19:46:23,576 - INFO - 
+Processing: India - Advanced Research Methods
+2026-04-22 19:46:23,576 - INFO - Alternatives: https://ocw.mit.edu/courses/brain-and-cognitive-sciences/
+2026-04-22 19:46:23,577 - INFO - Flagged for manual review: https://ocw.mit.edu/courses/brain-and-cognitive-sciences/
+2026-04-22 19:46:24,578 - INFO - 
+[109/317] Processing: India - Psychological Testing / Assessment
+2026-04-22 19:46:24,578 - INFO - 
+Processing: India - Psychological Testing / Assessment
+2026-04-22 19:46:24,578 - INFO - Alternatives: https://pressbooks.bccampus.ca/psychologydegree/chapter/psychological-testing/
+2026-04-22 19:46:24,578 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/psychologydegree/chapter/psychological-testing/
+2026-04-22 19:46:25,579 - INFO - 
+[110/317] Processing: India - Thesis / Project
+2026-04-22 19:46:25,579 - INFO - 
+Processing: India - Thesis / Project
+2026-04-22 19:46:25,579 - INFO - Alternatives: https://pressbooks.bccampus.ca/writingforpsychology/
+2026-04-22 19:46:25,580 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/writingforpsychology/
+2026-04-22 19:46:26,581 - INFO - 
+[111/317] Processing: Germany - General Psychology
+2026-04-22 19:46:26,581 - INFO - 
+Processing: Germany - General Psychology
+2026-04-22 19:46:26,581 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:26,582 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:26,643 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Germany\General Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:46:27,647 - INFO - 
+[112/317] Processing: Germany - Cognitive Psychology
+2026-04-22 19:46:27,647 - INFO - 
+Processing: Germany - Cognitive Psychology
+2026-04-22 19:46:27,647 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:27,647 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:27,712 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Germany\Cognitive Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:46:28,714 - INFO - 
+[113/317] Processing: Germany - Social Psychology
+2026-04-22 19:46:28,714 - INFO - 
+Processing: Germany - Social Psychology
+2026-04-22 19:46:28,714 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:28,714 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:30,260 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Germany\Social Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:46:31,261 - INFO - 
+[114/317] Processing: Germany - Personality Psychology
+2026-04-22 19:46:31,261 - INFO - 
+Processing: Germany - Personality Psychology
+2026-04-22 19:46:31,261 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:31,262 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:31,348 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Germany\Personality Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:46:32,349 - INFO - 
+[115/317] Processing: Germany - Abnormal Psychology
+2026-04-22 19:46:32,349 - INFO - 
+Processing: Germany - Abnormal Psychology
+2026-04-22 19:46:32,349 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:32,349 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:33,120 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Germany\Abnormal Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:46:34,121 - INFO - 
+[116/317] Processing: Germany - Research Methods & Ethics
+2026-04-22 19:46:34,121 - INFO - 
+Processing: Germany - Research Methods & Ethics
+2026-04-22 19:46:34,121 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:34,122 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:34,182 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Germany\Research Methods & Ethics_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:46:35,183 - INFO - 
+[117/317] Processing: Germany - Health Psychology
+2026-04-22 19:46:35,183 - INFO - 
+Processing: Germany - Health Psychology
+2026-04-22 19:46:35,183 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:35,184 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:35,923 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Germany\Health Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:46:36,925 - INFO - 
+[118/317] Processing: Germany - Experimental Psychology
+2026-04-22 19:46:36,925 - INFO - 
+Processing: Germany - Experimental Psychology
+2026-04-22 19:46:36,925 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:36,926 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:36,990 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Germany\Experimental Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:46:37,991 - INFO - 
+[119/317] Processing: Germany - Biological Psychology
+2026-04-22 19:46:37,991 - INFO - 
+Processing: Germany - Biological Psychology
+2026-04-22 19:46:37,991 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:37,991 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:38,080 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Germany\Biological Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:46:39,081 - INFO - 
+[120/317] Processing: Germany - Lab Work / Practical
+2026-04-22 19:46:39,081 - INFO - 
+Processing: Germany - Lab Work / Practical
+2026-04-22 19:46:39,081 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:39,082 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:39,188 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Germany\Lab Work _ Practical_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:46:40,190 - INFO - 
+[121/317] Processing: Germany - Developmental Psychology
+2026-04-22 19:46:40,190 - INFO - 
+Processing: Germany - Developmental Psychology
+2026-04-22 19:46:40,190 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:40,191 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:40,273 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Germany\Developmental Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:46:41,274 - INFO - 
+[122/317] Processing: Germany - History of Psychology
+2026-04-22 19:46:41,274 - INFO - 
+Processing: Germany - History of Psychology
+2026-04-22 19:46:41,274 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:41,275 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:41,363 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Germany\History of Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:46:42,364 - INFO - 
+[123/317] Processing: Germany - Research Skills
+2026-04-22 19:46:42,364 - INFO - 
+Processing: Germany - Research Skills
+2026-04-22 19:46:42,364 - INFO - Alternatives: https://ocw.mit.edu/courses/21w-781-advanced-research-writing-spring-2017/
+2026-04-22 19:46:42,365 - INFO - Flagged for manual review: https://ocw.mit.edu/courses/21w-781-advanced-research-writing-spring-2017/
+2026-04-22 19:46:43,366 - INFO - 
+[124/317] Processing: Germany - Human Development
+2026-04-22 19:46:43,366 - INFO - 
+Processing: Germany - Human Development
+2026-04-22 19:46:43,366 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:43,367 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:43,448 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Germany\Human Development_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:46:44,450 - INFO - 
+[125/317] Processing: Germany - General Biology
+2026-04-22 19:46:44,450 - INFO - 
+Processing: Germany - General Biology
+2026-04-22 19:46:44,450 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Biology2e_WEB.pdf
+2026-04-22 19:46:45,452 - INFO - 
+[126/317] Processing: Germany - Foundations of Psychology
+2026-04-22 19:46:45,452 - INFO - 
+Processing: Germany - Foundations of Psychology
+2026-04-22 19:46:45,452 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:45,454 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:46:45,533 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Germany\Foundations of Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:46:46,534 - INFO - 
+[127/317] Processing: Germany - Clinical Psychology
+2026-04-22 19:46:46,534 - INFO - 
+Processing: Germany - Clinical Psychology
+2026-04-22 19:46:46,534 - INFO - Alternatives: https://pressbooks.bccampus.ca/abnormalpsychology2019/
+2026-04-22 19:46:46,535 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/abnormalpsychology2019/
+2026-04-22 19:46:47,536 - INFO - 
+[128/317] Processing: Germany - Counselling Psychology
+2026-04-22 19:46:47,536 - INFO - 
+Processing: Germany - Counselling Psychology
+2026-04-22 19:46:47,536 - INFO - Alternatives: https://opentextbc.ca/psych/
+2026-04-22 19:46:47,537 - INFO - Flagged for manual review: https://opentextbc.ca/psych/
+2026-04-22 19:46:48,538 - INFO - 
+[129/317] Processing: Germany - Applied Statistics
+2026-04-22 19:46:48,538 - INFO - 
+Processing: Germany - Applied Statistics
+2026-04-22 19:46:48,538 - INFO - Alternatives: https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf
+2026-04-22 19:46:48,539 - INFO - Downloading (attempt 1/3): https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf
+2026-04-22 19:46:56,310 - INFO - Successfully downloaded: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Germany\Applied Statistics_IntroductoryStatistics-OP.pdf (29990560 bytes)
+2026-04-22 19:46:57,311 - INFO - 
+[130/317] Processing: Germany - Advanced Research Methods
+2026-04-22 19:46:57,311 - INFO - 
+Processing: Germany - Advanced Research Methods
+2026-04-22 19:46:57,311 - INFO - Alternatives: https://ocw.mit.edu/courses/brain-and-cognitive-sciences/
+2026-04-22 19:46:57,312 - INFO - Flagged for manual review: https://ocw.mit.edu/courses/brain-and-cognitive-sciences/
+2026-04-22 19:46:58,312 - INFO - 
+[131/317] Processing: Germany - Psychological Testing / Assessment
+2026-04-22 19:46:58,312 - INFO - 
+Processing: Germany - Psychological Testing / Assessment
+2026-04-22 19:46:58,312 - INFO - Alternatives: https://pressbooks.bccampus.ca/psychologydegree/chapter/psychological-testing/
+2026-04-22 19:46:58,313 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/psychologydegree/chapter/psychological-testing/
+2026-04-22 19:46:59,314 - INFO - 
+[132/317] Processing: Germany - Thesis / Project
+2026-04-22 19:46:59,314 - INFO - 
+Processing: Germany - Thesis / Project
+2026-04-22 19:46:59,314 - INFO - Alternatives: https://pressbooks.bccampus.ca/writingforpsychology/
+2026-04-22 19:46:59,315 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/writingforpsychology/
+2026-04-22 19:47:00,316 - INFO - 
+[133/317] Processing: France - General Psychology
+2026-04-22 19:47:00,316 - INFO - 
+Processing: France - General Psychology
+2026-04-22 19:47:00,316 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:00,317 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:00,391 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\France\General Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:47:01,392 - INFO - 
+[134/317] Processing: France - Cognitive Psychology
+2026-04-22 19:47:01,392 - INFO - 
+Processing: France - Cognitive Psychology
+2026-04-22 19:47:01,392 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:01,394 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:01,476 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\France\Cognitive Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:47:02,477 - INFO - 
+[135/317] Processing: France - Social Psychology
+2026-04-22 19:47:02,477 - INFO - 
+Processing: France - Social Psychology
+2026-04-22 19:47:02,477 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:02,478 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:02,575 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\France\Social Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:47:03,576 - INFO - 
+[136/317] Processing: France - Personality Psychology
+2026-04-22 19:47:03,576 - INFO - 
+Processing: France - Personality Psychology
+2026-04-22 19:47:03,576 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:03,576 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:03,647 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\France\Personality Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:47:04,657 - INFO - 
+[137/317] Processing: France - Abnormal Psychology
+2026-04-22 19:47:04,657 - INFO - 
+Processing: France - Abnormal Psychology
+2026-04-22 19:47:04,657 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:04,657 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:04,740 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\France\Abnormal Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:47:05,741 - INFO - 
+[138/317] Processing: France - Research Methods & Ethics
+2026-04-22 19:47:05,741 - INFO - 
+Processing: France - Research Methods & Ethics
+2026-04-22 19:47:05,741 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:05,741 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:05,823 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\France\Research Methods & Ethics_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:47:06,824 - INFO - 
+[139/317] Processing: France - Health Psychology
+2026-04-22 19:47:06,824 - INFO - 
+Processing: France - Health Psychology
+2026-04-22 19:47:06,824 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:06,824 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:06,948 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\France\Health Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:47:07,950 - INFO - 
+[140/317] Processing: France - Experimental Psychology
+2026-04-22 19:47:07,950 - INFO - 
+Processing: France - Experimental Psychology
+2026-04-22 19:47:07,950 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:07,950 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:08,029 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\France\Experimental Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:47:09,030 - INFO - 
+[141/317] Processing: France - Biological Psychology
+2026-04-22 19:47:09,030 - INFO - 
+Processing: France - Biological Psychology
+2026-04-22 19:47:09,030 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:09,030 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:09,120 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\France\Biological Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:47:10,121 - INFO - 
+[142/317] Processing: France - Lab Work / Practical
+2026-04-22 19:47:10,121 - INFO - 
+Processing: France - Lab Work / Practical
+2026-04-22 19:47:10,121 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:10,121 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:10,214 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\France\Lab Work _ Practical_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:47:11,215 - INFO - 
+[143/317] Processing: France - Developmental Psychology
+2026-04-22 19:47:11,215 - INFO - 
+Processing: France - Developmental Psychology
+2026-04-22 19:47:11,215 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:11,216 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:11,293 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\France\Developmental Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:47:12,303 - INFO - 
+[144/317] Processing: France - History of Psychology
+2026-04-22 19:47:12,303 - INFO - 
+Processing: France - History of Psychology
+2026-04-22 19:47:12,303 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:12,304 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:12,381 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\France\History of Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:47:13,385 - INFO - 
+[145/317] Processing: France - Research Skills
+2026-04-22 19:47:13,385 - INFO - 
+Processing: France - Research Skills
+2026-04-22 19:47:13,385 - INFO - Alternatives: https://ocw.mit.edu/courses/21w-781-advanced-research-writing-spring-2017/
+2026-04-22 19:47:13,386 - INFO - Flagged for manual review: https://ocw.mit.edu/courses/21w-781-advanced-research-writing-spring-2017/
+2026-04-22 19:47:14,388 - INFO - 
+[146/317] Processing: France - Human Development
+2026-04-22 19:47:14,388 - INFO - 
+Processing: France - Human Development
+2026-04-22 19:47:14,388 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:14,388 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:14,501 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\France\Human Development_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:47:15,506 - INFO - 
+[147/317] Processing: France - General Biology
+2026-04-22 19:47:15,506 - INFO - 
+Processing: France - General Biology
+2026-04-22 19:47:15,506 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Biology2e_WEB.pdf
+2026-04-22 19:47:16,508 - INFO - 
+[148/317] Processing: France - Foundations of Psychology
+2026-04-22 19:47:16,508 - INFO - 
+Processing: France - Foundations of Psychology
+2026-04-22 19:47:16,508 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:16,509 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:16,594 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\France\Foundations of Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:47:17,595 - INFO - 
+[149/317] Processing: France - Clinical Psychology
+2026-04-22 19:47:17,595 - INFO - 
+Processing: France - Clinical Psychology
+2026-04-22 19:47:17,595 - INFO - Alternatives: https://pressbooks.bccampus.ca/abnormalpsychology2019/
+2026-04-22 19:47:17,595 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/abnormalpsychology2019/
+2026-04-22 19:47:18,597 - INFO - 
+[150/317] Processing: France - Counselling Psychology
+2026-04-22 19:47:18,597 - INFO - 
+Processing: France - Counselling Psychology
+2026-04-22 19:47:18,597 - INFO - Alternatives: https://opentextbc.ca/psych/
+2026-04-22 19:47:18,597 - INFO - Flagged for manual review: https://opentextbc.ca/psych/
+2026-04-22 19:47:19,598 - INFO - 
+[151/317] Processing: France - Applied Statistics
+2026-04-22 19:47:19,598 - INFO - 
+Processing: France - Applied Statistics
+2026-04-22 19:47:19,598 - INFO - Alternatives: https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf
+2026-04-22 19:47:19,599 - INFO - Downloading (attempt 1/3): https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf
+2026-04-22 19:47:28,896 - INFO - Successfully downloaded: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\France\Applied Statistics_IntroductoryStatistics-OP.pdf (29990560 bytes)
+2026-04-22 19:47:29,896 - INFO - 
+[152/317] Processing: France - Advanced Research Methods
+2026-04-22 19:47:29,896 - INFO - 
+Processing: France - Advanced Research Methods
+2026-04-22 19:47:29,896 - INFO - Alternatives: https://ocw.mit.edu/courses/brain-and-cognitive-sciences/
+2026-04-22 19:47:29,896 - INFO - Flagged for manual review: https://ocw.mit.edu/courses/brain-and-cognitive-sciences/
+2026-04-22 19:47:30,898 - INFO - 
+[153/317] Processing: France - Psychological Testing / Assessment
+2026-04-22 19:47:30,898 - INFO - 
+Processing: France - Psychological Testing / Assessment
+2026-04-22 19:47:30,898 - INFO - Alternatives: https://pressbooks.bccampus.ca/psychologydegree/chapter/psychological-testing/
+2026-04-22 19:47:30,899 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/psychologydegree/chapter/psychological-testing/
+2026-04-22 19:47:31,900 - INFO - 
+[154/317] Processing: France - Thesis / Project
+2026-04-22 19:47:31,900 - INFO - 
+Processing: France - Thesis / Project
+2026-04-22 19:47:31,900 - INFO - Alternatives: https://pressbooks.bccampus.ca/writingforpsychology/
+2026-04-22 19:47:31,900 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/writingforpsychology/
+2026-04-22 19:47:32,901 - INFO - 
+[155/317] Processing: Netherlands - General Psychology
+2026-04-22 19:47:32,901 - INFO - 
+Processing: Netherlands - General Psychology
+2026-04-22 19:47:32,901 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:32,901 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:32,978 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Netherlands\General Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:47:33,980 - INFO - 
+[156/317] Processing: Netherlands - Cognitive Psychology
+2026-04-22 19:47:33,980 - INFO - 
+Processing: Netherlands - Cognitive Psychology
+2026-04-22 19:47:33,980 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:33,981 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:34,065 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Netherlands\Cognitive Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:47:35,066 - INFO - 
+[157/317] Processing: Netherlands - Social Psychology
+2026-04-22 19:47:35,066 - INFO - 
+Processing: Netherlands - Social Psychology
+2026-04-22 19:47:35,066 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:35,066 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:35,153 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Netherlands\Social Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:47:36,154 - INFO - 
+[158/317] Processing: Netherlands - Personality Psychology
+2026-04-22 19:47:36,154 - INFO - 
+Processing: Netherlands - Personality Psychology
+2026-04-22 19:47:36,154 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:36,154 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:36,249 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Netherlands\Personality Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:47:37,250 - INFO - 
+[159/317] Processing: Netherlands - Abnormal Psychology
+2026-04-22 19:47:37,250 - INFO - 
+Processing: Netherlands - Abnormal Psychology
+2026-04-22 19:47:37,250 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:37,251 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:37,342 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Netherlands\Abnormal Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:47:38,343 - INFO - 
+[160/317] Processing: Netherlands - Research Methods & Ethics
+2026-04-22 19:47:38,343 - INFO - 
+Processing: Netherlands - Research Methods & Ethics
+2026-04-22 19:47:38,343 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:38,344 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:38,435 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Netherlands\Research Methods & Ethics_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:47:39,437 - INFO - 
+[161/317] Processing: Netherlands - Health Psychology
+2026-04-22 19:47:39,437 - INFO - 
+Processing: Netherlands - Health Psychology
+2026-04-22 19:47:39,437 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:39,437 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:39,521 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Netherlands\Health Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:47:40,525 - INFO - 
+[162/317] Processing: Netherlands - Experimental Psychology
+2026-04-22 19:47:40,525 - INFO - 
+Processing: Netherlands - Experimental Psychology
+2026-04-22 19:47:40,525 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:40,527 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:40,610 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Netherlands\Experimental Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:47:41,611 - INFO - 
+[163/317] Processing: Netherlands - Biological Psychology
+2026-04-22 19:47:41,611 - INFO - 
+Processing: Netherlands - Biological Psychology
+2026-04-22 19:47:41,611 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:41,612 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:41,690 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Netherlands\Biological Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:47:42,692 - INFO - 
+[164/317] Processing: Netherlands - Lab Work / Practical
+2026-04-22 19:47:42,692 - INFO - 
+Processing: Netherlands - Lab Work / Practical
+2026-04-22 19:47:42,692 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:42,693 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:42,789 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Netherlands\Lab Work _ Practical_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:47:43,790 - INFO - 
+[165/317] Processing: Netherlands - Developmental Psychology
+2026-04-22 19:47:43,790 - INFO - 
+Processing: Netherlands - Developmental Psychology
+2026-04-22 19:47:43,790 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:43,791 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:43,870 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Netherlands\Developmental Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:47:44,874 - INFO - 
+[166/317] Processing: Netherlands - History of Psychology
+2026-04-22 19:47:44,874 - INFO - 
+Processing: Netherlands - History of Psychology
+2026-04-22 19:47:44,874 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:44,874 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:44,991 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Netherlands\History of Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:47:45,993 - INFO - 
+[167/317] Processing: Netherlands - Research Skills
+2026-04-22 19:47:45,993 - INFO - 
+Processing: Netherlands - Research Skills
+2026-04-22 19:47:45,993 - INFO - Alternatives: https://ocw.mit.edu/courses/21w-781-advanced-research-writing-spring-2017/
+2026-04-22 19:47:45,994 - INFO - Flagged for manual review: https://ocw.mit.edu/courses/21w-781-advanced-research-writing-spring-2017/
+2026-04-22 19:47:46,995 - INFO - 
+[168/317] Processing: Netherlands - Human Development
+2026-04-22 19:47:46,995 - INFO - 
+Processing: Netherlands - Human Development
+2026-04-22 19:47:46,995 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:46,995 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:47,080 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Netherlands\Human Development_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:47:48,081 - INFO - 
+[169/317] Processing: Netherlands - General Biology
+2026-04-22 19:47:48,081 - INFO - 
+Processing: Netherlands - General Biology
+2026-04-22 19:47:48,081 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Biology2e_WEB.pdf
+2026-04-22 19:47:49,083 - INFO - 
+[170/317] Processing: Netherlands - Foundations of Psychology
+2026-04-22 19:47:49,083 - INFO - 
+Processing: Netherlands - Foundations of Psychology
+2026-04-22 19:47:49,083 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:49,084 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:47:49,175 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Netherlands\Foundations of Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:47:50,177 - INFO - 
+[171/317] Processing: Netherlands - Clinical Psychology
+2026-04-22 19:47:50,177 - INFO - 
+Processing: Netherlands - Clinical Psychology
+2026-04-22 19:47:50,177 - INFO - Alternatives: https://pressbooks.bccampus.ca/abnormalpsychology2019/
+2026-04-22 19:47:50,178 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/abnormalpsychology2019/
+2026-04-22 19:47:51,179 - INFO - 
+[172/317] Processing: Netherlands - Counselling Psychology
+2026-04-22 19:47:51,179 - INFO - 
+Processing: Netherlands - Counselling Psychology
+2026-04-22 19:47:51,179 - INFO - Alternatives: https://opentextbc.ca/psych/
+2026-04-22 19:47:51,181 - INFO - Flagged for manual review: https://opentextbc.ca/psych/
+2026-04-22 19:47:52,181 - INFO - 
+[173/317] Processing: Netherlands - Applied Statistics
+2026-04-22 19:47:52,181 - INFO - 
+Processing: Netherlands - Applied Statistics
+2026-04-22 19:47:52,181 - INFO - Alternatives: https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf
+2026-04-22 19:47:52,182 - INFO - Downloading (attempt 1/3): https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf
+2026-04-22 19:48:04,976 - INFO - Successfully downloaded: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Netherlands\Applied Statistics_IntroductoryStatistics-OP.pdf (29990560 bytes)
+2026-04-22 19:48:05,978 - INFO - 
+[174/317] Processing: Netherlands - Advanced Research Methods
+2026-04-22 19:48:05,978 - INFO - 
+Processing: Netherlands - Advanced Research Methods
+2026-04-22 19:48:05,978 - INFO - Alternatives: https://ocw.mit.edu/courses/brain-and-cognitive-sciences/
+2026-04-22 19:48:05,979 - INFO - Flagged for manual review: https://ocw.mit.edu/courses/brain-and-cognitive-sciences/
+2026-04-22 19:48:06,980 - INFO - 
+[175/317] Processing: Netherlands - Psychological Testing / Assessment
+2026-04-22 19:48:06,980 - INFO - 
+Processing: Netherlands - Psychological Testing / Assessment
+2026-04-22 19:48:06,980 - INFO - Alternatives: https://pressbooks.bccampus.ca/psychologydegree/chapter/psychological-testing/
+2026-04-22 19:48:06,980 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/psychologydegree/chapter/psychological-testing/
+2026-04-22 19:48:07,981 - INFO - 
+[176/317] Processing: Netherlands - Thesis / Project
+2026-04-22 19:48:07,981 - INFO - 
+Processing: Netherlands - Thesis / Project
+2026-04-22 19:48:07,981 - INFO - Alternatives: https://pressbooks.bccampus.ca/writingforpsychology/
+2026-04-22 19:48:07,981 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/writingforpsychology/
+2026-04-22 19:48:08,982 - INFO - 
+[177/317] Processing: Sweden - General Psychology
+2026-04-22 19:48:08,982 - INFO - 
+Processing: Sweden - General Psychology
+2026-04-22 19:48:08,982 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:08,983 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:09,053 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Sweden\General Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:48:10,055 - INFO - 
+[178/317] Processing: Sweden - Cognitive Psychology
+2026-04-22 19:48:10,056 - INFO - 
+Processing: Sweden - Cognitive Psychology
+2026-04-22 19:48:10,056 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:10,057 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:10,144 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Sweden\Cognitive Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:48:11,145 - INFO - 
+[179/317] Processing: Sweden - Social Psychology
+2026-04-22 19:48:11,145 - INFO - 
+Processing: Sweden - Social Psychology
+2026-04-22 19:48:11,145 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:11,146 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:11,230 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Sweden\Social Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:48:12,230 - INFO - 
+[180/317] Processing: Sweden - Personality Psychology
+2026-04-22 19:48:12,230 - INFO - 
+Processing: Sweden - Personality Psychology
+2026-04-22 19:48:12,230 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:12,230 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:12,344 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Sweden\Personality Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:48:13,345 - INFO - 
+[181/317] Processing: Sweden - Abnormal Psychology
+2026-04-22 19:48:13,345 - INFO - 
+Processing: Sweden - Abnormal Psychology
+2026-04-22 19:48:13,345 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:13,346 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:13,444 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Sweden\Abnormal Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:48:14,445 - INFO - 
+[182/317] Processing: Sweden - Research Methods & Ethics
+2026-04-22 19:48:14,445 - INFO - 
+Processing: Sweden - Research Methods & Ethics
+2026-04-22 19:48:14,445 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:14,446 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:14,526 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Sweden\Research Methods & Ethics_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:48:15,527 - INFO - 
+[183/317] Processing: Sweden - Health Psychology
+2026-04-22 19:48:15,527 - INFO - 
+Processing: Sweden - Health Psychology
+2026-04-22 19:48:15,527 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:15,528 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:15,615 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Sweden\Health Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:48:16,618 - INFO - 
+[184/317] Processing: Sweden - Experimental Psychology
+2026-04-22 19:48:16,618 - INFO - 
+Processing: Sweden - Experimental Psychology
+2026-04-22 19:48:16,618 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:16,618 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:16,699 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Sweden\Experimental Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:48:17,700 - INFO - 
+[185/317] Processing: Sweden - Biological Psychology
+2026-04-22 19:48:17,700 - INFO - 
+Processing: Sweden - Biological Psychology
+2026-04-22 19:48:17,700 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:17,701 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:17,780 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Sweden\Biological Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:48:18,781 - INFO - 
+[186/317] Processing: Sweden - Lab Work / Practical
+2026-04-22 19:48:18,781 - INFO - 
+Processing: Sweden - Lab Work / Practical
+2026-04-22 19:48:18,781 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:18,782 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:18,881 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Sweden\Lab Work _ Practical_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:48:19,882 - INFO - 
+[187/317] Processing: Sweden - Developmental Psychology
+2026-04-22 19:48:19,882 - INFO - 
+Processing: Sweden - Developmental Psychology
+2026-04-22 19:48:19,882 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:19,883 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:20,000 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Sweden\Developmental Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:48:21,001 - INFO - 
+[188/317] Processing: Sweden - History of Psychology
+2026-04-22 19:48:21,001 - INFO - 
+Processing: Sweden - History of Psychology
+2026-04-22 19:48:21,001 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:21,002 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:21,095 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Sweden\History of Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:48:22,101 - INFO - 
+[189/317] Processing: Sweden - Research Skills
+2026-04-22 19:48:22,101 - INFO - 
+Processing: Sweden - Research Skills
+2026-04-22 19:48:22,101 - INFO - Alternatives: https://ocw.mit.edu/courses/21w-781-advanced-research-writing-spring-2017/
+2026-04-22 19:48:22,101 - INFO - Flagged for manual review: https://ocw.mit.edu/courses/21w-781-advanced-research-writing-spring-2017/
+2026-04-22 19:48:23,102 - INFO - 
+[190/317] Processing: Sweden - Human Development
+2026-04-22 19:48:23,102 - INFO - 
+Processing: Sweden - Human Development
+2026-04-22 19:48:23,103 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:23,103 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:23,191 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Sweden\Human Development_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:48:24,192 - INFO - 
+[191/317] Processing: Sweden - General Biology
+2026-04-22 19:48:24,192 - INFO - 
+Processing: Sweden - General Biology
+2026-04-22 19:48:24,192 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Biology2e_WEB.pdf
+2026-04-22 19:48:25,194 - INFO - 
+[192/317] Processing: Sweden - Foundations of Psychology
+2026-04-22 19:48:25,194 - INFO - 
+Processing: Sweden - Foundations of Psychology
+2026-04-22 19:48:25,194 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:25,196 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:25,282 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Sweden\Foundations of Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:48:26,284 - INFO - 
+[193/317] Processing: Sweden - Clinical Psychology
+2026-04-22 19:48:26,284 - INFO - 
+Processing: Sweden - Clinical Psychology
+2026-04-22 19:48:26,284 - INFO - Alternatives: https://pressbooks.bccampus.ca/abnormalpsychology2019/
+2026-04-22 19:48:26,285 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/abnormalpsychology2019/
+2026-04-22 19:48:27,285 - INFO - 
+[194/317] Processing: Sweden - Counselling Psychology
+2026-04-22 19:48:27,285 - INFO - 
+Processing: Sweden - Counselling Psychology
+2026-04-22 19:48:27,285 - INFO - Alternatives: https://opentextbc.ca/psych/
+2026-04-22 19:48:27,286 - INFO - Flagged for manual review: https://opentextbc.ca/psych/
+2026-04-22 19:48:28,287 - INFO - 
+[195/317] Processing: Sweden - Applied Statistics
+2026-04-22 19:48:28,287 - INFO - 
+Processing: Sweden - Applied Statistics
+2026-04-22 19:48:28,287 - INFO - Alternatives: https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf
+2026-04-22 19:48:28,288 - INFO - Downloading (attempt 1/3): https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf
+2026-04-22 19:48:37,310 - INFO - Successfully downloaded: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Sweden\Applied Statistics_IntroductoryStatistics-OP.pdf (29990560 bytes)
+2026-04-22 19:48:38,311 - INFO - 
+[196/317] Processing: Sweden - Advanced Research Methods
+2026-04-22 19:48:38,311 - INFO - 
+Processing: Sweden - Advanced Research Methods
+2026-04-22 19:48:38,311 - INFO - Alternatives: https://ocw.mit.edu/courses/brain-and-cognitive-sciences/
+2026-04-22 19:48:38,311 - INFO - Flagged for manual review: https://ocw.mit.edu/courses/brain-and-cognitive-sciences/
+2026-04-22 19:48:39,313 - INFO - 
+[197/317] Processing: Sweden - Psychological Testing / Assessment
+2026-04-22 19:48:39,313 - INFO - 
+Processing: Sweden - Psychological Testing / Assessment
+2026-04-22 19:48:39,313 - INFO - Alternatives: https://pressbooks.bccampus.ca/psychologydegree/chapter/psychological-testing/
+2026-04-22 19:48:39,313 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/psychologydegree/chapter/psychological-testing/
+2026-04-22 19:48:40,315 - INFO - 
+[198/317] Processing: Sweden - Thesis / Project
+2026-04-22 19:48:40,315 - INFO - 
+Processing: Sweden - Thesis / Project
+2026-04-22 19:48:40,315 - INFO - Alternatives: https://pressbooks.bccampus.ca/writingforpsychology/
+2026-04-22 19:48:40,315 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/writingforpsychology/
+2026-04-22 19:48:41,316 - INFO - 
+[199/317] Processing: Finland - General Psychology
+2026-04-22 19:48:41,316 - INFO - 
+Processing: Finland - General Psychology
+2026-04-22 19:48:41,316 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:41,317 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:41,388 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Finland\General Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:48:42,389 - INFO - 
+[200/317] Processing: Finland - Cognitive Psychology
+2026-04-22 19:48:42,389 - INFO - 
+Processing: Finland - Cognitive Psychology
+2026-04-22 19:48:42,389 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:42,390 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:42,471 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Finland\Cognitive Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:48:43,475 - INFO - 
+[201/317] Processing: Finland - Social Psychology
+2026-04-22 19:48:43,475 - INFO - 
+Processing: Finland - Social Psychology
+2026-04-22 19:48:43,475 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:43,476 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:43,591 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Finland\Social Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:48:44,593 - INFO - 
+[202/317] Processing: Finland - Personality Psychology
+2026-04-22 19:48:44,593 - INFO - 
+Processing: Finland - Personality Psychology
+2026-04-22 19:48:44,593 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:44,593 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:44,677 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Finland\Personality Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:48:45,677 - INFO - 
+[203/317] Processing: Finland - Abnormal Psychology
+2026-04-22 19:48:45,678 - INFO - 
+Processing: Finland - Abnormal Psychology
+2026-04-22 19:48:45,678 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:45,679 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:45,762 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Finland\Abnormal Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:48:46,762 - INFO - 
+[204/317] Processing: Finland - Research Methods & Ethics
+2026-04-22 19:48:46,762 - INFO - 
+Processing: Finland - Research Methods & Ethics
+2026-04-22 19:48:46,762 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:46,764 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:46,846 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Finland\Research Methods & Ethics_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:48:47,848 - INFO - 
+[205/317] Processing: Finland - Health Psychology
+2026-04-22 19:48:47,848 - INFO - 
+Processing: Finland - Health Psychology
+2026-04-22 19:48:47,848 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:47,849 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:47,937 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Finland\Health Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:48:48,938 - INFO - 
+[206/317] Processing: Finland - Experimental Psychology
+2026-04-22 19:48:48,938 - INFO - 
+Processing: Finland - Experimental Psychology
+2026-04-22 19:48:48,938 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:48,939 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:49,027 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Finland\Experimental Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:48:50,028 - INFO - 
+[207/317] Processing: Finland - Biological Psychology
+2026-04-22 19:48:50,028 - INFO - 
+Processing: Finland - Biological Psychology
+2026-04-22 19:48:50,029 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:50,029 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:50,154 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Finland\Biological Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:48:51,156 - INFO - 
+[208/317] Processing: Finland - Lab Work / Practical
+2026-04-22 19:48:51,156 - INFO - 
+Processing: Finland - Lab Work / Practical
+2026-04-22 19:48:51,156 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:51,157 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:51,239 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Finland\Lab Work _ Practical_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:48:52,240 - INFO - 
+[209/317] Processing: Finland - Developmental Psychology
+2026-04-22 19:48:52,240 - INFO - 
+Processing: Finland - Developmental Psychology
+2026-04-22 19:48:52,240 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:52,241 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:52,338 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Finland\Developmental Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:48:53,340 - INFO - 
+[210/317] Processing: Finland - History of Psychology
+2026-04-22 19:48:53,340 - INFO - 
+Processing: Finland - History of Psychology
+2026-04-22 19:48:53,340 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:53,341 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:53,421 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Finland\History of Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:48:54,427 - INFO - 
+[211/317] Processing: Finland - Research Skills
+2026-04-22 19:48:54,427 - INFO - 
+Processing: Finland - Research Skills
+2026-04-22 19:48:54,427 - INFO - Alternatives: https://ocw.mit.edu/courses/21w-781-advanced-research-writing-spring-2017/
+2026-04-22 19:48:54,427 - INFO - Flagged for manual review: https://ocw.mit.edu/courses/21w-781-advanced-research-writing-spring-2017/
+2026-04-22 19:48:55,429 - INFO - 
+[212/317] Processing: Finland - Human Development
+2026-04-22 19:48:55,429 - INFO - 
+Processing: Finland - Human Development
+2026-04-22 19:48:55,429 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:55,430 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:55,507 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Finland\Human Development_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:48:56,508 - INFO - 
+[213/317] Processing: Finland - General Biology
+2026-04-22 19:48:56,508 - INFO - 
+Processing: Finland - General Biology
+2026-04-22 19:48:56,508 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Biology2e_WEB.pdf
+2026-04-22 19:48:57,510 - INFO - 
+[214/317] Processing: Finland - Foundations of Psychology
+2026-04-22 19:48:57,510 - INFO - 
+Processing: Finland - Foundations of Psychology
+2026-04-22 19:48:57,510 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:57,510 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:48:57,598 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Finland\Foundations of Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:48:58,600 - INFO - 
+[215/317] Processing: Finland - Clinical Psychology
+2026-04-22 19:48:58,600 - INFO - 
+Processing: Finland - Clinical Psychology
+2026-04-22 19:48:58,600 - INFO - Alternatives: https://pressbooks.bccampus.ca/abnormalpsychology2019/
+2026-04-22 19:48:58,601 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/abnormalpsychology2019/
+2026-04-22 19:48:59,602 - INFO - 
+[216/317] Processing: Finland - Counselling Psychology
+2026-04-22 19:48:59,602 - INFO - 
+Processing: Finland - Counselling Psychology
+2026-04-22 19:48:59,602 - INFO - Alternatives: https://opentextbc.ca/psych/
+2026-04-22 19:48:59,603 - INFO - Flagged for manual review: https://opentextbc.ca/psych/
+2026-04-22 19:49:00,603 - INFO - 
+[217/317] Processing: Finland - Applied Statistics
+2026-04-22 19:49:00,603 - INFO - 
+Processing: Finland - Applied Statistics
+2026-04-22 19:49:00,603 - INFO - Alternatives: https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf
+2026-04-22 19:49:00,604 - INFO - Downloading (attempt 1/3): https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf
+2026-04-22 19:49:22,634 - INFO - Successfully downloaded: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Finland\Applied Statistics_IntroductoryStatistics-OP.pdf (29990560 bytes)
+2026-04-22 19:49:23,634 - INFO - 
+[218/317] Processing: Finland - Advanced Research Methods
+2026-04-22 19:49:23,634 - INFO - 
+Processing: Finland - Advanced Research Methods
+2026-04-22 19:49:23,635 - INFO - Alternatives: https://ocw.mit.edu/courses/brain-and-cognitive-sciences/
+2026-04-22 19:49:23,635 - INFO - Flagged for manual review: https://ocw.mit.edu/courses/brain-and-cognitive-sciences/
+2026-04-22 19:49:24,636 - INFO - 
+[219/317] Processing: Finland - Psychological Testing / Assessment
+2026-04-22 19:49:24,636 - INFO - 
+Processing: Finland - Psychological Testing / Assessment
+2026-04-22 19:49:24,636 - INFO - Alternatives: https://pressbooks.bccampus.ca/psychologydegree/chapter/psychological-testing/
+2026-04-22 19:49:24,637 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/psychologydegree/chapter/psychological-testing/
+2026-04-22 19:49:25,638 - INFO - 
+[220/317] Processing: Finland - Thesis / Project
+2026-04-22 19:49:25,638 - INFO - 
+Processing: Finland - Thesis / Project
+2026-04-22 19:49:25,638 - INFO - Alternatives: https://pressbooks.bccampus.ca/writingforpsychology/
+2026-04-22 19:49:25,639 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/writingforpsychology/
+2026-04-22 19:49:26,639 - INFO - 
+[221/317] Processing: Norway - General Psychology
+2026-04-22 19:49:26,639 - INFO - 
+Processing: Norway - General Psychology
+2026-04-22 19:49:26,639 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:49:26,640 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:49:26,724 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Norway\General Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:49:27,726 - INFO - 
+[222/317] Processing: Norway - Cognitive Psychology
+2026-04-22 19:49:27,726 - INFO - 
+Processing: Norway - Cognitive Psychology
+2026-04-22 19:49:27,726 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:49:27,728 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:49:27,815 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Norway\Cognitive Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:49:28,818 - INFO - 
+[223/317] Processing: Norway - Social Psychology
+2026-04-22 19:49:28,818 - INFO - 
+Processing: Norway - Social Psychology
+2026-04-22 19:49:28,818 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:49:28,818 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:49:28,905 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Norway\Social Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:49:29,906 - INFO - 
+[224/317] Processing: Norway - Personality Psychology
+2026-04-22 19:49:29,907 - INFO - 
+Processing: Norway - Personality Psychology
+2026-04-22 19:49:29,907 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:49:29,907 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:49:29,989 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Norway\Personality Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:49:30,990 - INFO - 
+[225/317] Processing: Norway - Abnormal Psychology
+2026-04-22 19:49:30,990 - INFO - 
+Processing: Norway - Abnormal Psychology
+2026-04-22 19:49:30,990 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:49:30,992 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:49:31,074 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Norway\Abnormal Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:49:32,076 - INFO - 
+[226/317] Processing: Norway - Research Methods & Ethics
+2026-04-22 19:49:32,076 - INFO - 
+Processing: Norway - Research Methods & Ethics
+2026-04-22 19:49:32,076 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:49:32,076 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:49:32,173 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Norway\Research Methods & Ethics_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:49:33,178 - INFO - 
+[227/317] Processing: Norway - Health Psychology
+2026-04-22 19:49:33,178 - INFO - 
+Processing: Norway - Health Psychology
+2026-04-22 19:49:33,178 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:49:33,180 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:49:33,260 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Norway\Health Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:49:34,262 - INFO - 
+[228/317] Processing: Norway - Experimental Psychology
+2026-04-22 19:49:34,262 - INFO - 
+Processing: Norway - Experimental Psychology
+2026-04-22 19:49:34,262 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:49:34,263 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:49:34,367 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Norway\Experimental Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:49:35,374 - INFO - 
+[229/317] Processing: Norway - Biological Psychology
+2026-04-22 19:49:35,374 - INFO - 
+Processing: Norway - Biological Psychology
+2026-04-22 19:49:35,374 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:49:35,374 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:49:35,460 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Norway\Biological Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:49:36,461 - INFO - 
+[230/317] Processing: Norway - Lab Work / Practical
+2026-04-22 19:49:36,461 - INFO - 
+Processing: Norway - Lab Work / Practical
+2026-04-22 19:49:36,461 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:49:36,461 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:49:36,549 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Norway\Lab Work _ Practical_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:49:37,556 - INFO - 
+[231/317] Processing: Norway - Developmental Psychology
+2026-04-22 19:49:37,556 - INFO - 
+Processing: Norway - Developmental Psychology
+2026-04-22 19:49:37,556 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:49:37,557 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:49:37,631 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Norway\Developmental Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:49:38,645 - INFO - 
+[232/317] Processing: Norway - History of Psychology
+2026-04-22 19:49:38,646 - INFO - 
+Processing: Norway - History of Psychology
+2026-04-22 19:49:38,646 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:49:38,646 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:49:38,742 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Norway\History of Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:49:39,743 - INFO - 
+[233/317] Processing: Norway - Research Skills
+2026-04-22 19:49:39,743 - INFO - 
+Processing: Norway - Research Skills
+2026-04-22 19:49:39,743 - INFO - Alternatives: https://ocw.mit.edu/courses/21w-781-advanced-research-writing-spring-2017/
+2026-04-22 19:49:39,744 - INFO - Flagged for manual review: https://ocw.mit.edu/courses/21w-781-advanced-research-writing-spring-2017/
+2026-04-22 19:49:40,745 - INFO - 
+[234/317] Processing: Norway - Human Development
+2026-04-22 19:49:40,745 - INFO - 
+Processing: Norway - Human Development
+2026-04-22 19:49:40,745 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:49:40,745 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:49:40,826 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Norway\Human Development_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:49:41,827 - INFO - 
+[235/317] Processing: Norway - General Biology
+2026-04-22 19:49:41,827 - INFO - 
+Processing: Norway - General Biology
+2026-04-22 19:49:41,827 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Biology2e_WEB.pdf
+2026-04-22 19:49:42,829 - INFO - 
+[236/317] Processing: Norway - Foundations of Psychology
+2026-04-22 19:49:42,829 - INFO - 
+Processing: Norway - Foundations of Psychology
+2026-04-22 19:49:42,829 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:49:42,829 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:49:42,907 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Norway\Foundations of Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:49:43,912 - INFO - 
+[237/317] Processing: Norway - Clinical Psychology
+2026-04-22 19:49:43,912 - INFO - 
+Processing: Norway - Clinical Psychology
+2026-04-22 19:49:43,912 - INFO - Alternatives: https://pressbooks.bccampus.ca/abnormalpsychology2019/
+2026-04-22 19:49:43,912 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/abnormalpsychology2019/
+2026-04-22 19:49:44,913 - INFO - 
+[238/317] Processing: Norway - Counselling Psychology
+2026-04-22 19:49:44,913 - INFO - 
+Processing: Norway - Counselling Psychology
+2026-04-22 19:49:44,913 - INFO - Alternatives: https://opentextbc.ca/psych/
+2026-04-22 19:49:44,913 - INFO - Flagged for manual review: https://opentextbc.ca/psych/
+2026-04-22 19:49:45,915 - INFO - 
+[239/317] Processing: Norway - Applied Statistics
+2026-04-22 19:49:45,915 - INFO - 
+Processing: Norway - Applied Statistics
+2026-04-22 19:49:45,915 - INFO - Alternatives: https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf
+2026-04-22 19:49:45,915 - INFO - Downloading (attempt 1/3): https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf
+2026-04-22 19:49:53,658 - INFO - Successfully downloaded: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Norway\Applied Statistics_IntroductoryStatistics-OP.pdf (29990560 bytes)
+2026-04-22 19:49:54,661 - INFO - 
+[240/317] Processing: Norway - Advanced Research Methods
+2026-04-22 19:49:54,661 - INFO - 
+Processing: Norway - Advanced Research Methods
+2026-04-22 19:49:54,661 - INFO - Alternatives: https://ocw.mit.edu/courses/brain-and-cognitive-sciences/
+2026-04-22 19:49:54,661 - INFO - Flagged for manual review: https://ocw.mit.edu/courses/brain-and-cognitive-sciences/
+2026-04-22 19:49:55,663 - INFO - 
+[241/317] Processing: Norway - Psychological Testing / Assessment
+2026-04-22 19:49:55,663 - INFO - 
+Processing: Norway - Psychological Testing / Assessment
+2026-04-22 19:49:55,663 - INFO - Alternatives: https://pressbooks.bccampus.ca/psychologydegree/chapter/psychological-testing/
+2026-04-22 19:49:55,664 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/psychologydegree/chapter/psychological-testing/
+2026-04-22 19:49:56,665 - INFO - 
+[242/317] Processing: Norway - Thesis / Project
+2026-04-22 19:49:56,665 - INFO - 
+Processing: Norway - Thesis / Project
+2026-04-22 19:49:56,665 - INFO - Alternatives: https://pressbooks.bccampus.ca/writingforpsychology/
+2026-04-22 19:49:56,665 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/writingforpsychology/
+2026-04-22 19:49:57,669 - INFO - 
+[243/317] Processing: Switzerland - General Psychology
+2026-04-22 19:49:57,669 - INFO - 
+Processing: Switzerland - General Psychology
+2026-04-22 19:49:57,669 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:49:57,669 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:49:57,746 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Switzerland\General Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:49:58,748 - INFO - 
+[244/317] Processing: Switzerland - Cognitive Psychology
+2026-04-22 19:49:58,748 - INFO - 
+Processing: Switzerland - Cognitive Psychology
+2026-04-22 19:49:58,748 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:49:58,748 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:49:58,840 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Switzerland\Cognitive Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:49:59,842 - INFO - 
+[245/317] Processing: Switzerland - Social Psychology
+2026-04-22 19:49:59,842 - INFO - 
+Processing: Switzerland - Social Psychology
+2026-04-22 19:49:59,842 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:49:59,842 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:49:59,929 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Switzerland\Social Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:50:00,930 - INFO - 
+[246/317] Processing: Switzerland - Personality Psychology
+2026-04-22 19:50:00,930 - INFO - 
+Processing: Switzerland - Personality Psychology
+2026-04-22 19:50:00,930 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:00,930 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:01,015 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Switzerland\Personality Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:50:02,023 - INFO - 
+[247/317] Processing: Switzerland - Abnormal Psychology
+2026-04-22 19:50:02,023 - INFO - 
+Processing: Switzerland - Abnormal Psychology
+2026-04-22 19:50:02,023 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:02,024 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:02,100 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Switzerland\Abnormal Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:50:03,108 - INFO - 
+[248/317] Processing: Switzerland - Research Methods & Ethics
+2026-04-22 19:50:03,108 - INFO - 
+Processing: Switzerland - Research Methods & Ethics
+2026-04-22 19:50:03,108 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:03,109 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:03,182 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Switzerland\Research Methods & Ethics_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:50:04,183 - INFO - 
+[249/317] Processing: Switzerland - Health Psychology
+2026-04-22 19:50:04,183 - INFO - 
+Processing: Switzerland - Health Psychology
+2026-04-22 19:50:04,183 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:04,183 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:04,282 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Switzerland\Health Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:50:05,291 - INFO - 
+[250/317] Processing: Switzerland - Experimental Psychology
+2026-04-22 19:50:05,291 - INFO - 
+Processing: Switzerland - Experimental Psychology
+2026-04-22 19:50:05,291 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:05,291 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:05,368 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Switzerland\Experimental Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:50:06,370 - INFO - 
+[251/317] Processing: Switzerland - Biological Psychology
+2026-04-22 19:50:06,370 - INFO - 
+Processing: Switzerland - Biological Psychology
+2026-04-22 19:50:06,370 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:06,370 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:06,449 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Switzerland\Biological Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:50:07,451 - INFO - 
+[252/317] Processing: Switzerland - Lab Work / Practical
+2026-04-22 19:50:07,451 - INFO - 
+Processing: Switzerland - Lab Work / Practical
+2026-04-22 19:50:07,451 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:07,451 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:07,532 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Switzerland\Lab Work _ Practical_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:50:08,533 - INFO - 
+[253/317] Processing: Switzerland - Developmental Psychology
+2026-04-22 19:50:08,533 - INFO - 
+Processing: Switzerland - Developmental Psychology
+2026-04-22 19:50:08,533 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:08,533 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:08,616 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Switzerland\Developmental Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:50:09,617 - INFO - 
+[254/317] Processing: Switzerland - History of Psychology
+2026-04-22 19:50:09,617 - INFO - 
+Processing: Switzerland - History of Psychology
+2026-04-22 19:50:09,617 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:09,618 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:09,697 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Switzerland\History of Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:50:10,703 - INFO - 
+[255/317] Processing: Switzerland - Research Skills
+2026-04-22 19:50:10,704 - INFO - 
+Processing: Switzerland - Research Skills
+2026-04-22 19:50:10,704 - INFO - Alternatives: https://ocw.mit.edu/courses/21w-781-advanced-research-writing-spring-2017/
+2026-04-22 19:50:10,705 - INFO - Flagged for manual review: https://ocw.mit.edu/courses/21w-781-advanced-research-writing-spring-2017/
+2026-04-22 19:50:11,706 - INFO - 
+[256/317] Processing: Switzerland - Human Development
+2026-04-22 19:50:11,706 - INFO - 
+Processing: Switzerland - Human Development
+2026-04-22 19:50:11,706 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:11,708 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:11,868 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Switzerland\Human Development_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:50:12,872 - INFO - 
+[257/317] Processing: Switzerland - General Biology
+2026-04-22 19:50:12,872 - INFO - 
+Processing: Switzerland - General Biology
+2026-04-22 19:50:12,872 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Biology2e_WEB.pdf
+2026-04-22 19:50:13,873 - INFO - 
+[258/317] Processing: Switzerland - Foundations of Psychology
+2026-04-22 19:50:13,873 - INFO - 
+Processing: Switzerland - Foundations of Psychology
+2026-04-22 19:50:13,873 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:13,874 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:13,958 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Switzerland\Foundations of Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:50:14,958 - INFO - 
+[259/317] Processing: Switzerland - Clinical Psychology
+2026-04-22 19:50:14,958 - INFO - 
+Processing: Switzerland - Clinical Psychology
+2026-04-22 19:50:14,958 - INFO - Alternatives: https://pressbooks.bccampus.ca/abnormalpsychology2019/
+2026-04-22 19:50:14,959 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/abnormalpsychology2019/
+2026-04-22 19:50:15,960 - INFO - 
+[260/317] Processing: Switzerland - Counselling Psychology
+2026-04-22 19:50:15,960 - INFO - 
+Processing: Switzerland - Counselling Psychology
+2026-04-22 19:50:15,960 - INFO - Alternatives: https://opentextbc.ca/psych/
+2026-04-22 19:50:15,962 - INFO - Flagged for manual review: https://opentextbc.ca/psych/
+2026-04-22 19:50:16,963 - INFO - 
+[261/317] Processing: Switzerland - Applied Statistics
+2026-04-22 19:50:16,963 - INFO - 
+Processing: Switzerland - Applied Statistics
+2026-04-22 19:50:16,963 - INFO - Alternatives: https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf
+2026-04-22 19:50:16,965 - INFO - Downloading (attempt 1/3): https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf
+2026-04-22 19:50:24,603 - INFO - Successfully downloaded: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Switzerland\Applied Statistics_IntroductoryStatistics-OP.pdf (29990560 bytes)
+2026-04-22 19:50:25,604 - INFO - 
+[262/317] Processing: Switzerland - Advanced Research Methods
+2026-04-22 19:50:25,604 - INFO - 
+Processing: Switzerland - Advanced Research Methods
+2026-04-22 19:50:25,604 - INFO - Alternatives: https://ocw.mit.edu/courses/brain-and-cognitive-sciences/
+2026-04-22 19:50:25,605 - INFO - Flagged for manual review: https://ocw.mit.edu/courses/brain-and-cognitive-sciences/
+2026-04-22 19:50:26,606 - INFO - 
+[263/317] Processing: Switzerland - Psychological Testing / Assessment
+2026-04-22 19:50:26,606 - INFO - 
+Processing: Switzerland - Psychological Testing / Assessment
+2026-04-22 19:50:26,606 - INFO - Alternatives: https://pressbooks.bccampus.ca/psychologydegree/chapter/psychological-testing/
+2026-04-22 19:50:26,607 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/psychologydegree/chapter/psychological-testing/
+2026-04-22 19:50:27,608 - INFO - 
+[264/317] Processing: Switzerland - Thesis / Project
+2026-04-22 19:50:27,608 - INFO - 
+Processing: Switzerland - Thesis / Project
+2026-04-22 19:50:27,608 - INFO - Alternatives: https://pressbooks.bccampus.ca/writingforpsychology/
+2026-04-22 19:50:27,608 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/writingforpsychology/
+2026-04-22 19:50:28,610 - INFO - 
+[265/317] Processing: South Korea - General Psychology
+2026-04-22 19:50:28,610 - INFO - 
+Processing: South Korea - General Psychology
+2026-04-22 19:50:28,610 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:28,610 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:28,682 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\South_Korea\General Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:50:29,684 - INFO - 
+[266/317] Processing: South Korea - Cognitive Psychology
+2026-04-22 19:50:29,684 - INFO - 
+Processing: South Korea - Cognitive Psychology
+2026-04-22 19:50:29,684 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:29,684 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:29,782 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\South_Korea\Cognitive Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:50:30,783 - INFO - 
+[267/317] Processing: South Korea - Social Psychology
+2026-04-22 19:50:30,783 - INFO - 
+Processing: South Korea - Social Psychology
+2026-04-22 19:50:30,783 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:30,783 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:30,862 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\South_Korea\Social Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:50:31,862 - INFO - 
+[268/317] Processing: South Korea - Personality Psychology
+2026-04-22 19:50:31,862 - INFO - 
+Processing: South Korea - Personality Psychology
+2026-04-22 19:50:31,862 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:31,863 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:31,944 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\South_Korea\Personality Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:50:32,945 - INFO - 
+[269/317] Processing: South Korea - Abnormal Psychology
+2026-04-22 19:50:32,945 - INFO - 
+Processing: South Korea - Abnormal Psychology
+2026-04-22 19:50:32,945 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:32,946 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:33,045 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\South_Korea\Abnormal Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:50:34,046 - INFO - 
+[270/317] Processing: South Korea - Research Methods & Ethics
+2026-04-22 19:50:34,046 - INFO - 
+Processing: South Korea - Research Methods & Ethics
+2026-04-22 19:50:34,046 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:34,047 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:34,149 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\South_Korea\Research Methods & Ethics_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:50:35,151 - INFO - 
+[271/317] Processing: South Korea - Health Psychology
+2026-04-22 19:50:35,151 - INFO - 
+Processing: South Korea - Health Psychology
+2026-04-22 19:50:35,151 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:35,152 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:35,218 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\South_Korea\Health Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:50:36,227 - INFO - 
+[272/317] Processing: South Korea - Experimental Psychology
+2026-04-22 19:50:36,227 - INFO - 
+Processing: South Korea - Experimental Psychology
+2026-04-22 19:50:36,227 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:36,227 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:36,325 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\South_Korea\Experimental Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:50:37,327 - INFO - 
+[273/317] Processing: South Korea - Biological Psychology
+2026-04-22 19:50:37,327 - INFO - 
+Processing: South Korea - Biological Psychology
+2026-04-22 19:50:37,327 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:37,328 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:37,405 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\South_Korea\Biological Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:50:38,406 - INFO - 
+[274/317] Processing: South Korea - Lab Work / Practical
+2026-04-22 19:50:38,406 - INFO - 
+Processing: South Korea - Lab Work / Practical
+2026-04-22 19:50:38,406 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:38,407 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:38,490 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\South_Korea\Lab Work _ Practical_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:50:39,491 - INFO - 
+[275/317] Processing: South Korea - Developmental Psychology
+2026-04-22 19:50:39,491 - INFO - 
+Processing: South Korea - Developmental Psychology
+2026-04-22 19:50:39,492 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:39,492 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:39,565 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\South_Korea\Developmental Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:50:40,575 - INFO - 
+[276/317] Processing: South Korea - History of Psychology
+2026-04-22 19:50:40,575 - INFO - 
+Processing: South Korea - History of Psychology
+2026-04-22 19:50:40,575 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:40,575 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:40,663 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\South_Korea\History of Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:50:41,664 - INFO - 
+[277/317] Processing: South Korea - Research Skills
+2026-04-22 19:50:41,664 - INFO - 
+Processing: South Korea - Research Skills
+2026-04-22 19:50:41,664 - INFO - Alternatives: https://ocw.mit.edu/courses/21w-781-advanced-research-writing-spring-2017/
+2026-04-22 19:50:41,664 - INFO - Flagged for manual review: https://ocw.mit.edu/courses/21w-781-advanced-research-writing-spring-2017/
+2026-04-22 19:50:42,665 - INFO - 
+[278/317] Processing: South Korea - Human Development
+2026-04-22 19:50:42,665 - INFO - 
+Processing: South Korea - Human Development
+2026-04-22 19:50:42,665 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:42,667 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:42,753 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\South_Korea\Human Development_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:50:43,753 - INFO - 
+[279/317] Processing: South Korea - General Biology
+2026-04-22 19:50:43,753 - INFO - 
+Processing: South Korea - General Biology
+2026-04-22 19:50:43,753 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Biology2e_WEB.pdf
+2026-04-22 19:50:44,755 - INFO - 
+[280/317] Processing: South Korea - Foundations of Psychology
+2026-04-22 19:50:44,755 - INFO - 
+Processing: South Korea - Foundations of Psychology
+2026-04-22 19:50:44,755 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:44,755 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:44,849 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\South_Korea\Foundations of Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:50:45,850 - INFO - 
+[281/317] Processing: South Korea - Clinical Psychology
+2026-04-22 19:50:45,850 - INFO - 
+Processing: South Korea - Clinical Psychology
+2026-04-22 19:50:45,850 - INFO - Alternatives: https://pressbooks.bccampus.ca/abnormalpsychology2019/
+2026-04-22 19:50:45,851 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/abnormalpsychology2019/
+2026-04-22 19:50:46,852 - INFO - 
+[282/317] Processing: South Korea - Counselling Psychology
+2026-04-22 19:50:46,852 - INFO - 
+Processing: South Korea - Counselling Psychology
+2026-04-22 19:50:46,852 - INFO - Alternatives: https://opentextbc.ca/psych/
+2026-04-22 19:50:46,853 - INFO - Flagged for manual review: https://opentextbc.ca/psych/
+2026-04-22 19:50:47,854 - INFO - 
+[283/317] Processing: South Korea - Applied Statistics
+2026-04-22 19:50:47,854 - INFO - 
+Processing: South Korea - Applied Statistics
+2026-04-22 19:50:47,854 - INFO - Alternatives: https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf
+2026-04-22 19:50:47,855 - INFO - Downloading (attempt 1/3): https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf
+2026-04-22 19:50:55,388 - INFO - Successfully downloaded: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\South_Korea\Applied Statistics_IntroductoryStatistics-OP.pdf (29990560 bytes)
+2026-04-22 19:50:56,389 - INFO - 
+[284/317] Processing: South Korea - Advanced Research Methods
+2026-04-22 19:50:56,389 - INFO - 
+Processing: South Korea - Advanced Research Methods
+2026-04-22 19:50:56,389 - INFO - Alternatives: https://ocw.mit.edu/courses/brain-and-cognitive-sciences/
+2026-04-22 19:50:56,390 - INFO - Flagged for manual review: https://ocw.mit.edu/courses/brain-and-cognitive-sciences/
+2026-04-22 19:50:57,391 - INFO - 
+[285/317] Processing: South Korea - Psychological Testing / Assessment
+2026-04-22 19:50:57,391 - INFO - 
+Processing: South Korea - Psychological Testing / Assessment
+2026-04-22 19:50:57,391 - INFO - Alternatives: https://pressbooks.bccampus.ca/psychologydegree/chapter/psychological-testing/
+2026-04-22 19:50:57,392 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/psychologydegree/chapter/psychological-testing/
+2026-04-22 19:50:58,393 - INFO - 
+[286/317] Processing: South Korea - Thesis / Project
+2026-04-22 19:50:58,393 - INFO - 
+Processing: South Korea - Thesis / Project
+2026-04-22 19:50:58,393 - INFO - Alternatives: https://pressbooks.bccampus.ca/writingforpsychology/
+2026-04-22 19:50:58,394 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/writingforpsychology/
+2026-04-22 19:50:59,395 - INFO - 
+[287/317] Processing: Spain - Foundations of Psychology
+2026-04-22 19:50:59,395 - INFO - 
+Processing: Spain - Foundations of Psychology
+2026-04-22 19:50:59,395 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:59,396 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:50:59,467 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Spain\Foundations of Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:51:00,468 - INFO - 
+[288/317] Processing: Italy - History of Psychology
+2026-04-22 19:51:00,468 - INFO - 
+Processing: Italy - History of Psychology
+2026-04-22 19:51:00,468 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:00,468 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:00,555 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Italy\History of Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:51:01,555 - INFO - 
+[289/317] Processing: Italy - Cognitive Psychology
+2026-04-22 19:51:01,555 - INFO - 
+Processing: Italy - Cognitive Psychology
+2026-04-22 19:51:01,555 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:01,556 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:01,643 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Italy\Cognitive Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:51:02,644 - INFO - 
+[290/317] Processing: Italy - Social Psychology
+2026-04-22 19:51:02,644 - INFO - 
+Processing: Italy - Social Psychology
+2026-04-22 19:51:02,644 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:02,645 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:02,721 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Italy\Social Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:51:03,727 - INFO - 
+[291/317] Processing: Italy - Personality Psychology
+2026-04-22 19:51:03,727 - INFO - 
+Processing: Italy - Personality Psychology
+2026-04-22 19:51:03,727 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:03,727 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:03,837 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Italy\Personality Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:51:04,838 - INFO - 
+[292/317] Processing: Italy - Abnormal Psychology
+2026-04-22 19:51:04,838 - INFO - 
+Processing: Italy - Abnormal Psychology
+2026-04-22 19:51:04,838 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:04,839 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:04,921 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Italy\Abnormal Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:51:05,927 - INFO - 
+[293/317] Processing: Italy - Research Methods & Ethics
+2026-04-22 19:51:05,927 - INFO - 
+Processing: Italy - Research Methods & Ethics
+2026-04-22 19:51:05,927 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:05,927 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:06,011 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Italy\Research Methods & Ethics_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:51:07,012 - INFO - 
+[294/317] Processing: Italy - Health Psychology
+2026-04-22 19:51:07,012 - INFO - 
+Processing: Italy - Health Psychology
+2026-04-22 19:51:07,012 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:07,013 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:07,100 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Italy\Health Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:51:08,101 - INFO - 
+[295/317] Processing: Italy - Experimental Psychology
+2026-04-22 19:51:08,101 - INFO - 
+Processing: Italy - Experimental Psychology
+2026-04-22 19:51:08,101 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:08,101 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:08,184 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Italy\Experimental Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:51:09,185 - INFO - 
+[296/317] Processing: Italy - Biological Psychology
+2026-04-22 19:51:09,185 - INFO - 
+Processing: Italy - Biological Psychology
+2026-04-22 19:51:09,185 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:09,185 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:09,287 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Italy\Biological Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:51:10,288 - INFO - 
+[297/317] Processing: Italy - Lab Work / Practical
+2026-04-22 19:51:10,288 - INFO - 
+Processing: Italy - Lab Work / Practical
+2026-04-22 19:51:10,288 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:10,289 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:10,369 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Italy\Lab Work _ Practical_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:51:11,373 - INFO - 
+[298/317] Processing: Italy - Developmental Psychology
+2026-04-22 19:51:11,373 - INFO - 
+Processing: Italy - Developmental Psychology
+2026-04-22 19:51:11,373 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:11,373 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:11,453 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Italy\Developmental Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:51:12,454 - INFO - 
+[299/317] Processing: Italy - Clinical Psychology
+2026-04-22 19:51:12,454 - INFO - 
+Processing: Italy - Clinical Psychology
+2026-04-22 19:51:12,454 - INFO - Alternatives: https://pressbooks.bccampus.ca/abnormalpsychology2019/
+2026-04-22 19:51:12,455 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/abnormalpsychology2019/
+2026-04-22 19:51:13,456 - INFO - 
+[300/317] Processing: Italy - Counselling Psychology
+2026-04-22 19:51:13,456 - INFO - 
+Processing: Italy - Counselling Psychology
+2026-04-22 19:51:13,456 - INFO - Alternatives: https://opentextbc.ca/psych/
+2026-04-22 19:51:13,457 - INFO - Flagged for manual review: https://opentextbc.ca/psych/
+2026-04-22 19:51:14,459 - INFO - 
+[301/317] Processing: Italy - Applied Statistics
+2026-04-22 19:51:14,459 - INFO - 
+Processing: Italy - Applied Statistics
+2026-04-22 19:51:14,459 - INFO - Alternatives: https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf
+2026-04-22 19:51:14,460 - INFO - Downloading (attempt 1/3): https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf
+2026-04-22 19:51:31,105 - INFO - Successfully downloaded: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Italy\Applied Statistics_IntroductoryStatistics-OP.pdf (29990560 bytes)
+2026-04-22 19:51:32,106 - INFO - 
+[302/317] Processing: Italy - Advanced Research Methods
+2026-04-22 19:51:32,106 - INFO - 
+Processing: Italy - Advanced Research Methods
+2026-04-22 19:51:32,106 - INFO - Alternatives: https://ocw.mit.edu/courses/brain-and-cognitive-sciences/
+2026-04-22 19:51:32,107 - INFO - Flagged for manual review: https://ocw.mit.edu/courses/brain-and-cognitive-sciences/
+2026-04-22 19:51:33,108 - INFO - 
+[303/317] Processing: Japan - History of Psychology
+2026-04-22 19:51:33,108 - INFO - 
+Processing: Japan - History of Psychology
+2026-04-22 19:51:33,108 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:33,108 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:33,188 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Japan\History of Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:51:34,189 - INFO - 
+[304/317] Processing: Japan - Cognitive Psychology
+2026-04-22 19:51:34,189 - INFO - 
+Processing: Japan - Cognitive Psychology
+2026-04-22 19:51:34,189 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:34,190 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:34,300 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Japan\Cognitive Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:51:35,301 - INFO - 
+[305/317] Processing: Japan - Social Psychology
+2026-04-22 19:51:35,301 - INFO - 
+Processing: Japan - Social Psychology
+2026-04-22 19:51:35,301 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:35,302 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:35,407 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Japan\Social Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:51:36,407 - INFO - 
+[306/317] Processing: Japan - Personality Psychology
+2026-04-22 19:51:36,407 - INFO - 
+Processing: Japan - Personality Psychology
+2026-04-22 19:51:36,408 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:36,409 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:36,517 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Japan\Personality Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:51:37,520 - INFO - 
+[307/317] Processing: Japan - Abnormal Psychology
+2026-04-22 19:51:37,520 - INFO - 
+Processing: Japan - Abnormal Psychology
+2026-04-22 19:51:37,520 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:37,520 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:37,720 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Japan\Abnormal Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:51:38,722 - INFO - 
+[308/317] Processing: Japan - Research Methods & Ethics
+2026-04-22 19:51:38,722 - INFO - 
+Processing: Japan - Research Methods & Ethics
+2026-04-22 19:51:38,722 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:38,722 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:38,919 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Japan\Research Methods & Ethics_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:51:39,921 - INFO - 
+[309/317] Processing: Japan - Health Psychology
+2026-04-22 19:51:39,921 - INFO - 
+Processing: Japan - Health Psychology
+2026-04-22 19:51:39,921 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:39,921 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:40,221 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Japan\Health Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:51:41,226 - INFO - 
+[310/317] Processing: Japan - Experimental Psychology
+2026-04-22 19:51:41,226 - INFO - 
+Processing: Japan - Experimental Psychology
+2026-04-22 19:51:41,226 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:41,226 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:41,463 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Japan\Experimental Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:51:42,464 - INFO - 
+[311/317] Processing: Japan - Biological Psychology
+2026-04-22 19:51:42,464 - INFO - 
+Processing: Japan - Biological Psychology
+2026-04-22 19:51:42,464 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:42,466 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:43,081 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Japan\Biological Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:51:44,082 - INFO - 
+[312/317] Processing: Japan - Lab Work / Practical
+2026-04-22 19:51:44,082 - INFO - 
+Processing: Japan - Lab Work / Practical
+2026-04-22 19:51:44,082 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:44,082 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:44,278 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Japan\Lab Work _ Practical_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:51:45,286 - INFO - 
+[313/317] Processing: Japan - Developmental Psychology
+2026-04-22 19:51:45,286 - INFO - 
+Processing: Japan - Developmental Psychology
+2026-04-22 19:51:45,286 - INFO - Alternatives: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:45,286 - INFO - Copying from cache: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Psychology2e_WEB.pdf
+2026-04-22 19:51:45,623 - INFO - Successfully copied: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Japan\Developmental Psychology_Psychology2e_WEB.pdf (87968924 bytes)
+2026-04-22 19:51:46,624 - INFO - 
+[314/317] Processing: Japan - Clinical Psychology
+2026-04-22 19:51:46,624 - INFO - 
+Processing: Japan - Clinical Psychology
+2026-04-22 19:51:46,624 - INFO - Alternatives: https://pressbooks.bccampus.ca/abnormalpsychology2019/
+2026-04-22 19:51:46,626 - INFO - Flagged for manual review: https://pressbooks.bccampus.ca/abnormalpsychology2019/
+2026-04-22 19:51:47,628 - INFO - 
+[315/317] Processing: Japan - Counselling Psychology
+2026-04-22 19:51:47,628 - INFO - 
+Processing: Japan - Counselling Psychology
+2026-04-22 19:51:47,628 - INFO - Alternatives: https://opentextbc.ca/psych/
+2026-04-22 19:51:47,628 - INFO - Flagged for manual review: https://opentextbc.ca/psych/
+2026-04-22 19:51:48,629 - INFO - 
+[316/317] Processing: Japan - Applied Statistics
+2026-04-22 19:51:48,629 - INFO - 
+Processing: Japan - Applied Statistics
+2026-04-22 19:51:48,629 - INFO - Alternatives: https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf
+2026-04-22 19:51:48,629 - INFO - Downloading (attempt 1/3): https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf
+2026-04-22 19:51:57,396 - INFO - Successfully downloaded: C:\Users\admin\Desktop\desktop\NEURO_MENTAL\docs\Japan\Applied Statistics_IntroductoryStatistics-OP.pdf (29990560 bytes)
+2026-04-22 19:51:58,398 - INFO - 
+[317/317] Processing: Japan - Advanced Research Methods
+2026-04-22 19:51:58,398 - INFO - 
+Processing: Japan - Advanced Research Methods
+2026-04-22 19:51:58,398 - INFO - Alternatives: https://ocw.mit.edu/courses/brain-and-cognitive-sciences/
+2026-04-22 19:51:58,398 - INFO - Flagged for manual review: https://ocw.mit.edu/courses/brain-and-cognitive-sciences/
+2026-04-22 19:51:59,423 - INFO - Manual review report saved to C:\Users\admin\Desktop\desktop\NEURO_MENTAL\scripts\manual_review_links.txt
+2026-04-22 19:51:59,555 - INFO - Summary report saved to C:\Users\admin\Desktop\desktop\NEURO_MENTAL\scripts\download_summary.txt
+2026-04-22 19:51:59,557 - INFO - 
+================================================================================
+2026-04-22 19:51:59,557 - INFO - Download process completed!
+2026-04-22 19:51:59,557 - INFO - ================================================================================

@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-05-01T09:16:42.007593",
+  "last_completed_batch": 99,
+  "total_batches": 99,
+  "processed_files": [
+    "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Abnormal Psychology_Psychology2e_WEB.pdf",
+    "C:\\Users\\admin\\Desktop\\desktop\\NEURO_MENTAL\\docs\\Applied Statistics_IntroductoryStatistics-OP.pdf"
+  ],
+  "pdfs_processed": 2,
+  "chunks_created": 2934,
+  "embeddings_stored": 2934,
+  "pdfs_failed": 0
+}
